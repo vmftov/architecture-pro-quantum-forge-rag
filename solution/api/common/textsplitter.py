@@ -1,7 +1,7 @@
 from typing import Any
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from transformers import AutoTokenizer
-from textencoder import TextEncoder
+from common.textencoder import TextEncoder
 
 # Верхняя граница размера чанка
 # Судя по статьям, для большинства retrieval-задач чанки > 1024 токенов редко дают выигрыш

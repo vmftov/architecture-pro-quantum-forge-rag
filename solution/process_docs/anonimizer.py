@@ -69,13 +69,13 @@ class MyGliner2Detector(BaseNERDetector):
 
 class CustomFaker:
     def __init__(self):
-        self.rng = random.Random(42)
+        self.rng = random.Random(11)
         self.syllables = self._create_syllables(256, self.rng)
 
     def _create_syllables(self, count: int, rng: random.Random):
-        vowels = ['a', 'e', 'i', 'o', 'u']
+        vowels = ['e', 'i', 'a', 'o', 'u']
         consonants = [
-            'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z'
+            'r', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'b', 'c', 'm', 'n', 'p', 'q', 't', 'v', 'w', 'x', 'y', 'z'
         ]
 
         def rand_vowel():
@@ -118,6 +118,7 @@ class MyPseudonymPlaceholderFactory(AnyPlaceholderFactory[PreservesLabeledIdenti
         self._custom_fake = CustomFaker()
         self.stopwords = set(self._load_stopwords("en_top_5000.txt"))
         self.nlp = spacy.load("en_core_web_sm")
+        self.nlp_target_poss = {"PROPN", "NOUN", "ADJ", "VERB", "ADV"}
 
     def _load_stopwords(self, file_path: str) -> list[str]:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -145,22 +146,26 @@ class MyPseudonymPlaceholderFactory(AnyPlaceholderFactory[PreservesLabeledIdenti
         return result
 
     def _get_pseudonym(self, entity_text: str, label: str) -> str:
-        # Проверяем многострочный текст
-        if " " in entity_text:
-            return " ".join([self._get_pseudonym(w, label) for w in entity_text.split()])
+        doc = self.nlp(entity_text)
+        if len(doc) == 0:
+            return entity_text
 
-        # Определяем нормальную форму
+        result_text = ""
+        for term in doc:
+            if len(term.text) > 1 and term.pos_ in self.nlp_target_poss:
+                result_text += self._get_single_pseudonym(term.lemma_, label)
+            else:
+                result_text += term.text
+            result_text += term.whitespace_
+        return result_text
+
+    def _get_single_pseudonym(self, entity_text: str, label: str) -> str:
+        #
         norm_entity_text = entity_text.lower()
-        doc = self.nlp(norm_entity_text)
-        if len(doc) > 0:
-            norm_entity_text = " ".join([term.lemma_ for term in doc])
 
         # Проверяем исключений
         if norm_entity_text in self.stopwords:
             return entity_text
-        for term in doc:
-            if term.lemma_ in self.stopwords:
-                return entity_text
 
         # Test
         # return f"<<{label}>>"
@@ -181,18 +186,18 @@ class MyPseudonymPlaceholderFactory(AnyPlaceholderFactory[PreservesLabeledIdenti
         return pseudonym
 
     def _generate_new_pseudonym(self, label: str):
-        if label == "person":
-            return self._fake.first_name()
+        # if label == "person":
+        #     return self._fake.first_name()
 
-        if label == "first_name":
-            return self._fake.first_name()
-        if label == "middle_name":
-            return self._fake.first_name()
-        if label == "last_name":
-            return self._fake.last_name()
+        # if label == "first_name":
+        #     return self._fake.first_name()
+        # if label == "middle_name":
+        #     return self._fake.first_name()
+        # if label == "last_name":
+        #     return self._fake.last_name()
 
-        if label == "droid":
-            return self._fake.first_name()
+        # if label == "droid":
+        #     return self._fake.first_name()
 
         if label == "organization":
             return self._fake.company()
@@ -220,7 +225,7 @@ class TextAnonimizer:
                 "transport",
                 "event"
             ],
-            threshold=0.45,
+            threshold=0.42,
             map_location=device
         )
 

@@ -3,7 +3,7 @@ from datetime import datetime
 from typing import Any
 
 from qdrant_client import QdrantClient, models
-from textencoder import TextEncoder
+from common.textencoder import TextEncoder
 
 
 @dataclass

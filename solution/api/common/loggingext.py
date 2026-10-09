@@ -17,9 +17,17 @@ def init_logging(logger_level: str):
     logger.setLevel(get_logger_level(logger_level))
     logger.handlers.clear()
 
+    formatter = UTCJsonFormatter("%(asctime)s %(levelname)s %(name)s %(message)s", json_ensure_ascii=False)
+
+    # Terminal
     handler = logging.StreamHandler()
-    handler.setFormatter(UTCJsonFormatter("%(asctime)s %(levelname)s %(name)s %(message)s", json_ensure_ascii=False))
+    handler.setFormatter(formatter)
     logger.addHandler(handler)
+
+    # File
+    file_handler = logging.FileHandler("log_file.txt", encoding="utf-8")
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
 
 
 def get_logger_level(logger_level: str):

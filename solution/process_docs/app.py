@@ -5,20 +5,25 @@
 # - Сохраняет в отдельный бакет S3
 # - Формирует эмбеддинги
 # - Сохраняет из в Qdrant
+# - Синхронизирует изменения
+# - Удаляет эмбеддинги и данные для удалённых документов
 
 import logging
 from pathlib import Path
-from loggingext import init_logging
 import os
 import asyncio
 import uuid
+
 from anonimizer import TextAnonimizer
 from htmltextextractor import HtmlTextExtractor
 from knownfiles import KnownFilesMetadata, KnownFileInfo
 from s3utils import S3Bucket, S3File, create_s3_client
-from textencoder import TextEncoder
-from textsplitter import TextSplitter
-from qdrantsearcher import EmbeddingMetadata, QdrantSemanticSearcher
+
+from common.loggingext import init_logging
+from common.textsplitter import TextSplitter
+from common.textencoder import TextEncoder
+from common.timecounter import SumTimeCounter
+from common.qdrantsearcher import EmbeddingMetadata, QdrantSemanticSearcher
 
 
 class Main:
@@ -63,9 +68,9 @@ class Main:
             self.splitter = TextSplitter(self.encoder, show_stats=True)
 
             self.logger.debug(f"Подключение к Qdrant")
-            self.qdrand_man = QdrantSemanticSearcher(qdrant_url, "docs")
+            self.qdrant_man = QdrantSemanticSearcher(qdrant_url, "docs")
             # collection_exists = self.searcher.collection_exists()
-            self.qdrand_man.init_collection(self.encoder)
+            self.qdrant_man.init_collection(self.encoder)
 
             self.logger.debug(f"Определение изменений")
             new_files, changed_files, removed_files = self._find_changes(orig_files)
@@ -76,6 +81,10 @@ class Main:
                 )
             else:
                 self.logger.info(f"Изменений в файлах не обнаружено")
+
+            self.extract_time_counter = SumTimeCounter()
+            self.anon_time_counter = SumTimeCounter()
+            self.emb_time_counter = SumTimeCounter()
 
             if len(changed_files) > 0 or len(removed_files) > 0:
                 self.logger.debug(f"Удаление изменившихся и удалённых файлов")
@@ -92,6 +101,11 @@ class Main:
 
             self.logger.debug(f"Сохранение словаря терминов")
             self.knowledge_base_bucket.put_file_text(terms_map_key, self.anonymizer.get_terms_map())
+
+            self.logger.info(f"Подсистема обновления базы знаний RAG-ассистента завершила работу")
+            self.logger.info(f"Суммарное время извлечения полезного текста: {self.extract_time_counter.elapsed_fmt()}")
+            self.logger.info(f"Суммарное время анонимизации текста: {self.anon_time_counter.elapsed_fmt()}")
+            self.logger.info(f"Суммарное время формирования эмбеддингов: {self.emb_time_counter.elapsed_fmt()}")
         except Exception as e:
             if self.logger:
                 self.logger.error(f"При обработке изменений произошла ошибка: {e}")
@@ -136,7 +150,7 @@ class Main:
                 self.logger.info(f"Удаление данных файла '{exist_file.orig_key}'")
 
                 self.logger.debug(f"Удаление эмбеддингов для файла '{exist_file.anon_key}'")
-                self.qdrand_man.delete_embeddings({"doc_id": exist_file.orig_key})
+                self.qdrant_man.delete_embeddings({"doc_id": exist_file.orig_key})
 
                 self.logger.debug(f"Удаление файла '{exist_file.anon_key}'")
                 self.knowledge_base_bucket.delete_file(exist_file.anon_key)
@@ -165,15 +179,23 @@ class Main:
                 html_content = self.orig_docs_bucket.try_get_file_text(orig_file.key)
 
                 self.logger.debug(f"Извлечение текста из файла '{orig_file.key}'")
+                self.extract_time_counter.start()
                 asis_content = text_extractor.extract_markdown_from_html(html_content)
+                self.extract_time_counter.stop()
 
                 self.logger.debug(f"Анонимизация файла '{known_anon_file_key}'")
+                self.anon_time_counter.start()
                 anon_content = await self.anonymizer.anonymize(asis_content)
+                self.anon_time_counter.stop()
 
                 self.logger.debug(f"Формирование эмбеддингов '{known_anon_file_key}'")
+                self.emb_time_counter.start()
                 docs = self.splitter.split_texts([anon_content])
+                self.emb_time_counter.stop()
                 if docs:
+                    self.emb_time_counter.start()
                     embeddings = self.encoder.encode_text([d.page_content for d in docs], show_progress_bar=False)
+                    self.emb_time_counter.stop()
                     for doc, emb in zip(docs, embeddings):
                         metadata = EmbeddingMetadata(
                             id=str(uuid.uuid4()),
@@ -186,7 +208,7 @@ class Main:
                             end_index=doc.metadata["start_index"] + len(doc.page_content),
                             text=doc.page_content
                         )
-                        self.qdrand_man.append_single_embedding(emb, metadata)
+                        self.qdrant_man.append_single_embedding(emb, metadata)
 
                 self.logger.debug(f"Сохранение исходного текста в файл '{known_asis_file_key}'")
                 self.knowledge_base_bucket.put_file_text(known_asis_file_key, asis_content)

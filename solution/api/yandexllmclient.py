@@ -1,6 +1,7 @@
 import requests
 from qdrant_client import models
-from _6_create_embeddings.prompt_manager import PromptManager
+
+from promptmanager import PromptManager
 
 
 class YandexLlmClient:

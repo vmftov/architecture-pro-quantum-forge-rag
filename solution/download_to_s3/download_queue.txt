@@ -9,8 +9,6 @@ https://starwars.fandom.com/wiki/Obi-Wan_Kenobi
 https://starwars.fandom.com/wiki/Yoda
 https://starwars.fandom.com/wiki/Palpatine
 https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala_Naberrie
-https://starwars.fandom.com/wiki/R2-D2
-https://starwars.fandom.com/wiki/C-3PO
 https://starwars.fandom.com/wiki/Boba_Fett
 
 # transport
@@ -35,10 +33,6 @@ https://starwars.fandom.com/wiki/Kamino
 https://starwars.fandom.com/wiki/Death_Star
 https://starwars.fandom.com/wiki/Lightsaber
 https://starwars.fandom.com/wiki/Blaster
-
-# utils
-
-https://starwars.fandom.com/wiki/Droid
 
 # events
 
