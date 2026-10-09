@@ -1,0 +1,2512 @@
+[
+    {
+        "text": "Battle of Yavin",
+        "start": 2,
+        "end": 17
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 23,
+        "end": 38
+    },
+    {
+        "text": "Death Star",
+        "start": 72,
+        "end": 82
+    },
+    {
+        "text": "Miracle of Yavin",
+        "start": 90,
+        "end": 106
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 147,
+        "end": 165
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 180,
+        "end": 194
+    },
+    {
+        "text": "Death Star",
+        "start": 219,
+        "end": 229
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 288,
+        "end": 303
+    },
+    {
+        "text": "Battle of Scarif",
+        "start": 23,
+        "end": 39
+    },
+    {
+        "text": "Jyn Erso",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "text": "Cassian Andor",
+        "start": 54,
+        "end": 67
+    },
+    {
+        "text": "Imperial",
+        "start": 134,
+        "end": 142
+    },
+    {
+        "text": "Death Star",
+        "start": 171,
+        "end": 181
+    },
+    {
+        "text": "Alliance Fleet",
+        "start": 207,
+        "end": 221
+    },
+    {
+        "text": "Princess Leia Organa",
+        "start": 264,
+        "end": 284
+    },
+    {
+        "text": "Imperial forces",
+        "start": 0,
+        "end": 15
+    },
+    {
+        "text": "Dark Lord of the Sith",
+        "start": 41,
+        "end": 62
+    },
+    {
+        "text": "Darth Vader",
+        "start": 64,
+        "end": 75
+    },
+    {
+        "text": "Princess Leia",
+        "start": 91,
+        "end": 104
+    },
+    {
+        "text": "Tantive IV",
+        "start": 125,
+        "end": 135
+    },
+    {
+        "text": "Princess Leia",
+        "start": 0,
+        "end": 13
+    },
+    {
+        "text": "Death Star",
+        "start": 44,
+        "end": 54
+    },
+    {
+        "text": "Lord Vader",
+        "start": 58,
+        "end": 68
+    },
+    {
+        "text": "Grand Moff Wilhuff Tarkin",
+        "start": 72,
+        "end": 97
+    },
+    {
+        "text": "Princess",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "Han Solo",
+        "start": 80,
+        "end": 88
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 109,
+        "end": 123
+    },
+    {
+        "text": "Tatooine",
+        "start": 146,
+        "end": 154
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 161,
+        "end": 175
+    },
+    {
+        "text": "Wookiee",
+        "start": 204,
+        "end": 211
+    },
+    {
+        "text": "Chewbacca",
+        "start": 218,
+        "end": 227
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 31,
+        "end": 45
+    },
+    {
+        "text": "R2-D2",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "C-3PO",
+        "start": 63,
+        "end": 68
+    },
+    {
+        "text": "Death Star",
+        "start": 91,
+        "end": 101
+    },
+    {
+        "text": "Rebel base",
+        "start": 121,
+        "end": 131
+    },
+    {
+        "text": "Yavin 4",
+        "start": 135,
+        "end": 142
+    },
+    {
+        "text": "Tarkin",
+        "start": 162,
+        "end": 168
+    },
+    {
+        "text": "battle station",
+        "start": 177,
+        "end": 191
+    },
+    {
+        "text": "Organa",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "Chancellor Mon Mothma",
+        "start": 23,
+        "end": 44
+    },
+    {
+        "text": "shuttle",
+        "start": 68,
+        "end": 75
+    },
+    {
+        "text": "General Dodonna",
+        "start": 80,
+        "end": 95
+    },
+    {
+        "text": "rebellion",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "contingency plan",
+        "start": 37,
+        "end": 53
+    },
+    {
+        "text": "surrender",
+        "start": 55,
+        "end": 64
+    },
+    {
+        "text": "Emperor Palpatine",
+        "start": 68,
+        "end": 85
+    },
+    {
+        "text": "General Jan Dodonna",
+        "start": 0,
+        "end": 19
+    },
+    {
+        "text": "rebel pilots",
+        "start": 32,
+        "end": 44
+    },
+    {
+        "text": "plan",
+        "start": 52,
+        "end": 56
+    },
+    {
+        "text": "Death Star",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "large-scale assault",
+        "start": 54,
+        "end": 73
+    },
+    {
+        "text": "one-man starfighters",
+        "start": 16,
+        "end": 36
+    },
+    {
+        "text": "Rebels",
+        "start": 42,
+        "end": 48
+    },
+    {
+        "text": "Death Star",
+        "start": 72,
+        "end": 82
+    },
+    {
+        "text": "main defenses",
+        "start": 85,
+        "end": 98
+    },
+    {
+        "text": "narrow trench",
+        "start": 116,
+        "end": 129
+    },
+    {
+        "text": "exhaust port",
+        "start": 145,
+        "end": 157
+    },
+    {
+        "text": "proton torpedoes",
+        "start": 168,
+        "end": 184
+    },
+    {
+        "text": "exhaust port",
+        "start": 194,
+        "end": 206
+    },
+    {
+        "text": "battle station",
+        "start": 54,
+        "end": 68
+    },
+    {
+        "text": "Imperial",
+        "start": 86,
+        "end": 94
+    },
+    {
+        "text": "Galen Erso",
+        "start": 105,
+        "end": 115
+    },
+    {
+        "text": "thermal exhaust port",
+        "start": 125,
+        "end": 145
+    },
+    {
+        "text": "main reactor",
+        "start": 161,
+        "end": 173
+    },
+    {
+        "text": "proton torpedo",
+        "start": 2,
+        "end": 16
+    },
+    {
+        "text": "port",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "text": "battle station",
+        "start": 89,
+        "end": 103
+    },
+    {
+        "text": "Death Star",
+        "start": 42,
+        "end": 52
+    },
+    {
+        "text": "Y-wings",
+        "start": 66,
+        "end": 73
+    },
+    {
+        "text": "Gold Squadron",
+        "start": 79,
+        "end": 92
+    },
+    {
+        "text": "X-wings",
+        "start": 97,
+        "end": 104
+    },
+    {
+        "text": "Red Squadron",
+        "start": 110,
+        "end": 122
+    },
+    {
+        "text": "Green Squadron",
+        "start": 127,
+        "end": 141
+    },
+    {
+        "text": "attack plan",
+        "start": 175,
+        "end": 186
+    },
+    {
+        "text": "Death Star",
+        "start": 56,
+        "end": 66
+    },
+    {
+        "text": "Y-wings",
+        "start": 70,
+        "end": 77
+    },
+    {
+        "text": "Gold Squadron",
+        "start": 83,
+        "end": 96
+    },
+    {
+        "text": "X-wings",
+        "start": 111,
+        "end": 118
+    },
+    {
+        "text": "Red Squadron",
+        "start": 128,
+        "end": 140
+    },
+    {
+        "text": "Green Squadron",
+        "start": 163,
+        "end": 177
+    },
+    {
+        "text": "starfighters",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "turret emplacements",
+        "start": 36,
+        "end": 55
+    },
+    {
+        "text": "Red Six",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Jek Tono Porkins",
+        "start": 9,
+        "end": 25
+    },
+    {
+        "text": "turret fire",
+        "start": 74,
+        "end": 85
+    },
+    {
+        "text": "deployment",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Imperial TIE fighters",
+        "start": 18,
+        "end": 39
+    },
+    {
+        "text": "Lieutenant Iden Versio",
+        "start": 66,
+        "end": 88
+    },
+    {
+        "text": "Rebel attackers",
+        "start": 105,
+        "end": 120
+    },
+    {
+        "text": "station",
+        "start": 179,
+        "end": 186
+    },
+    {
+        "text": "weapon emplacements",
+        "start": 189,
+        "end": 208
+    },
+    {
+        "text": "Red Four",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "John D.",
+        "start": 10,
+        "end": 17
+    },
+    {
+        "text": "Branon",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "TIEs",
+        "start": 54,
+        "end": 58
+    },
+    {
+        "text": "battle",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "text": "Rebels",
+        "start": 19,
+        "end": 25
+    },
+    {
+        "text": "temple",
+        "start": 33,
+        "end": 39
+    },
+    {
+        "text": "pilots",
+        "start": 51,
+        "end": 57
+    },
+    {
+        "text": "command center",
+        "start": 107,
+        "end": 121
+    },
+    {
+        "text": "Fighter Boss",
+        "start": 134,
+        "end": 146
+    },
+    {
+        "text": "Nera Kase",
+        "start": 147,
+        "end": 156
+    },
+    {
+        "text": "She",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Rebel",
+        "start": 16,
+        "end": 21
+    },
+    {
+        "text": "starfighter",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "battle",
+        "start": 69,
+        "end": 75
+    },
+    {
+        "text": "battle",
+        "start": 19,
+        "end": 25
+    },
+    {
+        "text": "Imperial",
+        "start": 27,
+        "end": 35
+    },
+    {
+        "text": "Jude Edivon",
+        "start": 44,
+        "end": 55
+    },
+    {
+        "text": "Death Star",
+        "start": 67,
+        "end": 77
+    },
+    {
+        "text": "Rebels",
+        "start": 107,
+        "end": 113
+    },
+    {
+        "text": "attack strategy",
+        "start": 115,
+        "end": 130
+    },
+    {
+        "text": "Grand Moff Tarkin",
+        "start": 9,
+        "end": 26
+    },
+    {
+        "text": "Lieutenant Tanbris",
+        "start": 12,
+        "end": 30
+    },
+    {
+        "text": "Rebels",
+        "start": 40,
+        "end": 46
+    },
+    {
+        "text": "turbolaser",
+        "start": 65,
+        "end": 75
+    },
+    {
+        "text": "Vader",
+        "start": 82,
+        "end": 87
+    },
+    {
+        "text": "TIE fighters",
+        "start": 128,
+        "end": 140
+    },
+    {
+        "text": "Rebel fighters",
+        "start": 166,
+        "end": 180
+    },
+    {
+        "text": "Imperial squadron",
+        "start": 23,
+        "end": 40
+    },
+    {
+        "text": "battle",
+        "start": 61,
+        "end": 67
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "TIE Advanced",
+        "start": 75,
+        "end": 87
+    },
+    {
+        "text": "Black Leader",
+        "start": 91,
+        "end": 103
+    },
+    {
+        "text": "Black Squadron",
+        "start": 38,
+        "end": 52
+    },
+    {
+        "text": "TIE",
+        "start": 58,
+        "end": 61
+    },
+    {
+        "text": "Backstabber",
+        "start": 74,
+        "end": 85
+    },
+    {
+        "text": "Black Two Mithel",
+        "start": 91,
+        "end": 107
+    },
+    {
+        "text": "Trench run",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "attack run",
+        "start": 26,
+        "end": 36
+    },
+    {
+        "text": "Y-wings",
+        "start": 64,
+        "end": 71
+    },
+    {
+        "text": "Gold Squadron",
+        "start": 77,
+        "end": 90
+    },
+    {
+        "text": "Y-wings",
+        "start": 10,
+        "end": 17
+    },
+    {
+        "text": "Gold Leader",
+        "start": 26,
+        "end": 37
+    },
+    {
+        "text": "Jon Vander",
+        "start": 39,
+        "end": 49
+    },
+    {
+        "text": "Gold Two",
+        "start": 56,
+        "end": 64
+    },
+    {
+        "text": "Dex Tiree",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Gold Five",
+        "start": 81,
+        "end": 90
+    },
+    {
+        "text": "Davish Krail",
+        "start": 92,
+        "end": 104
+    },
+    {
+        "text": "exhaust port",
+        "start": 149,
+        "end": 161
+    },
+    {
+        "text": "Vader",
+        "start": 184,
+        "end": 189
+    },
+    {
+        "text": "trench run",
+        "start": 9,
+        "end": 19
+    },
+    {
+        "text": "X-wings",
+        "start": 47,
+        "end": 54
+    },
+    {
+        "text": "Red Squadron",
+        "start": 60,
+        "end": 72
+    },
+    {
+        "text": "Red Leader",
+        "start": 82,
+        "end": 92
+    },
+    {
+        "text": "Garven Dreis",
+        "start": 94,
+        "end": 106
+    },
+    {
+        "text": "Red Ten",
+        "start": 109,
+        "end": 116
+    },
+    {
+        "text": "Theron Nett",
+        "start": 118,
+        "end": 129
+    },
+    {
+        "text": "Red Twelve",
+        "start": 136,
+        "end": 146
+    },
+    {
+        "text": "Puck Naeco",
+        "start": 148,
+        "end": 158
+    },
+    {
+        "text": "Darth Vader",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Nett",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "Naeco",
+        "start": 32,
+        "end": 37
+    },
+    {
+        "text": "Dreis",
+        "start": 43,
+        "end": 48
+    },
+    {
+        "text": "exhaust port",
+        "start": 84,
+        "end": 96
+    },
+    {
+        "text": "proton torpedoes",
+        "start": 13,
+        "end": 29
+    },
+    {
+        "text": "surface",
+        "start": 69,
+        "end": 76
+    },
+    {
+        "text": "Dark Lord",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "Dreis",
+        "start": 41,
+        "end": 46
+    },
+    {
+        "text": "attack run",
+        "start": 63,
+        "end": 73
+    },
+    {
+        "text": "Red Leader",
+        "start": 31,
+        "end": 41
+    },
+    {
+        "text": "Red Five",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 53,
+        "end": 67
+    },
+    {
+        "text": "Red Two",
+        "start": 96,
+        "end": 103
+    },
+    {
+        "text": "Wedge Antilles",
+        "start": 105,
+        "end": 119
+    },
+    {
+        "text": "Red Three",
+        "start": 125,
+        "end": 134
+    },
+    {
+        "text": "Biggs Darklighter",
+        "start": 156,
+        "end": 173
+    },
+    {
+        "text": "trench",
+        "start": 17,
+        "end": 23
+    },
+    {
+        "text": "Vader",
+        "start": 80,
+        "end": 85
+    },
+    {
+        "text": "fighters",
+        "start": 94,
+        "end": 102
+    },
+    {
+        "text": "Vader",
+        "start": 7,
+        "end": 12
+    },
+    {
+        "text": "Antilles",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "fighter",
+        "start": 41,
+        "end": 48
+    },
+    {
+        "text": "Vader",
+        "start": 83,
+        "end": 88
+    },
+    {
+        "text": "Darklighter",
+        "start": 110,
+        "end": 121
+    },
+    {
+        "text": "X-wing",
+        "start": 124,
+        "end": 130
+    },
+    {
+        "text": "Skywalker",
+        "start": 140,
+        "end": 149
+    },
+    {
+        "text": "Rebel leaders",
+        "start": 24,
+        "end": 37
+    },
+    {
+        "text": "young pilot",
+        "start": 62,
+        "end": 73
+    },
+    {
+        "text": "targeting system",
+        "start": 90,
+        "end": 106
+    },
+    {
+        "text": "Skywalker",
+        "start": 128,
+        "end": 137
+    },
+    {
+        "text": "Kenobi",
+        "start": 207,
+        "end": 213
+    },
+    {
+        "text": "Vader",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "fighter",
+        "start": 70,
+        "end": 77
+    },
+    {
+        "text": "R2-D2",
+        "start": 132,
+        "end": 137
+    },
+    {
+        "text": "fighter",
+        "start": 162,
+        "end": 169
+    },
+    {
+        "text": "astromech droid",
+        "start": 172,
+        "end": 187
+    },
+    {
+        "text": "Dark Lord",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "Backstabber",
+        "start": 73,
+        "end": 84
+    },
+    {
+        "text": "attack",
+        "start": 19,
+        "end": 25
+    },
+    {
+        "text": "Millennium Falcon",
+        "start": 34,
+        "end": 51
+    },
+    {
+        "text": "star",
+        "start": 77,
+        "end": 81
+    },
+    {
+        "text": "Han Solo",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Chewbacca",
+        "start": 13,
+        "end": 22
+    },
+    {
+        "text": "Rebels",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "assault",
+        "start": 75,
+        "end": 82
+    },
+    {
+        "text": "Skywalker",
+        "start": 116,
+        "end": 125
+    },
+    {
+        "text": "Chewbacca",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Solo",
+        "start": 26,
+        "end": 30
+    },
+    {
+        "text": "Solo",
+        "start": 47,
+        "end": 51
+    },
+    {
+        "text": "Skywalker",
+        "start": 133,
+        "end": 142
+    },
+    {
+        "text": "Death Star",
+        "start": 23,
+        "end": 33
+    },
+    {
+        "text": "intervention",
+        "start": 65,
+        "end": 77
+    },
+    {
+        "text": "Dark Lord",
+        "start": 83,
+        "end": 92
+    },
+    {
+        "text": "Mithel",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "ship",
+        "start": 138,
+        "end": 142
+    },
+    {
+        "text": "TIE fighter",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "pilot",
+        "start": 16,
+        "end": 21
+    },
+    {
+        "text": "trench",
+        "start": 48,
+        "end": 54
+    },
+    {
+        "text": "Vader",
+        "start": 67,
+        "end": 72
+    },
+    {
+        "text": "Death Star",
+        "start": 87,
+        "end": 97
+    },
+    {
+        "text": "Skywalker",
+        "start": 116,
+        "end": 125
+    },
+    {
+        "text": "torpedoes",
+        "start": 31,
+        "end": 40
+    },
+    {
+        "text": "trench",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "shaft",
+        "start": 79,
+        "end": 84
+    },
+    {
+        "text": "X-wings",
+        "start": 117,
+        "end": 124
+    },
+    {
+        "text": "Y-wing",
+        "start": 145,
+        "end": 151
+    },
+    {
+        "text": "aging freighter",
+        "start": 160,
+        "end": 175
+    },
+    {
+        "text": "Yavin 4",
+        "start": 185,
+        "end": 192
+    },
+    {
+        "text": "rebel",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "Skywalker",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "Antilles",
+        "start": 47,
+        "end": 55
+    },
+    {
+        "text": "Gold Three",
+        "start": 61,
+        "end": 71
+    },
+    {
+        "text": "Evaan Verlaine",
+        "start": 73,
+        "end": 87
+    },
+    {
+        "text": "Overbridge",
+        "start": 7,
+        "end": 17
+    },
+    {
+        "text": "Governor Tarkin",
+        "start": 50,
+        "end": 65
+    },
+    {
+        "text": "battle",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "technicians",
+        "start": 105,
+        "end": 116
+    },
+    {
+        "text": "moments",
+        "start": 134,
+        "end": 141
+    },
+    {
+        "text": "firing",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "superlaser",
+        "start": 24,
+        "end": 34
+    },
+    {
+        "text": "moon",
+        "start": 56,
+        "end": 60
+    },
+    {
+        "text": "torpedoes",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "reactor",
+        "start": 87,
+        "end": 94
+    },
+    {
+        "text": "station",
+        "start": 103,
+        "end": 110
+    },
+    {
+        "text": "Yavin 4",
+        "start": 151,
+        "end": 158
+    },
+    {
+        "text": "explosion",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "Death Star",
+        "start": 21,
+        "end": 31
+    },
+    {
+        "text": "ground",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "Yavin 8",
+        "start": 65,
+        "end": 72
+    },
+    {
+        "text": "sky",
+        "start": 97,
+        "end": 100
+    },
+    {
+        "text": "Yavin 8",
+        "start": 127,
+        "end": 134
+    },
+    {
+        "text": "Death Star",
+        "start": 43,
+        "end": 53
+    },
+    {
+        "text": "Lieutenant Commander Ellian Zahra",
+        "start": 55,
+        "end": 88
+    },
+    {
+        "text": "stormtrooper",
+        "start": 99,
+        "end": 111
+    },
+    {
+        "text": "Lambda-class T-4a shuttle",
+        "start": 124,
+        "end": 149
+    },
+    {
+        "text": "Burnium Ro",
+        "start": 211,
+        "end": 221
+    },
+    {
+        "text": "She",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "battle station",
+        "start": 20,
+        "end": 34
+    },
+    {
+        "text": "she",
+        "start": 47,
+        "end": 50
+    },
+    {
+        "text": "Death Star",
+        "start": 69,
+        "end": 79
+    },
+    {
+        "text": "starship",
+        "start": 103,
+        "end": 111
+    },
+    {
+        "text": "her",
+        "start": 124,
+        "end": 127
+    },
+    {
+        "text": "battle station",
+        "start": 29,
+        "end": 43
+    },
+    {
+        "text": "Imperial-class Star Destroyer",
+        "start": 49,
+        "end": 78
+    },
+    {
+        "text": "Fortitude",
+        "start": 88,
+        "end": 97
+    },
+    {
+        "text": "Death Star",
+        "start": 120,
+        "end": 130
+    },
+    {
+        "text": "Aftermath",
+        "start": 3,
+        "end": 12
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 18,
+        "end": 32
+    },
+    {
+        "text": "Skywalker",
+        "start": 34,
+        "end": 43
+    },
+    {
+        "text": "Solo",
+        "start": 45,
+        "end": 49
+    },
+    {
+        "text": "Yavin",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "celebration ceremony",
+        "start": 121,
+        "end": 141
+    },
+    {
+        "text": "Rebellion",
+        "start": 211,
+        "end": 220
+    },
+    {
+        "text": "Mothma",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "victory",
+        "start": 28,
+        "end": 35
+    },
+    {
+        "text": "contingency plan",
+        "start": 63,
+        "end": 79
+    },
+    {
+        "text": "Palpatine",
+        "start": 96,
+        "end": 105
+    },
+    {
+        "text": "Antilles",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Skywalker",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Antilles",
+        "start": 97,
+        "end": 105
+    },
+    {
+        "text": "battle",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "Rebels",
+        "start": 30,
+        "end": 36
+    },
+    {
+        "text": "Empire",
+        "start": 97,
+        "end": 103
+    },
+    {
+        "text": "Wild Space",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "Emil Graf",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "battle",
+        "start": 74,
+        "end": 80
+    },
+    {
+        "text": "rebels",
+        "start": 86,
+        "end": 92
+    },
+    {
+        "text": "evacuation",
+        "start": 94,
+        "end": 104
+    },
+    {
+        "text": "Imperial Star Destroyer",
+        "start": 135,
+        "end": 158
+    },
+    {
+        "text": "base",
+        "start": 191,
+        "end": 195
+    },
+    {
+        "text": "evacuation",
+        "start": 207,
+        "end": 217
+    },
+    {
+        "text": "rebels",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Star Destroyer",
+        "start": 46,
+        "end": 60
+    },
+    {
+        "text": "weapons",
+        "start": 101,
+        "end": 108
+    },
+    {
+        "text": "base",
+        "start": 136,
+        "end": 140
+    },
+    {
+        "text": "minutes",
+        "start": 148,
+        "end": 155
+    },
+    {
+        "text": "Verlaine",
+        "start": 10,
+        "end": 18
+    },
+    {
+        "text": "ship",
+        "start": 34,
+        "end": 38
+    },
+    {
+        "text": "target",
+        "start": 64,
+        "end": 70
+    },
+    {
+        "text": "evacuation",
+        "start": 81,
+        "end": 91
+    },
+    {
+        "text": "Imperials",
+        "start": 21,
+        "end": 30
+    },
+    {
+        "text": "Destroyer",
+        "start": 55,
+        "end": 64
+    },
+    {
+        "text": "Empire",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "text": "Death Star",
+        "start": 72,
+        "end": 82
+    },
+    {
+        "text": "Rebels",
+        "start": 88,
+        "end": 94
+    },
+    {
+        "text": "raids",
+        "start": 122,
+        "end": 127
+    },
+    {
+        "text": "Imperial targets",
+        "start": 136,
+        "end": 152
+    },
+    {
+        "text": "Empire",
+        "start": 182,
+        "end": 188
+    },
+    {
+        "text": "Kuat",
+        "start": 55,
+        "end": 59
+    },
+    {
+        "text": "Imdaar",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "Rebel",
+        "start": 91,
+        "end": 96
+    },
+    {
+        "text": "Leia Organa",
+        "start": 114,
+        "end": 125
+    },
+    {
+        "text": "Han Solo",
+        "start": 127,
+        "end": 135
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 140,
+        "end": 154
+    },
+    {
+        "text": "Empire",
+        "start": 183,
+        "end": 189
+    },
+    {
+        "text": "Cymoon 1",
+        "start": 220,
+        "end": 228
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 4,
+        "end": 19
+    },
+    {
+        "text": "Star Destroyer Fortitude",
+        "start": 25,
+        "end": 49
+    },
+    {
+        "text": "Death Star",
+        "start": 89,
+        "end": 99
+    },
+    {
+        "text": "ship",
+        "start": 33,
+        "end": 37
+    },
+    {
+        "text": "ship",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "text": "shipyard",
+        "start": 56,
+        "end": 64
+    },
+    {
+        "text": "Imperials",
+        "start": 133,
+        "end": 142
+    },
+    {
+        "text": "ship",
+        "start": 190,
+        "end": 194
+    },
+    {
+        "text": "Empire",
+        "start": 224,
+        "end": 230
+    },
+    {
+        "text": "Tarkin",
+        "start": 250,
+        "end": 256
+    },
+    {
+        "text": "Lord Vader",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "Imperials",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "battle",
+        "start": 62,
+        "end": 68
+    },
+    {
+        "text": "TIE Advanced x1",
+        "start": 99,
+        "end": 114
+    },
+    {
+        "text": "Imperial",
+        "start": 118,
+        "end": 126
+    },
+    {
+        "text": "Ciena Ree",
+        "start": 134,
+        "end": 143
+    },
+    {
+        "text": "Berisse Sai",
+        "start": 148,
+        "end": 159
+    },
+    {
+        "text": "Iden Versio",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Death Star",
+        "start": 36,
+        "end": 46
+    },
+    {
+        "text": "explosion",
+        "start": 49,
+        "end": 58
+    },
+    {
+        "text": "TIE Fighter",
+        "start": 89,
+        "end": 100
+    },
+    {
+        "text": "Yavin 4",
+        "start": 104,
+        "end": 111
+    },
+    {
+        "text": "jungle",
+        "start": 158,
+        "end": 164
+    },
+    {
+        "text": "she",
+        "start": 7,
+        "end": 10
+    },
+    {
+        "text": "transport",
+        "start": 42,
+        "end": 51
+    },
+    {
+        "text": "Rebel Base",
+        "start": 61,
+        "end": 71
+    },
+    {
+        "text": "festivities",
+        "start": 83,
+        "end": 94
+    },
+    {
+        "text": "defeat",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Tarkin",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "text": "He",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "text": "station",
+        "start": 24,
+        "end": 31
+    },
+    {
+        "text": "TIEs",
+        "start": 78,
+        "end": 82
+    },
+    {
+        "text": "squadron",
+        "start": 35,
+        "end": 43
+    },
+    {
+        "text": "Vader",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "text": "Grand Moff",
+        "start": 16,
+        "end": 26
+    },
+    {
+        "text": "Empire",
+        "start": 74,
+        "end": 80
+    },
+    {
+        "text": "rebels",
+        "start": 104,
+        "end": 110
+    },
+    {
+        "text": "Death Star",
+        "start": 23,
+        "end": 33
+    },
+    {
+        "text": "Empire",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Alliance to Restore the Republic",
+        "start": 105,
+        "end": 137
+    },
+    {
+        "text": "Cassio Tagge",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Emperor Palpatine",
+        "start": 53,
+        "end": 70
+    },
+    {
+        "text": "Death Star",
+        "start": 120,
+        "end": 130
+    },
+    {
+        "text": "Empire",
+        "start": 157,
+        "end": 163
+    },
+    {
+        "text": "rebel",
+        "start": 204,
+        "end": 209
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Palpatine",
+        "start": 47,
+        "end": 56
+    },
+    {
+        "text": "Death Star",
+        "start": 142,
+        "end": 152
+    },
+    {
+        "text": "Tagge",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "text": "Thane Kyrell",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Imperials",
+        "start": 27,
+        "end": 36
+    },
+    {
+        "text": "Rebel base",
+        "start": 64,
+        "end": 74
+    },
+    {
+        "text": "Dantooine",
+        "start": 78,
+        "end": 87
+    },
+    {
+        "text": "battle",
+        "start": 99,
+        "end": 105
+    },
+    {
+        "text": "Coruscant",
+        "start": 143,
+        "end": 152
+    },
+    {
+        "text": "Death Star",
+        "start": 163,
+        "end": 173
+    },
+    {
+        "text": "ranks",
+        "start": 38,
+        "end": 43
+    },
+    {
+        "text": "new weapon",
+        "start": 53,
+        "end": 63
+    },
+    {
+        "text": "Imperial",
+        "start": 44,
+        "end": 52
+    },
+    {
+        "text": "Rebels",
+        "start": 70,
+        "end": 76
+    },
+    {
+        "text": "Death Star",
+        "start": 34,
+        "end": 44
+    },
+    {
+        "text": "Imperial",
+        "start": 69,
+        "end": 77
+    },
+    {
+        "text": "internal investigations",
+        "start": 121,
+        "end": 144
+    },
+    {
+        "text": "Ciena Ree",
+        "start": 216,
+        "end": 225
+    },
+    {
+        "text": "Death Star",
+        "start": 278,
+        "end": 288
+    },
+    {
+        "text": "Everi Chalis",
+        "start": 27,
+        "end": 39
+    },
+    {
+        "text": "Palpatine",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "Imperials",
+        "start": 103,
+        "end": 112
+    },
+    {
+        "text": "Death Star",
+        "start": 146,
+        "end": 156
+    },
+    {
+        "text": "Moff Coovern",
+        "start": 219,
+        "end": 231
+    },
+    {
+        "text": "Minister Khemt",
+        "start": 236,
+        "end": 250
+    },
+    {
+        "text": "Chalis",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "Haidoral Prime",
+        "start": 76,
+        "end": 90
+    },
+    {
+        "text": "Darth Vader",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Death Star",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Ciena Ree",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "Empire",
+        "start": 105,
+        "end": 111
+    },
+    {
+        "text": "Jude Edivon",
+        "start": 219,
+        "end": 230
+    },
+    {
+        "text": "Thane Kyrell",
+        "start": 322,
+        "end": 334
+    },
+    {
+        "text": "Empire",
+        "start": 362,
+        "end": 368
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 422,
+        "end": 436
+    },
+    {
+        "text": "1 ABY",
+        "start": 26,
+        "end": 31
+    },
+    {
+        "text": "Vader",
+        "start": 33,
+        "end": 38
+    },
+    {
+        "text": "rebellion",
+        "start": 71,
+        "end": 80
+    },
+    {
+        "text": "Battle of Mako-Ta",
+        "start": 88,
+        "end": 105
+    },
+    {
+        "text": "Alliance",
+        "start": 146,
+        "end": 154
+    },
+    {
+        "text": "Admiral Kendal Ozzel",
+        "start": 172,
+        "end": 192
+    },
+    {
+        "text": "battle",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "rebel leaders",
+        "start": 32,
+        "end": 45
+    },
+    {
+        "text": "cruisers",
+        "start": 69,
+        "end": 77
+    },
+    {
+        "text": "Alliance Navy",
+        "start": 85,
+        "end": 98
+    },
+    {
+        "text": "Rebel Alliance Starfighter Corps",
+        "start": 141,
+        "end": 173
+    },
+    {
+        "text": "Palpatine",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "Vader",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "Palpatine",
+        "start": 65,
+        "end": 74
+    },
+    {
+        "text": "rebel forces",
+        "start": 113,
+        "end": 125
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 158,
+        "end": 173
+    },
+    {
+        "text": "Empire",
+        "start": 200,
+        "end": 206
+    },
+    {
+        "text": "Battle of Mako-Ta",
+        "start": 212,
+        "end": 229
+    },
+    {
+        "text": "rebellion",
+        "start": 251,
+        "end": 260
+    },
+    {
+        "text": "Vader",
+        "start": 267,
+        "end": 272
+    },
+    {
+        "text": "Alliance",
+        "start": 320,
+        "end": 328
+    },
+    {
+        "text": "galactic",
+        "start": 21,
+        "end": 29
+    },
+    {
+        "text": "Empire",
+        "start": 70,
+        "end": 76
+    },
+    {
+        "text": "war",
+        "start": 84,
+        "end": 87
+    },
+    {
+        "text": "Yavin",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "Imperial",
+        "start": 38,
+        "end": 46
+    },
+    {
+        "text": "rebellion",
+        "start": 99,
+        "end": 108
+    },
+    {
+        "text": "Yavin",
+        "start": 122,
+        "end": 127
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 139,
+        "end": 157
+    },
+    {
+        "text": "stormtroopers",
+        "start": 54,
+        "end": 67
+    },
+    {
+        "text": "Task Force 99",
+        "start": 71,
+        "end": 84
+    },
+    {
+        "text": "Sergeant Kreel",
+        "start": 20,
+        "end": 34
+    },
+    {
+        "text": "Empire",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 96,
+        "end": 114
+    },
+    {
+        "text": "Death Star",
+        "start": 159,
+        "end": 169
+    },
+    {
+        "text": "Empire",
+        "start": 191,
+        "end": 197
+    },
+    {
+        "text": "rebels",
+        "start": 293,
+        "end": 299
+    },
+    {
+        "text": "Horford",
+        "start": 58,
+        "end": 65
+    },
+    {
+        "text": "2 ABY",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "regime",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "Kreel",
+        "start": 156,
+        "end": 161
+    },
+    {
+        "text": "war",
+        "start": 182,
+        "end": 185
+    },
+    {
+        "text": "Yavin",
+        "start": 285,
+        "end": 290
+    },
+    {
+        "text": "Death Star",
+        "start": 398,
+        "end": 408
+    },
+    {
+        "text": "Empire",
+        "start": 463,
+        "end": 469
+    },
+    {
+        "text": "war",
+        "start": 85,
+        "end": 88
+    },
+    {
+        "text": "squadron",
+        "start": 107,
+        "end": 115
+    },
+    {
+        "text": "weapons",
+        "start": 127,
+        "end": 134
+    },
+    {
+        "text": "population",
+        "start": 142,
+        "end": 152
+    },
+    {
+        "text": "3 ABY",
+        "start": 3,
+        "end": 8
+    },
+    {
+        "text": "Lieutenant Gorr",
+        "start": 10,
+        "end": 25
+    },
+    {
+        "text": "Tarkin's Will",
+        "start": 33,
+        "end": 46
+    },
+    {
+        "text": "Fortitude",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Commander Ellian Zahra",
+        "start": 89,
+        "end": 111
+    },
+    {
+        "text": "Star Destroyer",
+        "start": 138,
+        "end": 152
+    },
+    {
+        "text": "Zahra",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "ship",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "Death Star",
+        "start": 77,
+        "end": 87
+    },
+    {
+        "text": "lieutenant",
+        "start": 101,
+        "end": 111
+    },
+    {
+        "text": "ship",
+        "start": 116,
+        "end": 120
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 142,
+        "end": 157
+    },
+    {
+        "text": "commander",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "Vader",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "fleet",
+        "start": 75,
+        "end": 80
+    },
+    {
+        "text": "rebel remnants",
+        "start": 97,
+        "end": 111
+    },
+    {
+        "text": "Fortitude",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "Zahra",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "ship",
+        "start": 44,
+        "end": 48
+    },
+    {
+        "text": "crew",
+        "start": 51,
+        "end": 55
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 114,
+        "end": 129
+    },
+    {
+        "text": "Gorr",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "text": "Zahra",
+        "start": 36,
+        "end": 41
+    },
+    {
+        "text": "battle",
+        "start": 77,
+        "end": 83
+    },
+    {
+        "text": "Death Star",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "Yavin 8",
+        "start": 60,
+        "end": 67
+    },
+    {
+        "text": "cousin",
+        "start": 107,
+        "end": 113
+    },
+    {
+        "text": "Quarren",
+        "start": 119,
+        "end": 126
+    },
+    {
+        "text": "spacer",
+        "start": 127,
+        "end": 133
+    },
+    {
+        "text": "cousin",
+        "start": 156,
+        "end": 162
+    },
+    {
+        "text": "Death Star",
+        "start": 191,
+        "end": 201
+    },
+    {
+        "text": "engineer",
+        "start": 250,
+        "end": 258
+    },
+    {
+        "text": "Bestine Cantina",
+        "start": 266,
+        "end": 281
+    },
+    {
+        "text": "3 ABY",
+        "start": 289,
+        "end": 294
+    },
+    {
+        "text": "Imperials",
+        "start": 65,
+        "end": 74
+    },
+    {
+        "text": "battle",
+        "start": 89,
+        "end": 95
+    },
+    {
+        "text": "Myrra Spaceport",
+        "start": 117,
+        "end": 132
+    },
+    {
+        "text": "Outer Rim",
+        "start": 140,
+        "end": 149
+    },
+    {
+        "text": "Akiva",
+        "start": 157,
+        "end": 162
+    },
+    {
+        "text": "New Republic",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Hosnian system",
+        "start": 62,
+        "end": 76
+    },
+    {
+        "text": "New Republic",
+        "start": 117,
+        "end": 129
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 132,
+        "end": 147
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 168,
+        "end": 183
+    },
+    {
+        "text": "Centrists",
+        "start": 196,
+        "end": 205
+    },
+    {
+        "text": "New Republic",
+        "start": 231,
+        "end": 243
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 271,
+        "end": 286
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 295,
+        "end": 313
+    },
+    {
+        "text": "Death Star",
+        "start": 23,
+        "end": 33
+    },
+    {
+        "text": "Imperial",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 82,
+        "end": 96
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 105,
+        "end": 119
+    },
+    {
+        "text": "Centrist",
+        "start": 8,
+        "end": 16
+    },
+    {
+        "text": "Senator Ransolm Casterfo",
+        "start": 18,
+        "end": 42
+    },
+    {
+        "text": "Leia Organa",
+        "start": 63,
+        "end": 74
+    },
+    {
+        "text": "Death Star",
+        "start": 102,
+        "end": 112
+    },
+    {
+        "text": "Rebellion",
+        "start": 215,
+        "end": 224
+    },
+    {
+        "text": "New Republic Era",
+        "start": 21,
+        "end": 37
+    },
+    {
+        "text": "Ithorian",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Gammit Chond",
+        "start": 65,
+        "end": 77
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 173,
+        "end": 188
+    },
+    {
+        "text": "Rebel Pilots",
+        "start": 19,
+        "end": 31
+    },
+    {
+        "text": "Imperial Pilots",
+        "start": 35,
+        "end": 50
+    },
+    {
+        "text": "Others",
+        "start": 54,
+        "end": 60
+    }
+]

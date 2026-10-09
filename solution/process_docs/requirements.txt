@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+boto3
+beautifulsoup4
+lxml
+trafilatura
+markdown-it-py
+transformers<5.0.0
+torch==2.14.1+cu126
+piighost[gliner2]
+faker
+spacy
+python-json-logger
+langchain
+langchain-text-splitters
+sentence-transformers
+qdrant-client

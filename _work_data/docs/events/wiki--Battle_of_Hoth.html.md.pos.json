@@ -1,0 +1,4627 @@
+[
+    {
+        "text": "Battle of Hoth",
+        "start": 2,
+        "end": 16
+    },
+    {
+        "text": "Battle of Hoth",
+        "start": 22,
+        "end": 36
+    },
+    {
+        "text": "Echo Base",
+        "start": 67,
+        "end": 76
+    },
+    {
+        "text": "3 ABY",
+        "start": 107,
+        "end": 112
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 170,
+        "end": 185
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 242,
+        "end": 256
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 268,
+        "end": 286
+    },
+    {
+        "text": "Imperial invasion",
+        "start": 18,
+        "end": 35
+    },
+    {
+        "text": "Darth Vader",
+        "start": 43,
+        "end": 54
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 80,
+        "end": 94
+    },
+    {
+        "text": "Echo Base",
+        "start": 97,
+        "end": 106
+    },
+    {
+        "text": "Hoth",
+        "start": 138,
+        "end": 142
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 157,
+        "end": 171
+    },
+    {
+        "text": "Viper probe droid",
+        "start": 42,
+        "end": 59
+    },
+    {
+        "text": "Darth Vader",
+        "start": 73,
+        "end": 84
+    },
+    {
+        "text": "Death Squadron",
+        "start": 87,
+        "end": 101
+    },
+    {
+        "text": "Rebels",
+        "start": 140,
+        "end": 146
+    },
+    {
+        "text": "evacuation",
+        "start": 159,
+        "end": 169
+    },
+    {
+        "text": "Hoth",
+        "start": 173,
+        "end": 177
+    },
+    {
+        "text": "Imperial attack force",
+        "start": 4,
+        "end": 25
+    },
+    {
+        "text": "AT-AT walkers",
+        "start": 49,
+        "end": 62
+    },
+    {
+        "text": "General Maximilian Veers",
+        "start": 77,
+        "end": 101
+    },
+    {
+        "text": "army",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Echo Base",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "main power generator",
+        "start": 48,
+        "end": 68
+    },
+    {
+        "text": "orbital bombardment",
+        "start": 78,
+        "end": 97
+    },
+    {
+        "text": "planet",
+        "start": 105,
+        "end": 111
+    },
+    {
+        "text": "Darth Vader",
+        "start": 120,
+        "end": 131
+    },
+    {
+        "text": "ground forces",
+        "start": 151,
+        "end": 164
+    },
+    {
+        "text": "generator",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "text": "T-47 airspeeders",
+        "start": 51,
+        "end": 67
+    },
+    {
+        "text": "Rogue Squadron",
+        "start": 71,
+        "end": 85
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 100,
+        "end": 114
+    },
+    {
+        "text": "Death Star",
+        "start": 160,
+        "end": 170
+    },
+    {
+        "text": "snowspeeders",
+        "start": 13,
+        "end": 25
+    },
+    {
+        "text": "walkers",
+        "start": 81,
+        "end": 88
+    },
+    {
+        "text": "Skywalker",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "walkers",
+        "start": 147,
+        "end": 154
+    },
+    {
+        "text": "tow cables",
+        "start": 164,
+        "end": 174
+    },
+    {
+        "text": "snowspeeder",
+        "start": 191,
+        "end": 202
+    },
+    {
+        "text": "Rogue Squadron",
+        "start": 23,
+        "end": 37
+    },
+    {
+        "text": "power generator",
+        "start": 43,
+        "end": 58
+    },
+    {
+        "text": "Veers",
+        "start": 87,
+        "end": 92
+    },
+    {
+        "text": "AT-AT",
+        "start": 99,
+        "end": 104
+    },
+    {
+        "text": "base",
+        "start": 14,
+        "end": 18
+    },
+    {
+        "text": "501st Legion",
+        "start": 59,
+        "end": 71
+    },
+    {
+        "text": "Darth Vader",
+        "start": 80,
+        "end": 91
+    },
+    {
+        "text": "base",
+        "start": 105,
+        "end": 109
+    },
+    {
+        "text": "Imperial invasion",
+        "start": 17,
+        "end": 34
+    },
+    {
+        "text": "Rebellion",
+        "start": 46,
+        "end": 55
+    },
+    {
+        "text": "fleet",
+        "start": 73,
+        "end": 78
+    },
+    {
+        "text": "galaxy",
+        "start": 90,
+        "end": 96
+    },
+    {
+        "text": "galaxy",
+        "start": 156,
+        "end": 162
+    },
+    {
+        "text": "Empire",
+        "start": 174,
+        "end": 180
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 217,
+        "end": 232
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 26,
+        "end": 40
+    },
+    {
+        "text": "Yavin",
+        "start": 60,
+        "end": 65
+    },
+    {
+        "text": "Rebellion",
+        "start": 71,
+        "end": 80
+    },
+    {
+        "text": "Yavin 4",
+        "start": 103,
+        "end": 110
+    },
+    {
+        "text": "Daxan Beta",
+        "start": 207,
+        "end": 217
+    },
+    {
+        "text": "Insk",
+        "start": 222,
+        "end": 226
+    },
+    {
+        "text": "Crait",
+        "start": 38,
+        "end": 43
+    },
+    {
+        "text": "three and a half years",
+        "start": 18,
+        "end": 40
+    },
+    {
+        "text": "conflict",
+        "start": 44,
+        "end": 52
+    },
+    {
+        "text": "General Jan Dodonna",
+        "start": 54,
+        "end": 73
+    },
+    {
+        "text": "High Command",
+        "start": 115,
+        "end": 127
+    },
+    {
+        "text": "Hoth",
+        "start": 184,
+        "end": 188
+    },
+    {
+        "text": "Rebel Alliance Special Forces",
+        "start": 24,
+        "end": 53
+    },
+    {
+        "text": "Purpruff",
+        "start": 68,
+        "end": 76
+    },
+    {
+        "text": "Hoth",
+        "start": 103,
+        "end": 107
+    },
+    {
+        "text": "Anoat sector",
+        "start": 115,
+        "end": 127
+    },
+    {
+        "text": "Corps of Engineers",
+        "start": 18,
+        "end": 36
+    },
+    {
+        "text": "base",
+        "start": 53,
+        "end": 57
+    },
+    {
+        "text": "two standard years",
+        "start": 77,
+        "end": 95
+    },
+    {
+        "text": "base",
+        "start": 129,
+        "end": 133
+    },
+    {
+        "text": "Empire",
+        "start": 188,
+        "end": 194
+    },
+    {
+        "text": "base",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "month",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "battle",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "Empire",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "three and a half years",
+        "start": 35,
+        "end": 57
+    },
+    {
+        "text": "Battle of Yavin",
+        "start": 73,
+        "end": 88
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 94,
+        "end": 108
+    },
+    {
+        "text": "Mid Rim Retreat",
+        "start": 162,
+        "end": 177
+    },
+    {
+        "text": "Rebel base",
+        "start": 12,
+        "end": 22
+    },
+    {
+        "text": "Rebellion",
+        "start": 50,
+        "end": 59
+    },
+    {
+        "text": "Alliance",
+        "start": 86,
+        "end": 94
+    },
+    {
+        "text": "Rebel troopers",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "Echo Base",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "Rebel",
+        "start": 63,
+        "end": 68
+    },
+    {
+        "text": "Mid and Outer Rim Territories",
+        "start": 95,
+        "end": 124
+    },
+    {
+        "text": "Rebel soldiers",
+        "start": 184,
+        "end": 198
+    },
+    {
+        "text": "galaxy",
+        "start": 226,
+        "end": 232
+    },
+    {
+        "text": "Empire",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Rebel base",
+        "start": 49,
+        "end": 59
+    },
+    {
+        "text": "ambush",
+        "start": 70,
+        "end": 76
+    },
+    {
+        "text": "rebel convoy",
+        "start": 82,
+        "end": 94
+    },
+    {
+        "text": "Derra",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "Project Swarm",
+        "start": 11,
+        "end": 24
+    },
+    {
+        "text": "Empire",
+        "start": 30,
+        "end": 36
+    },
+    {
+        "text": "Viper probe droids",
+        "start": 42,
+        "end": 60
+    },
+    {
+        "text": "rebel base",
+        "start": 79,
+        "end": 89
+    },
+    {
+        "text": "galaxy",
+        "start": 105,
+        "end": 111
+    },
+    {
+        "text": "Doctor Chelli Lona Aphra",
+        "start": 0,
+        "end": 24
+    },
+    {
+        "text": "Empire",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "text": "Echo Base",
+        "start": 71,
+        "end": 80
+    },
+    {
+        "text": "Vader",
+        "start": 103,
+        "end": 108
+    },
+    {
+        "text": "armor",
+        "start": 111,
+        "end": 116
+    },
+    {
+        "text": "Sith Lord",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "Martyrium of Frozen Tears",
+        "start": 157,
+        "end": 182
+    },
+    {
+        "text": "probe droid",
+        "start": 201,
+        "end": 212
+    },
+    {
+        "text": "her",
+        "start": 3,
+        "end": 6
+    },
+    {
+        "text": "Empire",
+        "start": 44,
+        "end": 50
+    },
+    {
+        "text": "she",
+        "start": 88,
+        "end": 91
+    },
+    {
+        "text": "weeks",
+        "start": 122,
+        "end": 127
+    },
+    {
+        "text": "project",
+        "start": 143,
+        "end": 150
+    },
+    {
+        "text": "lost ground",
+        "start": 153,
+        "end": 164
+    },
+    {
+        "text": "strategy conference",
+        "start": 29,
+        "end": 48
+    },
+    {
+        "text": "base",
+        "start": 65,
+        "end": 69
+    },
+    {
+        "text": "transports",
+        "start": 99,
+        "end": 109
+    },
+    {
+        "text": "Princess Leia Organa",
+        "start": 147,
+        "end": 167
+    },
+    {
+        "text": "General Carlist Rieekan",
+        "start": 169,
+        "end": 192
+    },
+    {
+        "text": "Commander Chiffonage",
+        "start": 194,
+        "end": 214
+    },
+    {
+        "text": "Bothan",
+        "start": 218,
+        "end": 224
+    },
+    {
+        "text": "Alliance Command",
+        "start": 259,
+        "end": 275
+    },
+    {
+        "text": "conference",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Everi Chalis",
+        "start": 67,
+        "end": 79
+    },
+    {
+        "text": "Haidoral Prime",
+        "start": 108,
+        "end": 122
+    },
+    {
+        "text": "61st Mobile Infantry",
+        "start": 130,
+        "end": 150
+    },
+    {
+        "text": "Captain Micha Evon",
+        "start": 157,
+        "end": 175
+    },
+    {
+        "text": "Chalis",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Imperial War Machine",
+        "start": 72,
+        "end": 92
+    },
+    {
+        "text": "trade routes",
+        "start": 109,
+        "end": 121
+    },
+    {
+        "text": "Imperial",
+        "start": 126,
+        "end": 134
+    },
+    {
+        "text": "Leia",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "Imperial",
+        "start": 114,
+        "end": 122
+    },
+    {
+        "text": "system",
+        "start": 154,
+        "end": 160
+    },
+    {
+        "text": "Viper",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "XJ9-CS14",
+        "start": 12,
+        "end": 20
+    },
+    {
+        "text": "Imperial II-class Star Destroyer Stalker",
+        "start": 43,
+        "end": 83
+    },
+    {
+        "text": "Rebel base",
+        "start": 111,
+        "end": 121
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 25,
+        "end": 39
+    },
+    {
+        "text": "probe droid",
+        "start": 52,
+        "end": 63
+    },
+    {
+        "text": "reconnaissance mission",
+        "start": 81,
+        "end": 103
+    },
+    {
+        "text": "tauntaun",
+        "start": 111,
+        "end": 119
+    },
+    {
+        "text": "snow-lizards",
+        "start": 131,
+        "end": 143
+    },
+    {
+        "text": "Alliance personnel",
+        "start": 156,
+        "end": 174
+    },
+    {
+        "text": "Skywalker",
+        "start": 12,
+        "end": 21
+    },
+    {
+        "text": "wampa",
+        "start": 47,
+        "end": 52
+    },
+    {
+        "text": "cave",
+        "start": 76,
+        "end": 80
+    },
+    {
+        "text": "Han Solo",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Skywalker",
+        "start": 39,
+        "end": 48
+    },
+    {
+        "text": "snowstorm",
+        "start": 64,
+        "end": 73
+    },
+    {
+        "text": "Solo",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "text": "Chewbacca",
+        "start": 16,
+        "end": 25
+    },
+    {
+        "text": "Skywalker",
+        "start": 71,
+        "end": 80
+    },
+    {
+        "text": "probe droid",
+        "start": 145,
+        "end": 156
+    },
+    {
+        "text": "it",
+        "start": 22,
+        "end": 24
+    },
+    {
+        "text": "Han",
+        "start": 26,
+        "end": 29
+    },
+    {
+        "text": "it",
+        "start": 51,
+        "end": 53
+    },
+    {
+        "text": "droid",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "self-destruct mechanism",
+        "start": 87,
+        "end": 110
+    },
+    {
+        "text": "probe",
+        "start": 36,
+        "end": 41
+    },
+    {
+        "text": "crew",
+        "start": 47,
+        "end": 51
+    },
+    {
+        "text": "Executor-class Star Dreadnought",
+        "start": 59,
+        "end": 90
+    },
+    {
+        "text": "Executor",
+        "start": 91,
+        "end": 99
+    },
+    {
+        "text": "Admiral Kendal Ozzel",
+        "start": 12,
+        "end": 32
+    },
+    {
+        "text": "Rebel shield generator",
+        "start": 64,
+        "end": 86
+    },
+    {
+        "text": "smugglers",
+        "start": 106,
+        "end": 115
+    },
+    {
+        "text": "Darth Vader",
+        "start": 117,
+        "end": 128
+    },
+    {
+        "text": "Imperial Death Squadron",
+        "start": 144,
+        "end": 167
+    },
+    {
+        "text": "planet",
+        "start": 182,
+        "end": 188
+    },
+    {
+        "text": "location",
+        "start": 11,
+        "end": 19
+    },
+    {
+        "text": "Empire",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "Rebellion",
+        "start": 87,
+        "end": 96
+    },
+    {
+        "text": "Plan Kay One Zero",
+        "start": 19,
+        "end": 36
+    },
+    {
+        "text": "Han Solo",
+        "start": 60,
+        "end": 68
+    },
+    {
+        "text": "probe",
+        "start": 85,
+        "end": 90
+    },
+    {
+        "text": "General Rieekan",
+        "start": 107,
+        "end": 122
+    },
+    {
+        "text": "probe",
+        "start": 163,
+        "end": 168
+    },
+    {
+        "text": "Empire",
+        "start": 192,
+        "end": 198
+    },
+    {
+        "text": "Rieekan",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Echo Base",
+        "start": 44,
+        "end": 53
+    },
+    {
+        "text": "code K-one-zero",
+        "start": 61,
+        "end": 76
+    },
+    {
+        "text": "general",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "Rebel",
+        "start": 25,
+        "end": 30
+    },
+    {
+        "text": "technicians",
+        "start": 31,
+        "end": 42
+    },
+    {
+        "text": "base",
+        "start": 56,
+        "end": 60
+    },
+    {
+        "text": "shields",
+        "start": 63,
+        "end": 70
+    },
+    {
+        "text": "orbital bombardment",
+        "start": 121,
+        "end": 140
+    },
+    {
+        "text": "planet",
+        "start": 36,
+        "end": 42
+    },
+    {
+        "text": "Rebel",
+        "start": 59,
+        "end": 64
+    },
+    {
+        "text": "planet-based shield",
+        "start": 67,
+        "end": 86
+    },
+    {
+        "text": "bombardments",
+        "start": 111,
+        "end": 123
+    },
+    {
+        "text": "ship",
+        "start": 154,
+        "end": 158
+    },
+    {
+        "text": "Princess Leia Organa",
+        "start": 16,
+        "end": 36
+    },
+    {
+        "text": "Rebel",
+        "start": 48,
+        "end": 53
+    },
+    {
+        "text": "Hangar 7",
+        "start": 68,
+        "end": 76
+    },
+    {
+        "text": "Imperial blockade",
+        "start": 119,
+        "end": 136
+    },
+    {
+        "text": "Rebel",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "plan",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "text": "ships",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "rendezvous point",
+        "start": 61,
+        "end": 77
+    },
+    {
+        "text": "rebel base",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "GR-75 medium transports",
+        "start": 82,
+        "end": 105
+    },
+    {
+        "text": "base",
+        "start": 134,
+        "end": 138
+    },
+    {
+        "text": "north entrance",
+        "start": 141,
+        "end": 155
+    },
+    {
+        "text": "Deck officers",
+        "start": 0,
+        "end": 13
+    },
+    {
+        "text": "Serenity Meeks",
+        "start": 25,
+        "end": 39
+    },
+    {
+        "text": "transports",
+        "start": 86,
+        "end": 96
+    },
+    {
+        "text": "Noncombat personnel",
+        "start": 0,
+        "end": 19
+    },
+    {
+        "text": "tauntauns",
+        "start": 49,
+        "end": 58
+    },
+    {
+        "text": "rebels",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "frozen plains",
+        "start": 106,
+        "end": 119
+    },
+    {
+        "text": "Empire",
+        "start": 40,
+        "end": 46
+    },
+    {
+        "text": "subspace alert",
+        "start": 66,
+        "end": 80
+    },
+    {
+        "text": "transports",
+        "start": 101,
+        "end": 111
+    },
+    {
+        "text": "new recruits",
+        "start": 115,
+        "end": 127
+    },
+    {
+        "text": "world",
+        "start": 144,
+        "end": 149
+    },
+    {
+        "text": "system",
+        "start": 163,
+        "end": 169
+    },
+    {
+        "text": "Corwi Selgrothe",
+        "start": 15,
+        "end": 30
+    },
+    {
+        "text": "base",
+        "start": 68,
+        "end": 72
+    },
+    {
+        "text": "Empire",
+        "start": 83,
+        "end": 89
+    },
+    {
+        "text": "Organa",
+        "start": 133,
+        "end": 139
+    },
+    {
+        "text": "L'cayo Llem",
+        "start": 188,
+        "end": 199
+    },
+    {
+        "text": "GR-75",
+        "start": 218,
+        "end": 223
+    },
+    {
+        "text": "Darth Vader",
+        "start": 5,
+        "end": 16
+    },
+    {
+        "text": "Hoth",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "text": "Rebels",
+        "start": 84,
+        "end": 90
+    },
+    {
+        "text": "ambush",
+        "start": 115,
+        "end": 121
+    },
+    {
+        "text": "Ozzel",
+        "start": 167,
+        "end": 172
+    },
+    {
+        "text": "Star Destroyer",
+        "start": 175,
+        "end": 189
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Force-choked",
+        "start": 15,
+        "end": 27
+    },
+    {
+        "text": "Ozzel",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "Captain Firmus Piett",
+        "start": 102,
+        "end": 122
+    },
+    {
+        "text": "admiral",
+        "start": 126,
+        "end": 133
+    },
+    {
+        "text": "invasion",
+        "start": 164,
+        "end": 172
+    },
+    {
+        "text": "Imperial offensive",
+        "start": 4,
+        "end": 22
+    },
+    {
+        "text": "Planet-side",
+        "start": 24,
+        "end": 35
+    },
+    {
+        "text": "Maximilian Veers",
+        "start": 55,
+        "end": 71
+    },
+    {
+        "text": "ground assault",
+        "start": 101,
+        "end": 115
+    },
+    {
+        "text": "AT-ATs",
+        "start": 143,
+        "end": 149
+    },
+    {
+        "text": "AT-STs",
+        "start": 154,
+        "end": 160
+    },
+    {
+        "text": "Blizzard Force",
+        "start": 193,
+        "end": 207
+    },
+    {
+        "text": "Blizzard Force",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "AT-ATs",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "text": "Veers",
+        "start": 35,
+        "end": 40
+    },
+    {
+        "text": "Blizzard 1",
+        "start": 42,
+        "end": 52
+    },
+    {
+        "text": "Hoth",
+        "start": 127,
+        "end": 131
+    },
+    {
+        "text": "Veers",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Lord Vader",
+        "start": 15,
+        "end": 25
+    },
+    {
+        "text": "Veers",
+        "start": 50,
+        "end": 55
+    },
+    {
+        "text": "generator",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "Rebel",
+        "start": 10,
+        "end": 15
+    },
+    {
+        "text": "Executor",
+        "start": 45,
+        "end": 53
+    },
+    {
+        "text": "Incom Y-85 Titan",
+        "start": 56,
+        "end": 72
+    },
+    {
+        "text": "Veers",
+        "start": 84,
+        "end": 89
+    },
+    {
+        "text": "Death Squadron",
+        "start": 102,
+        "end": 116
+    },
+    {
+        "text": "Gozanti-class cruisers",
+        "start": 134,
+        "end": 156
+    },
+    {
+        "text": "AT-ATs",
+        "start": 185,
+        "end": 191
+    },
+    {
+        "text": "Titan",
+        "start": 214,
+        "end": 219
+    },
+    {
+        "text": "barges",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "troop carriers",
+        "start": 15,
+        "end": 29
+    },
+    {
+        "text": "Blizzard Force",
+        "start": 33,
+        "end": 47
+    },
+    {
+        "text": "TIE fighters",
+        "start": 61,
+        "end": 73
+    },
+    {
+        "text": "Moorsh Moraine",
+        "start": 92,
+        "end": 106
+    },
+    {
+        "text": "heavily fortified mountain base",
+        "start": 142,
+        "end": 173
+    },
+    {
+        "text": "base",
+        "start": 48,
+        "end": 52
+    },
+    {
+        "text": "shield",
+        "start": 64,
+        "end": 70
+    },
+    {
+        "text": "projector modules",
+        "start": 87,
+        "end": 104
+    },
+    {
+        "text": "Rebel",
+        "start": 126,
+        "end": 131
+    },
+    {
+        "text": "Veers",
+        "start": 143,
+        "end": 148
+    },
+    {
+        "text": "central power generator",
+        "start": 176,
+        "end": 199
+    },
+    {
+        "text": "projector modules",
+        "start": 245,
+        "end": 262
+    },
+    {
+        "text": "Veers",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Rebel forces",
+        "start": 65,
+        "end": 77
+    },
+    {
+        "text": "assault",
+        "start": 87,
+        "end": 94
+    },
+    {
+        "text": "Vader",
+        "start": 25,
+        "end": 30
+    },
+    {
+        "text": "Blizzard 4",
+        "start": 32,
+        "end": 42
+    },
+    {
+        "text": "Kerane Valley",
+        "start": 102,
+        "end": 115
+    },
+    {
+        "text": "walkers",
+        "start": 136,
+        "end": 143
+    },
+    {
+        "text": "eastern ice flow",
+        "start": 163,
+        "end": 179
+    },
+    {
+        "text": "Blizzard 4",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "AT-AT",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "westerly route",
+        "start": 61,
+        "end": 75
+    },
+    {
+        "text": "AT-ATs",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "North Ridge",
+        "start": 60,
+        "end": 71
+    },
+    {
+        "text": "Imperial Gozanti-class cruisers",
+        "start": 4,
+        "end": 35
+    },
+    {
+        "text": "61st Mobile Infantry",
+        "start": 58,
+        "end": 78
+    },
+    {
+        "text": "Roja",
+        "start": 87,
+        "end": 91
+    },
+    {
+        "text": "Perimeter Outpost Delta",
+        "start": 95,
+        "end": 118
+    },
+    {
+        "text": "Beak",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "text": "walkers",
+        "start": 55,
+        "end": 62
+    },
+    {
+        "text": "First Sergeant Hazram Namir",
+        "start": 91,
+        "end": 118
+    },
+    {
+        "text": "Echo Base",
+        "start": 152,
+        "end": 161
+    },
+    {
+        "text": "Imperial-class Star Destroyer Tyrant",
+        "start": 19,
+        "end": 55
+    },
+    {
+        "text": "Echo Base",
+        "start": 72,
+        "end": 81
+    },
+    {
+        "text": "ion cannon",
+        "start": 84,
+        "end": 94
+    },
+    {
+        "text": "GR-75 medium transport",
+        "start": 115,
+        "end": 137
+    },
+    {
+        "text": "Quantum Storm",
+        "start": 138,
+        "end": 151
+    },
+    {
+        "text": "fighter escort",
+        "start": 160,
+        "end": 174
+    },
+    {
+        "text": "Imperial forces",
+        "start": 43,
+        "end": 58
+    },
+    {
+        "text": "Outpost Beta",
+        "start": 97,
+        "end": 109
+    },
+    {
+        "text": "Beak",
+        "start": 122,
+        "end": 126
+    },
+    {
+        "text": "Outpost Beta",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "sentry post",
+        "start": 40,
+        "end": 51
+    },
+    {
+        "text": "laser blasts",
+        "start": 80,
+        "end": 92
+    },
+    {
+        "text": "Imperial",
+        "start": 98,
+        "end": 106
+    },
+    {
+        "text": "AT-ST walkers",
+        "start": 107,
+        "end": 120
+    },
+    {
+        "text": "Blizzard Force",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "Rebel scouts",
+        "start": 33,
+        "end": 45
+    },
+    {
+        "text": "Echo Station 3-T-8",
+        "start": 49,
+        "end": 67
+    },
+    {
+        "text": "Echo Base",
+        "start": 115,
+        "end": 124
+    },
+    {
+        "text": "Rebel ground forces",
+        "start": 0,
+        "end": 19
+    },
+    {
+        "text": "Imperial walkers",
+        "start": 59,
+        "end": 75
+    },
+    {
+        "text": "trenches",
+        "start": 92,
+        "end": 100
+    },
+    {
+        "text": "DF.9 turrets",
+        "start": 122,
+        "end": 134
+    },
+    {
+        "text": "1.4 FD P-Tower laser cannons",
+        "start": 166,
+        "end": 194
+    },
+    {
+        "text": "AT-ATs",
+        "start": 287,
+        "end": 293
+    },
+    {
+        "text": "trench",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "Imperial",
+        "start": 15,
+        "end": 23
+    },
+    {
+        "text": "Emon Kref",
+        "start": 47,
+        "end": 56
+    },
+    {
+        "text": "rebel turret",
+        "start": 82,
+        "end": 94
+    },
+    {
+        "text": "metal shards",
+        "start": 9,
+        "end": 21
+    },
+    {
+        "text": "Kref",
+        "start": 45,
+        "end": 49
+    },
+    {
+        "text": "squad",
+        "start": 58,
+        "end": 63
+    },
+    {
+        "text": "troops",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "AT-ATs",
+        "start": 132,
+        "end": 138
+    },
+    {
+        "text": "Alliance",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Trey Callum",
+        "start": 18,
+        "end": 29
+    },
+    {
+        "text": "troops",
+        "start": 40,
+        "end": 46
+    },
+    {
+        "text": "walkers",
+        "start": 103,
+        "end": 110
+    },
+    {
+        "text": "troops",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "snowtroopers",
+        "start": 10,
+        "end": 22
+    },
+    {
+        "text": "squad",
+        "start": 41,
+        "end": 46
+    },
+    {
+        "text": "proximity mines",
+        "start": 4,
+        "end": 19
+    },
+    {
+        "text": "Outpost Beta",
+        "start": 31,
+        "end": 43
+    },
+    {
+        "text": "AT-ST walkers",
+        "start": 85,
+        "end": 98
+    },
+    {
+        "text": "rebel ground troops",
+        "start": 130,
+        "end": 149
+    },
+    {
+        "text": "shield generator",
+        "start": 169,
+        "end": 185
+    },
+    {
+        "text": "Imperial forces",
+        "start": 28,
+        "end": 43
+    },
+    {
+        "text": "Echo Base",
+        "start": 62,
+        "end": 71
+    },
+    {
+        "text": "Outpost Delta",
+        "start": 0,
+        "end": 13
+    },
+    {
+        "text": "snowtroopers",
+        "start": 59,
+        "end": 71
+    },
+    {
+        "text": "floating gunnery platforms",
+        "start": 79,
+        "end": 105
+    },
+    {
+        "text": "AT-ST walker",
+        "start": 113,
+        "end": 125
+    },
+    {
+        "text": "western edge",
+        "start": 164,
+        "end": 176
+    },
+    {
+        "text": "Imperial advance",
+        "start": 184,
+        "end": 200
+    },
+    {
+        "text": "gunnery platform",
+        "start": 50,
+        "end": 66
+    },
+    {
+        "text": "walker",
+        "start": 72,
+        "end": 78
+    },
+    {
+        "text": "blaster",
+        "start": 101,
+        "end": 108
+    },
+    {
+        "text": "ground troops",
+        "start": 119,
+        "end": 132
+    },
+    {
+        "text": "trenches",
+        "start": 140,
+        "end": 148
+    },
+    {
+        "text": "rebel",
+        "start": 182,
+        "end": 187
+    },
+    {
+        "text": "female",
+        "start": 242,
+        "end": 248
+    },
+    {
+        "text": "rebel soldier",
+        "start": 249,
+        "end": 262
+    },
+    {
+        "text": "outpost",
+        "start": 9,
+        "end": 16
+    },
+    {
+        "text": "Imperial",
+        "start": 51,
+        "end": 59
+    },
+    {
+        "text": "main assault",
+        "start": 97,
+        "end": 109
+    },
+    {
+        "text": "Echo Base",
+        "start": 113,
+        "end": 122
+    },
+    {
+        "text": "Imperial",
+        "start": 202,
+        "end": 210
+    },
+    {
+        "text": "AT-AT",
+        "start": 5,
+        "end": 10
+    },
+    {
+        "text": "T-47 airspeeders",
+        "start": 25,
+        "end": 41
+    },
+    {
+        "text": "Echo Base",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "army",
+        "start": 99,
+        "end": 103
+    },
+    {
+        "text": "AT-AT",
+        "start": 133,
+        "end": 138
+    },
+    {
+        "text": "blasters",
+        "start": 171,
+        "end": 179
+    },
+    {
+        "text": "AT-AT",
+        "start": 209,
+        "end": 214
+    },
+    {
+        "text": "rebel airspeeders",
+        "start": 236,
+        "end": 253
+    },
+    {
+        "text": "Thane Kyrell",
+        "start": 21,
+        "end": 33
+    },
+    {
+        "text": "Yendor",
+        "start": 38,
+        "end": 44
+    },
+    {
+        "text": "walker",
+        "start": 71,
+        "end": 77
+    },
+    {
+        "text": "shooting at its joints",
+        "start": 87,
+        "end": 109
+    },
+    {
+        "text": "behemoth",
+        "start": 159,
+        "end": 167
+    },
+    {
+        "text": "Lieutenant Harlize Dana",
+        "start": 28,
+        "end": 51
+    },
+    {
+        "text": "Chase Wilsorr",
+        "start": 67,
+        "end": 80
+    },
+    {
+        "text": "transports",
+        "start": 107,
+        "end": 117
+    },
+    {
+        "text": "Doctor Tristan Melthabi",
+        "start": 9,
+        "end": 32
+    },
+    {
+        "text": "medtechs",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "cave in",
+        "start": 85,
+        "end": 92
+    },
+    {
+        "text": "medical facility",
+        "start": 100,
+        "end": 116
+    },
+    {
+        "text": "access corridor",
+        "start": 119,
+        "end": 134
+    },
+    {
+        "text": "Major Bren Derlin",
+        "start": 8,
+        "end": 25
+    },
+    {
+        "text": "Meeks",
+        "start": 43,
+        "end": 48
+    },
+    {
+        "text": "doctor",
+        "start": 61,
+        "end": 67
+    },
+    {
+        "text": "compromization",
+        "start": 70,
+        "end": 84
+    },
+    {
+        "text": "Wilsorr",
+        "start": 86,
+        "end": 93
+    },
+    {
+        "text": "Melthabi",
+        "start": 112,
+        "end": 120
+    },
+    {
+        "text": "medtechs",
+        "start": 129,
+        "end": 137
+    },
+    {
+        "text": "kitchen worker",
+        "start": 4,
+        "end": 18
+    },
+    {
+        "text": "medical facility",
+        "start": 31,
+        "end": 47
+    },
+    {
+        "text": "GR-75s",
+        "start": 116,
+        "end": 122
+    },
+    {
+        "text": "Rogue Squadron",
+        "start": 20,
+        "end": 34
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 43,
+        "end": 57
+    },
+    {
+        "text": "Wedge Antilles",
+        "start": 62,
+        "end": 76
+    },
+    {
+        "text": "T-47 airspeeders",
+        "start": 99,
+        "end": 115
+    },
+    {
+        "text": "Imperial advance",
+        "start": 128,
+        "end": 144
+    },
+    {
+        "text": "Rogues",
+        "start": 15,
+        "end": 21
+    },
+    {
+        "text": "Attack Pattern Delta",
+        "start": 39,
+        "end": 59
+    },
+    {
+        "text": "walkers",
+        "start": 72,
+        "end": 79
+    },
+    {
+        "text": "cannons",
+        "start": 102,
+        "end": 109
+    },
+    {
+        "text": "Antilles",
+        "start": 46,
+        "end": 54
+    },
+    {
+        "text": "Wes Janson",
+        "start": 70,
+        "end": 80
+    },
+    {
+        "text": "Skywalker",
+        "start": 90,
+        "end": 99
+    },
+    {
+        "text": "T-47",
+        "start": 128,
+        "end": 132
+    },
+    {
+        "text": "tow cables",
+        "start": 135,
+        "end": 145
+    },
+    {
+        "text": "AT-AT",
+        "start": 159,
+        "end": 164
+    },
+    {
+        "text": "Skywalker",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "snowspeeder",
+        "start": 25,
+        "end": 36
+    },
+    {
+        "text": "AT-AT",
+        "start": 55,
+        "end": 60
+    },
+    {
+        "text": "Dak Ralter",
+        "start": 83,
+        "end": 93
+    },
+    {
+        "text": "Skywalker",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "speeder",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "text": "walker",
+        "start": 119,
+        "end": 125
+    },
+    {
+        "text": "Skywalker",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "AT-AT",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "hoist cable",
+        "start": 66,
+        "end": 77
+    },
+    {
+        "text": "lightsaber",
+        "start": 103,
+        "end": 113
+    },
+    {
+        "text": "walker",
+        "start": 133,
+        "end": 139
+    },
+    {
+        "text": "commander",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "thermal detonator",
+        "start": 22,
+        "end": 39
+    },
+    {
+        "text": "hole",
+        "start": 47,
+        "end": 51
+    },
+    {
+        "text": "AT-AT",
+        "start": 74,
+        "end": 79
+    },
+    {
+        "text": "rebels",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "AT-ATs",
+        "start": 41,
+        "end": 47
+    },
+    {
+        "text": "General Veers",
+        "start": 52,
+        "end": 65
+    },
+    {
+        "text": "Blizzard Force",
+        "start": 160,
+        "end": 174
+    },
+    {
+        "text": "Rebels",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "Imperials",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Blizzards 6",
+        "start": 16,
+        "end": 27
+    },
+    {
+        "text": "9",
+        "start": 29,
+        "end": 30
+    },
+    {
+        "text": "8",
+        "start": 36,
+        "end": 37
+    },
+    {
+        "text": "hangar defense trenches",
+        "start": 70,
+        "end": 93
+    },
+    {
+        "text": "Rebel defense turrets",
+        "start": 17,
+        "end": 38
+    },
+    {
+        "text": "Rebel troops",
+        "start": 54,
+        "end": 66
+    },
+    {
+        "text": "Echo Base",
+        "start": 98,
+        "end": 107
+    },
+    {
+        "text": "Empire",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "ground troops",
+        "start": 30,
+        "end": 43
+    },
+    {
+        "text": "Rebellion",
+        "start": 70,
+        "end": 79
+    },
+    {
+        "text": "Outpost Delta",
+        "start": 128,
+        "end": 141
+    },
+    {
+        "text": "Imperial front",
+        "start": 162,
+        "end": 176
+    },
+    {
+        "text": "friendly territory",
+        "start": 182,
+        "end": 200
+    },
+    {
+        "text": "Rebel command",
+        "start": 223,
+        "end": 236
+    },
+    {
+        "text": "total evacuation",
+        "start": 261,
+        "end": 277
+    },
+    {
+        "text": "Echo Base",
+        "start": 75,
+        "end": 84
+    },
+    {
+        "text": "walker",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "rebel forces",
+        "start": 150,
+        "end": 162
+    },
+    {
+        "text": "First Sergeant Namir",
+        "start": 0,
+        "end": 20
+    },
+    {
+        "text": "Roja",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "Beak",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "text": "AT-AT",
+        "start": 81,
+        "end": 86
+    },
+    {
+        "text": "Captain Evon",
+        "start": 106,
+        "end": 118
+    },
+    {
+        "text": "Echo Base",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "shield generator",
+        "start": 42,
+        "end": 58
+    },
+    {
+        "text": "Veers",
+        "start": 60,
+        "end": 65
+    },
+    {
+        "text": "Vader",
+        "start": 75,
+        "end": 80
+    },
+    {
+        "text": "troops",
+        "start": 130,
+        "end": 136
+    },
+    {
+        "text": "walkers",
+        "start": 148,
+        "end": 155
+    },
+    {
+        "text": "generator",
+        "start": 26,
+        "end": 35
+    },
+    {
+        "text": "AT-AT",
+        "start": 41,
+        "end": 46
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 67,
+        "end": 81
+    },
+    {
+        "text": "Veers",
+        "start": 7,
+        "end": 12
+    },
+    {
+        "text": "walker",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "text": "generator",
+        "start": 78,
+        "end": 87
+    },
+    {
+        "text": "rebels",
+        "start": 110,
+        "end": 116
+    },
+    {
+        "text": "battlefield",
+        "start": 128,
+        "end": 139
+    },
+    {
+        "text": "Echo Base",
+        "start": 152,
+        "end": 161
+    },
+    {
+        "text": "invasion",
+        "start": 183,
+        "end": 191
+    },
+    {
+        "text": "orbital bombardment",
+        "start": 196,
+        "end": 215
+    },
+    {
+        "text": "Vader",
+        "start": 22,
+        "end": 27
+    },
+    {
+        "text": "Lambda-class T-4a shuttle",
+        "start": 30,
+        "end": 55
+    },
+    {
+        "text": "Hoth",
+        "start": 66,
+        "end": 70
+    },
+    {
+        "text": "battle",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "501st snowtroopers",
+        "start": 20,
+        "end": 38
+    },
+    {
+        "text": "Vader",
+        "start": 40,
+        "end": 45
+    },
+    {
+        "text": "shuttle",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "AT-AT walkers",
+        "start": 102,
+        "end": 115
+    },
+    {
+        "text": "troops",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "enemy",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "Vader",
+        "start": 46,
+        "end": 51
+    },
+    {
+        "text": "commander",
+        "start": 64,
+        "end": 73
+    },
+    {
+        "text": "rebel soldiers",
+        "start": 101,
+        "end": 115
+    },
+    {
+        "text": "Echo Base",
+        "start": 139,
+        "end": 148
+    },
+    {
+        "text": "commander center",
+        "start": 151,
+        "end": 167
+    },
+    {
+        "text": "destruction",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "base",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "shields",
+        "start": 30,
+        "end": 37
+    },
+    {
+        "text": "chaos",
+        "start": 45,
+        "end": 50
+    },
+    {
+        "text": "ground",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "rebel troops",
+        "start": 85,
+        "end": 97
+    },
+    {
+        "text": "retreated",
+        "start": 98,
+        "end": 107
+    },
+    {
+        "text": "shot",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "text": "base",
+        "start": 44,
+        "end": 48
+    },
+    {
+        "text": "Rebel forces",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Echo Base",
+        "start": 33,
+        "end": 42
+    },
+    {
+        "text": "south entrances",
+        "start": 57,
+        "end": 72
+    },
+    {
+        "text": "Clabburn Range",
+        "start": 80,
+        "end": 94
+    },
+    {
+        "text": "rebel transport",
+        "start": 131,
+        "end": 146
+    },
+    {
+        "text": "evacuation site",
+        "start": 147,
+        "end": 162
+    },
+    {
+        "text": "South Ridge",
+        "start": 174,
+        "end": 185
+    },
+    {
+        "text": "Private Kref",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Andry Ked",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "snowtroopers",
+        "start": 73,
+        "end": 85
+    },
+    {
+        "text": "Ked",
+        "start": 98,
+        "end": 101
+    },
+    {
+        "text": "rebel soldier",
+        "start": 4,
+        "end": 17
+    },
+    {
+        "text": "battle",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "fighting",
+        "start": 65,
+        "end": 73
+    },
+    {
+        "text": "troopers",
+        "start": 10,
+        "end": 18
+    },
+    {
+        "text": "Sergeant Maxim",
+        "start": 34,
+        "end": 48
+    },
+    {
+        "text": "tauntaun",
+        "start": 58,
+        "end": 66
+    },
+    {
+        "text": "Reebak",
+        "start": 73,
+        "end": 79
+    },
+    {
+        "text": "E-web team",
+        "start": 93,
+        "end": 103
+    },
+    {
+        "text": "GR-75",
+        "start": 118,
+        "end": 123
+    },
+    {
+        "text": "sergeant",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "tauntaun",
+        "start": 45,
+        "end": 53
+    },
+    {
+        "text": "retreat",
+        "start": 7,
+        "end": 14
+    },
+    {
+        "text": "Blizzard 1",
+        "start": 26,
+        "end": 36
+    },
+    {
+        "text": "Kref",
+        "start": 64,
+        "end": 68
+    },
+    {
+        "text": "Ked",
+        "start": 73,
+        "end": 76
+    },
+    {
+        "text": "rebel",
+        "start": 24,
+        "end": 29
+    },
+    {
+        "text": "snowspeeder",
+        "start": 30,
+        "end": 41
+    },
+    {
+        "text": "Derek Klivian",
+        "start": 51,
+        "end": 64
+    },
+    {
+        "text": "AT-AT",
+        "start": 93,
+        "end": 98
+    },
+    {
+        "text": "Blizzard 1",
+        "start": 118,
+        "end": 128
+    },
+    {
+        "text": "walker",
+        "start": 155,
+        "end": 161
+    },
+    {
+        "text": "Veers",
+        "start": 184,
+        "end": 189
+    },
+    {
+        "text": "Echo Base",
+        "start": 20,
+        "end": 29
+    },
+    {
+        "text": "Han Solo",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "Rebellion",
+        "start": 72,
+        "end": 81
+    },
+    {
+        "text": "Organa",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "Toryn Farr",
+        "start": 188,
+        "end": 198
+    },
+    {
+        "text": "Commander Chiffonage",
+        "start": 203,
+        "end": 223
+    },
+    {
+        "text": "Darth Vader",
+        "start": 14,
+        "end": 25
+    },
+    {
+        "text": "forces",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Echo Base",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "mountain",
+        "start": 88,
+        "end": 96
+    },
+    {
+        "text": "eastern face",
+        "start": 99,
+        "end": 111
+    },
+    {
+        "text": "Vader",
+        "start": 148,
+        "end": 153
+    },
+    {
+        "text": "Force powers",
+        "start": 156,
+        "end": 168
+    },
+    {
+        "text": "rebel troopers",
+        "start": 13,
+        "end": 27
+    },
+    {
+        "text": "Imperial breach",
+        "start": 82,
+        "end": 97
+    },
+    {
+        "text": "command center",
+        "start": 126,
+        "end": 140
+    },
+    {
+        "text": "Vader",
+        "start": 142,
+        "end": 147
+    },
+    {
+        "text": "snowtroopers",
+        "start": 150,
+        "end": 162
+    },
+    {
+        "text": "Dark Lord",
+        "start": 191,
+        "end": 200
+    },
+    {
+        "text": "rocket launcher",
+        "start": 228,
+        "end": 243
+    },
+    {
+        "text": "rebel lines",
+        "start": 253,
+        "end": 264
+    },
+    {
+        "text": "invasion",
+        "start": 21,
+        "end": 29
+    },
+    {
+        "text": "snowtroopers",
+        "start": 31,
+        "end": 43
+    },
+    {
+        "text": "Echo Base",
+        "start": 63,
+        "end": 72
+    },
+    {
+        "text": "rebel",
+        "start": 93,
+        "end": 98
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "rebel",
+        "start": 24,
+        "end": 29
+    },
+    {
+        "text": "Echo Base",
+        "start": 104,
+        "end": 113
+    },
+    {
+        "text": "son",
+        "start": 150,
+        "end": 153
+    },
+    {
+        "text": "troopers",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "sector twelve",
+        "start": 43,
+        "end": 56
+    },
+    {
+        "text": "southern slope",
+        "start": 78,
+        "end": 92
+    },
+    {
+        "text": "fighters",
+        "start": 109,
+        "end": 117
+    },
+    {
+        "text": "Organa",
+        "start": 125,
+        "end": 131
+    },
+    {
+        "text": "Solo",
+        "start": 144,
+        "end": 148
+    },
+    {
+        "text": "Chiffonage",
+        "start": 166,
+        "end": 176
+    },
+    {
+        "text": "commander",
+        "start": 233,
+        "end": 242
+    },
+    {
+        "text": "Farr",
+        "start": 247,
+        "end": 251
+    },
+    {
+        "text": "evacuation transport",
+        "start": 265,
+        "end": 285
+    },
+    {
+        "text": "Chiffonage",
+        "start": 5,
+        "end": 15
+    },
+    {
+        "text": "rebel soldiers",
+        "start": 50,
+        "end": 64
+    },
+    {
+        "text": "trenches",
+        "start": 89,
+        "end": 97
+    },
+    {
+        "text": "Imperial",
+        "start": 115,
+        "end": 123
+    },
+    {
+        "text": "Skywalker",
+        "start": 142,
+        "end": 151
+    },
+    {
+        "text": "AT-AT",
+        "start": 180,
+        "end": 185
+    },
+    {
+        "text": "Blizzard 4",
+        "start": 186,
+        "end": 196
+    },
+    {
+        "text": "grenade",
+        "start": 204,
+        "end": 211
+    },
+    {
+        "text": "rebels",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "Veers",
+        "start": 48,
+        "end": 53
+    },
+    {
+        "text": "AT-ATs",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "TIE/LN",
+        "start": 78,
+        "end": 84
+    },
+    {
+        "text": "planet",
+        "start": 116,
+        "end": 122
+    },
+    {
+        "text": "survivors",
+        "start": 182,
+        "end": 191
+    },
+    {
+        "text": "transports",
+        "start": 219,
+        "end": 229
+    },
+    {
+        "text": "base",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "text": "rebels",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "text": "starships",
+        "start": 100,
+        "end": 109
+    },
+    {
+        "text": "firefights",
+        "start": 116,
+        "end": 126
+    },
+    {
+        "text": "Imperial",
+        "start": 135,
+        "end": 143
+    },
+    {
+        "text": "rebel forces",
+        "start": 148,
+        "end": 160
+    },
+    {
+        "text": "corridors",
+        "start": 176,
+        "end": 185
+    },
+    {
+        "text": "base",
+        "start": 216,
+        "end": 220
+    },
+    {
+        "text": "wampas",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "text": "Echo Base",
+        "start": 40,
+        "end": 49
+    },
+    {
+        "text": "snowtroopers",
+        "start": 59,
+        "end": 71
+    },
+    {
+        "text": "wampas",
+        "start": 126,
+        "end": 132
+    },
+    {
+        "text": "First Sergeant Namir",
+        "start": 0,
+        "end": 20
+    },
+    {
+        "text": "Roja",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "Beak",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "text": "Micha Evon",
+        "start": 79,
+        "end": 89
+    },
+    {
+        "text": "Everi Chalis",
+        "start": 106,
+        "end": 118
+    },
+    {
+        "text": "Namir",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "corridors",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "hangar",
+        "start": 51,
+        "end": 57
+    },
+    {
+        "text": "shuttle",
+        "start": 94,
+        "end": 101
+    },
+    {
+        "text": "Roja",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Beak",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "text": "Evon",
+        "start": 24,
+        "end": 28
+    },
+    {
+        "text": "corridors",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "Wilsorr",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "text": "soldiers",
+        "start": 83,
+        "end": 91
+    },
+    {
+        "text": "communications officers",
+        "start": 93,
+        "end": 116
+    },
+    {
+        "text": "refugees",
+        "start": 132,
+        "end": 140
+    },
+    {
+        "text": "Habassa II",
+        "start": 146,
+        "end": 156
+    },
+    {
+        "text": "evacuation transports",
+        "start": 43,
+        "end": 64
+    },
+    {
+        "text": "tauntaun",
+        "start": 97,
+        "end": 105
+    },
+    {
+        "text": "Jordan Smythe",
+        "start": 144,
+        "end": 157
+    },
+    {
+        "text": "three minutes",
+        "start": 169,
+        "end": 182
+    },
+    {
+        "text": "GR-75",
+        "start": 199,
+        "end": 204
+    },
+    {
+        "text": "Bright Hope",
+        "start": 210,
+        "end": 221
+    },
+    {
+        "text": "Wilsorr",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Smythe",
+        "start": 14,
+        "end": 20
+    },
+    {
+        "text": "tauntaun",
+        "start": 30,
+        "end": 38
+    },
+    {
+        "text": "Sunshine",
+        "start": 39,
+        "end": 47
+    },
+    {
+        "text": "handler",
+        "start": 67,
+        "end": 74
+    },
+    {
+        "text": "Smythe",
+        "start": 107,
+        "end": 113
+    },
+    {
+        "text": "tauntaun",
+        "start": 116,
+        "end": 124
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "snowtroopers",
+        "start": 21,
+        "end": 33
+    },
+    {
+        "text": "Namir",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "first sergeant",
+        "start": 65,
+        "end": 79
+    },
+    {
+        "text": "hangar",
+        "start": 116,
+        "end": 122
+    },
+    {
+        "text": "Namir",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Roja",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "text": "Beak",
+        "start": 16,
+        "end": 20
+    },
+    {
+        "text": "Vader",
+        "start": 35,
+        "end": 40
+    },
+    {
+        "text": "Sith Lord",
+        "start": 65,
+        "end": 74
+    },
+    {
+        "text": "Beak",
+        "start": 101,
+        "end": 105
+    },
+    {
+        "text": "rebel",
+        "start": 123,
+        "end": 128
+    },
+    {
+        "text": "lightsaber",
+        "start": 138,
+        "end": 148
+    },
+    {
+        "text": "Roja",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "fragmentation grenade",
+        "start": 18,
+        "end": 39
+    },
+    {
+        "text": "Vader",
+        "start": 43,
+        "end": 48
+    },
+    {
+        "text": "Sith",
+        "start": 77,
+        "end": 81
+    },
+    {
+        "text": "Namir",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "Roja",
+        "start": 5,
+        "end": 9
+    },
+    {
+        "text": "Evon",
+        "start": 30,
+        "end": 34
+    },
+    {
+        "text": "Chalis",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Sith Lord",
+        "start": 75,
+        "end": 84
+    },
+    {
+        "text": "Vader",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Skywalker",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "snowtrooper",
+        "start": 76,
+        "end": 87
+    },
+    {
+        "text": "YT-1300 light freighter",
+        "start": 128,
+        "end": 151
+    },
+    {
+        "text": "Millennium Falcon",
+        "start": 152,
+        "end": 169
+    },
+    {
+        "text": "Chalis",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "Sith",
+        "start": 35,
+        "end": 39
+    },
+    {
+        "text": "Falcon",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "text": "Solo",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Organa",
+        "start": 6,
+        "end": 12
+    },
+    {
+        "text": "C-3PO",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "R2-D2",
+        "start": 41,
+        "end": 46
+    },
+    {
+        "text": "Bright Hope",
+        "start": 69,
+        "end": 80
+    },
+    {
+        "text": "hallway collapse",
+        "start": 86,
+        "end": 102
+    },
+    {
+        "text": "Solo",
+        "start": 172,
+        "end": 176
+    },
+    {
+        "text": "Millennium Falcon",
+        "start": 179,
+        "end": 196
+    },
+    {
+        "text": "troopers",
+        "start": 5,
+        "end": 13
+    },
+    {
+        "text": "hangar",
+        "start": 30,
+        "end": 36
+    },
+    {
+        "text": "Falcon",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "light freighter",
+        "start": 68,
+        "end": 83
+    },
+    {
+        "text": "snowtroopers",
+        "start": 198,
+        "end": 210
+    },
+    {
+        "text": "ship",
+        "start": 228,
+        "end": 232
+    },
+    {
+        "text": "weapons systems",
+        "start": 235,
+        "end": 250
+    },
+    {
+        "text": "Vader",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "Millennium Falcon",
+        "start": 27,
+        "end": 44
+    },
+    {
+        "text": "hangar",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "text": "Hoth system",
+        "start": 95,
+        "end": 106
+    },
+    {
+        "text": "Solo",
+        "start": 117,
+        "end": 121
+    },
+    {
+        "text": "Rebel",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 18,
+        "end": 32
+    },
+    {
+        "text": "Echo Base",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Empire",
+        "start": 87,
+        "end": 93
+    },
+    {
+        "text": "X-Wing",
+        "start": 126,
+        "end": 132
+    },
+    {
+        "text": "GR-75",
+        "start": 148,
+        "end": 153
+    },
+    {
+        "text": "Dutyfree",
+        "start": 171,
+        "end": 179
+    },
+    {
+        "text": "Wedge Antilles",
+        "start": 196,
+        "end": 210
+    },
+    {
+        "text": "planet",
+        "start": 219,
+        "end": 225
+    },
+    {
+        "text": "Luke",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "rendezvous point",
+        "start": 33,
+        "end": 49
+    },
+    {
+        "text": "Jedi",
+        "start": 67,
+        "end": 71
+    },
+    {
+        "text": "Yoda",
+        "start": 79,
+        "end": 83
+    },
+    {
+        "text": "force ghost",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Jedi",
+        "start": 131,
+        "end": 135
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 136,
+        "end": 150
+    },
+    {
+        "text": "Solo",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "text": "engine",
+        "start": 69,
+        "end": 75
+    },
+    {
+        "text": "Imperial fleet",
+        "start": 118,
+        "end": 132
+    },
+    {
+        "text": "First Sergeant Namir",
+        "start": 5,
+        "end": 25
+    },
+    {
+        "text": "Everi Chalis",
+        "start": 30,
+        "end": 42
+    },
+    {
+        "text": "Vader",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "rebel transport",
+        "start": 134,
+        "end": 149
+    },
+    {
+        "text": "Star Destroyer",
+        "start": 178,
+        "end": 192
+    },
+    {
+        "text": "Chalis",
+        "start": 211,
+        "end": 217
+    },
+    {
+        "text": "Imperial",
+        "start": 226,
+        "end": 234
+    },
+    {
+        "text": "Destroyer",
+        "start": 11,
+        "end": 20
+    },
+    {
+        "text": "two",
+        "start": 57,
+        "end": 60
+    },
+    {
+        "text": "hyperspace",
+        "start": 78,
+        "end": 88
+    },
+    {
+        "text": "future events",
+        "start": 131,
+        "end": 144
+    },
+    {
+        "text": "Selgrothe",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "transport",
+        "start": 12,
+        "end": 21
+    },
+    {
+        "text": "blockade",
+        "start": 39,
+        "end": 47
+    },
+    {
+        "text": "Imperial forces",
+        "start": 74,
+        "end": 89
+    },
+    {
+        "text": "Farr",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Bright Hope",
+        "start": 25,
+        "end": 36
+    },
+    {
+        "text": "Kref",
+        "start": 49,
+        "end": 53
+    },
+    {
+        "text": "Ked",
+        "start": 58,
+        "end": 61
+    },
+    {
+        "text": "Doctor Melthabi",
+        "start": 26,
+        "end": 41
+    },
+    {
+        "text": "Officer Sendak",
+        "start": 43,
+        "end": 57
+    },
+    {
+        "text": "Deck Officer Meeks",
+        "start": 59,
+        "end": 77
+    },
+    {
+        "text": "Rainn Poras",
+        "start": 93,
+        "end": 104
+    },
+    {
+        "text": "Wilsorr",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Smythe",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "text": "transport",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "GR-75",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "Sunshine",
+        "start": 105,
+        "end": 113
+    },
+    {
+        "text": "Bright Hope",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "Antilles",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Tarrin",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "text": "Wes Janson",
+        "start": 65,
+        "end": 75
+    },
+    {
+        "text": "GR-75 transports",
+        "start": 10,
+        "end": 26
+    },
+    {
+        "text": "Rebels",
+        "start": 43,
+        "end": 49
+    },
+    {
+        "text": "Rebel",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Adon Fox",
+        "start": 12,
+        "end": 20
+    },
+    {
+        "text": "Hoth",
+        "start": 33,
+        "end": 37
+    },
+    {
+        "text": "transports",
+        "start": 59,
+        "end": 69
+    },
+    {
+        "text": "X-wing",
+        "start": 76,
+        "end": 82
+    },
+    {
+        "text": "transport",
+        "start": 13,
+        "end": 22
+    },
+    {
+        "text": "wife",
+        "start": 36,
+        "end": 40
+    },
+    {
+        "text": "Hoth",
+        "start": 81,
+        "end": 85
+    },
+    {
+        "text": "Biologist",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Kell Tolkani",
+        "start": 10,
+        "end": 22
+    },
+    {
+        "text": "Hoth",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "text": "Empire",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "wampas",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "text": "war",
+        "start": 152,
+        "end": 155
+    },
+    {
+        "text": "Rebellion",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "Hoth",
+        "start": 58,
+        "end": 62
+    },
+    {
+        "text": "Alliance Fleet",
+        "start": 87,
+        "end": 101
+    },
+    {
+        "text": "Alliance High Command",
+        "start": 106,
+        "end": 127
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 178,
+        "end": 192
+    },
+    {
+        "text": "Hoth",
+        "start": 61,
+        "end": 65
+    },
+    {
+        "text": "Han Solo",
+        "start": 66,
+        "end": 74
+    },
+    {
+        "text": "company",
+        "start": 79,
+        "end": 86
+    },
+    {
+        "text": "Millennium",
+        "start": 109,
+        "end": 119
+    },
+    {
+        "text": "Vader",
+        "start": 142,
+        "end": 147
+    },
+    {
+        "text": "forces",
+        "start": 150,
+        "end": 156
+    },
+    {
+        "text": "Solo",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "ship",
+        "start": 14,
+        "end": 18
+    },
+    {
+        "text": "Imperial Star Destroyer",
+        "start": 81,
+        "end": 104
+    },
+    {
+        "text": "Solo",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Falcon",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Star Destroyers",
+        "start": 46,
+        "end": 61
+    },
+    {
+        "text": "Falcon",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Solo",
+        "start": 161,
+        "end": 165
+    },
+    {
+        "text": "Falcon",
+        "start": 197,
+        "end": 203
+    },
+    {
+        "text": "asteroid field",
+        "start": 218,
+        "end": 232
+    },
+    {
+        "text": "Imperial",
+        "start": 259,
+        "end": 267
+    },
+    {
+        "text": "space slug",
+        "start": 74,
+        "end": 84
+    },
+    {
+        "text": "beast",
+        "start": 29,
+        "end": 34
+    },
+    {
+        "text": "Falcon",
+        "start": 65,
+        "end": 71
+    },
+    {
+        "text": "Star Destroyer Avenger",
+        "start": 94,
+        "end": 116
+    },
+    {
+        "text": "They",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "hyperdrive",
+        "start": 57,
+        "end": 67
+    },
+    {
+        "text": "Solo",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Chewbacca",
+        "start": 14,
+        "end": 23
+    },
+    {
+        "text": "Avenger",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "text": "bridge",
+        "start": 72,
+        "end": 78
+    },
+    {
+        "text": "suicidal attack run",
+        "start": 94,
+        "end": 113
+    },
+    {
+        "text": "ship",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Avenger",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "Solo",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "text": "Falcon",
+        "start": 43,
+        "end": 49
+    },
+    {
+        "text": "blind spot",
+        "start": 55,
+        "end": 65
+    },
+    {
+        "text": "conning tower",
+        "start": 73,
+        "end": 86
+    },
+    {
+        "text": "Star Destroyer",
+        "start": 94,
+        "end": 108
+    },
+    {
+        "text": "Imperial",
+        "start": 21,
+        "end": 29
+    },
+    {
+        "text": "Star Destroyers",
+        "start": 45,
+        "end": 60
+    },
+    {
+        "text": "Death Squadron",
+        "start": 64,
+        "end": 78
+    },
+    {
+        "text": "Solo",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Chewbacca",
+        "start": 19,
+        "end": 28
+    },
+    {
+        "text": "landing claws",
+        "start": 51,
+        "end": 64
+    },
+    {
+        "text": "Falcon",
+        "start": 79,
+        "end": 85
+    },
+    {
+        "text": "Boba Fett",
+        "start": 150,
+        "end": 159
+    },
+    {
+        "text": "Slave I",
+        "start": 218,
+        "end": 225
+    },
+    {
+        "text": "Falcon",
+        "start": 241,
+        "end": 247
+    },
+    {
+        "text": "system",
+        "start": 263,
+        "end": 269
+    },
+    {
+        "text": "battle",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 36,
+        "end": 50
+    },
+    {
+        "text": "Commander Hill Purpura",
+        "start": 131,
+        "end": 153
+    },
+    {
+        "text": "Rebel fleet",
+        "start": 9,
+        "end": 20
+    },
+    {
+        "text": "battle",
+        "start": 41,
+        "end": 47
+    },
+    {
+        "text": "rally points",
+        "start": 53,
+        "end": 65
+    },
+    {
+        "text": "Empire",
+        "start": 98,
+        "end": 104
+    },
+    {
+        "text": "Hoth",
+        "start": 38,
+        "end": 42
+    },
+    {
+        "text": "Alliance High Command",
+        "start": 44,
+        "end": 65
+    },
+    {
+        "text": "rebel elements",
+        "start": 101,
+        "end": 115
+    },
+    {
+        "text": "Outer Rim",
+        "start": 143,
+        "end": 152
+    },
+    {
+        "text": "Imperial battle groups",
+        "start": 160,
+        "end": 182
+    },
+    {
+        "text": "Core Worlds",
+        "start": 192,
+        "end": 203
+    },
+    {
+        "text": "rebel fleet",
+        "start": 248,
+        "end": 259
+    },
+    {
+        "text": "Commander Ellian Zahra",
+        "start": 13,
+        "end": 35
+    },
+    {
+        "text": "Rebel",
+        "start": 54,
+        "end": 59
+    },
+    {
+        "text": "fleet groups",
+        "start": 83,
+        "end": 95
+    },
+    {
+        "text": "Rebels",
+        "start": 155,
+        "end": 161
+    },
+    {
+        "text": "Eighth Division",
+        "start": 180,
+        "end": 195
+    },
+    {
+        "text": "communications breakdown",
+        "start": 12,
+        "end": 36
+    },
+    {
+        "text": "Rebels",
+        "start": 42,
+        "end": 48
+    },
+    {
+        "text": "Empire",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "crushing defeat",
+        "start": 137,
+        "end": 152
+    },
+    {
+        "text": "Imperial",
+        "start": 29,
+        "end": 37
+    },
+    {
+        "text": "rebel",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "Rebels",
+        "start": 145,
+        "end": 151
+    },
+    {
+        "text": "snowspeeders",
+        "start": 196,
+        "end": 208
+    },
+    {
+        "text": "Echo Base",
+        "start": 244,
+        "end": 253
+    },
+    {
+        "text": "rebel weapons",
+        "start": 6,
+        "end": 19
+    },
+    {
+        "text": "Empire",
+        "start": 41,
+        "end": 47
+    },
+    {
+        "text": "foot soldiers",
+        "start": 71,
+        "end": 84
+    },
+    {
+        "text": "rebel forces",
+        "start": 97,
+        "end": 109
+    },
+    {
+        "text": "troopers",
+        "start": 118,
+        "end": 126
+    },
+    {
+        "text": "Echo Base",
+        "start": 130,
+        "end": 139
+    },
+    {
+        "text": "rebel forces",
+        "start": 178,
+        "end": 190
+    },
+    {
+        "text": "Mid Rim Retreat",
+        "start": 202,
+        "end": 217
+    },
+    {
+        "text": "Hazram Namir",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Everi Chalis",
+        "start": 17,
+        "end": 29
+    },
+    {
+        "text": "Sixty-First",
+        "start": 65,
+        "end": 76
+    },
+    {
+        "text": "Micha Evon",
+        "start": 114,
+        "end": 124
+    },
+    {
+        "text": "Chalis",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Imperial forces",
+        "start": 29,
+        "end": 44
+    },
+    {
+        "text": "Imperial",
+        "start": 80,
+        "end": 88
+    },
+    {
+        "text": "Kuat Drive Yards",
+        "start": 128,
+        "end": 144
+    },
+    {
+        "text": "Operation Ringbreaker",
+        "start": 24,
+        "end": 45
+    },
+    {
+        "text": "Imperial",
+        "start": 87,
+        "end": 95
+    },
+    {
+        "text": "manufacturing world",
+        "start": 142,
+        "end": 161
+    },
+    {
+        "text": "Sullust",
+        "start": 165,
+        "end": 172
+    },
+    {
+        "text": "mission",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "text": "Solo",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "text": "Boba Fett",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "Skywalker",
+        "start": 63,
+        "end": 72
+    },
+    {
+        "text": "Organa",
+        "start": 74,
+        "end": 80
+    },
+    {
+        "text": "C-3PO",
+        "start": 82,
+        "end": 87
+    },
+    {
+        "text": "R2-D2",
+        "start": 89,
+        "end": 94
+    },
+    {
+        "text": "Chewbacca",
+        "start": 100,
+        "end": 109
+    },
+    {
+        "text": "Rebel fleet",
+        "start": 144,
+        "end": 155
+    },
+    {
+        "text": "Lando Calrissian",
+        "start": 184,
+        "end": 200
+    },
+    {
+        "text": "Hoth",
+        "start": 46,
+        "end": 50
+    },
+    {
+        "text": "rebels",
+        "start": 73,
+        "end": 79
+    },
+    {
+        "text": "battle",
+        "start": 94,
+        "end": 100
+    },
+    {
+        "text": "war",
+        "start": 59,
+        "end": 62
+    },
+    {
+        "text": "Chewbacca",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Calrissian",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Organa",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "Skywalker",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Echo Base",
+        "start": 72,
+        "end": 81
+    },
+    {
+        "text": "battle",
+        "start": 132,
+        "end": 138
+    },
+    {
+        "text": "Imperial",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "text": "rebels",
+        "start": 64,
+        "end": 70
+    },
+    {
+        "text": "Battle of Hoth",
+        "start": 25,
+        "end": 39
+    },
+    {
+        "text": "Zahra",
+        "start": 47,
+        "end": 52
+    },
+    {
+        "text": "Rebel fleet",
+        "start": 68,
+        "end": 79
+    },
+    {
+        "text": "Battle of Panisia",
+        "start": 114,
+        "end": 131
+    },
+    {
+        "text": "Alliance",
+        "start": 137,
+        "end": 145
+    },
+    {
+        "text": "Unity Day",
+        "start": 181,
+        "end": 190
+    },
+    {
+        "text": "rebellion",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "5251977",
+        "start": 85,
+        "end": 92
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 104,
+        "end": 122
+    },
+    {
+        "text": "galaxy",
+        "start": 157,
+        "end": 163
+    },
+    {
+        "text": "Hoth",
+        "start": 15,
+        "end": 19
+    },
+    {
+        "text": "rebel",
+        "start": 43,
+        "end": 48
+    },
+    {
+        "text": "Hoth",
+        "start": 80,
+        "end": 84
+    },
+    {
+        "text": "ISB",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Sliro Barsha",
+        "start": 14,
+        "end": 26
+    },
+    {
+        "text": "Imperial Army",
+        "start": 56,
+        "end": 69
+    },
+    {
+        "text": "rebel fleet",
+        "start": 114,
+        "end": 125
+    },
+    {
+        "text": "Zerek Besh",
+        "start": 33,
+        "end": 43
+    },
+    {
+        "text": "ISB",
+        "start": 48,
+        "end": 51
+    },
+    {
+        "text": "syndicate",
+        "start": 73,
+        "end": 82
+    },
+    {
+        "text": "galactic underworld",
+        "start": 116,
+        "end": 135
+    },
+    {
+        "text": "rebels",
+        "start": 179,
+        "end": 185
+    },
+    {
+        "text": "Beaumont Kin",
+        "start": 24,
+        "end": 36
+    },
+    {
+        "text": "Battle of Hoth",
+        "start": 59,
+        "end": 73
+    },
+    {
+        "text": "Empire",
+        "start": 103,
+        "end": 109
+    },
+    {
+        "text": "Imperial",
+        "start": 139,
+        "end": 147
+    },
+    {
+        "text": "rebels",
+        "start": 202,
+        "end": 208
+    },
+    {
+        "text": "Alliance",
+        "start": 261,
+        "end": 269
+    },
+    {
+        "text": "Vader",
+        "start": 5,
+        "end": 10
+    },
+    {
+        "text": "Skywalker",
+        "start": 54,
+        "end": 63
+    },
+    {
+        "text": "Alliance",
+        "start": 85,
+        "end": 93
+    },
+    {
+        "text": "Imperial Military",
+        "start": 134,
+        "end": 151
+    },
+    {
+        "text": "Supreme Commander",
+        "start": 163,
+        "end": 180
+    },
+    {
+        "text": "Emperor",
+        "start": 199,
+        "end": 206
+    },
+    {
+        "text": "Hoth",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "Alliance",
+        "start": 32,
+        "end": 40
+    },
+    {
+        "text": "DS-2 Death Star II Mobile Battle Station",
+        "start": 68,
+        "end": 108
+    },
+    {
+        "text": "Imperial",
+        "start": 125,
+        "end": 133
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 176,
+        "end": 191
+    },
+    {
+        "text": "Lord Vader",
+        "start": 227,
+        "end": 237
+    },
+    {
+        "text": "New Republic",
+        "start": 283,
+        "end": 295
+    },
+    {
+        "text": "galaxy",
+        "start": 347,
+        "end": 353
+    },
+    {
+        "text": "Civil War",
+        "start": 7,
+        "end": 16
+    },
+    {
+        "text": "Hoth",
+        "start": 80,
+        "end": 84
+    },
+    {
+        "text": "Alliance",
+        "start": 90,
+        "end": 98
+    },
+    {
+        "text": "Endor",
+        "start": 136,
+        "end": 141
+    },
+    {
+        "text": "Empire",
+        "start": 201,
+        "end": 207
+    },
+    {
+        "text": "year",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "text": "world",
+        "start": 34,
+        "end": 39
+    },
+    {
+        "text": "Uprising",
+        "start": 104,
+        "end": 112
+    },
+    {
+        "text": "Iron Blockade",
+        "start": 124,
+        "end": 137
+    },
+    {
+        "text": "Hoth",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 54,
+        "end": 69
+    },
+    {
+        "text": "Uprising",
+        "start": 87,
+        "end": 95
+    },
+    {
+        "text": "Aftermath arena",
+        "start": 4,
+        "end": 19
+    },
+    {
+        "text": "Grand Arena of Vespaara",
+        "start": 27,
+        "end": 50
+    },
+    {
+        "text": "Hoth",
+        "start": 84,
+        "end": 88
+    },
+    {
+        "text": "Endor",
+        "start": 93,
+        "end": 98
+    },
+    {
+        "text": "Hoth-half",
+        "start": 109,
+        "end": 118
+    },
+    {
+        "text": "Imperial equipment",
+        "start": 187,
+        "end": 205
+    },
+    {
+        "text": "Hoth",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Hunters of the Outer Rim",
+        "start": 57,
+        "end": 81
+    },
+    {
+        "text": "Battle of Hoth",
+        "start": 104,
+        "end": 118
+    }
+]

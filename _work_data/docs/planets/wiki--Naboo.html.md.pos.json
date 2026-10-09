@@ -1,0 +1,3517 @@
+[
+    {
+        "text": "Naboo",
+        "start": 2,
+        "end": 7
+    },
+    {
+        "text": "Naboo",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "text": "Chommell sector",
+        "start": 45,
+        "end": 60
+    },
+    {
+        "text": "Mid Rim",
+        "start": 68,
+        "end": 75
+    },
+    {
+        "text": "Trailing Sectors",
+        "start": 84,
+        "end": 100
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 132,
+        "end": 153
+    },
+    {
+        "text": "Gungan",
+        "start": 30,
+        "end": 36
+    },
+    {
+        "text": "humans",
+        "start": 68,
+        "end": 74
+    },
+    {
+        "text": "Naboo",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Dark Lord of the Sith",
+        "start": 80,
+        "end": 101
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 102,
+        "end": 117
+    },
+    {
+        "text": "Senate",
+        "start": 159,
+        "end": 165
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 173,
+        "end": 190
+    },
+    {
+        "text": "Sith",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 34,
+        "end": 47
+    },
+    {
+        "text": "Palpatine",
+        "start": 49,
+        "end": 58
+    },
+    {
+        "text": "invasion",
+        "start": 82,
+        "end": 90
+    },
+    {
+        "text": "homeworld",
+        "start": 107,
+        "end": 116
+    },
+    {
+        "text": "Trade Federation",
+        "start": 124,
+        "end": 140
+    },
+    {
+        "text": "megacorporation",
+        "start": 144,
+        "end": 159
+    },
+    {
+        "text": "Federation",
+        "start": 85,
+        "end": 95
+    },
+    {
+        "text": "invasion",
+        "start": 98,
+        "end": 106
+    },
+    {
+        "text": "Senate",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "Palpatine",
+        "start": 164,
+        "end": 173
+    },
+    {
+        "text": "Naboo",
+        "start": 205,
+        "end": 210
+    },
+    {
+        "text": "Padmé Amidala",
+        "start": 212,
+        "end": 225
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "resistance movement",
+        "start": 25,
+        "end": 44
+    },
+    {
+        "text": "Federation",
+        "start": 61,
+        "end": 71
+    },
+    {
+        "text": "Battle of Naboo",
+        "start": 98,
+        "end": 113
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Republic",
+        "start": 75,
+        "end": 83
+    },
+    {
+        "text": "Amidala",
+        "start": 90,
+        "end": 97
+    },
+    {
+        "text": "planet",
+        "start": 133,
+        "end": 139
+    },
+    {
+        "text": "senatorial representative",
+        "start": 142,
+        "end": 167
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Republic",
+        "start": 93,
+        "end": 101
+    },
+    {
+        "text": "Clone Wars",
+        "start": 126,
+        "end": 136
+    },
+    {
+        "text": "Confederacy of Independent Systems",
+        "start": 189,
+        "end": 223
+    },
+    {
+        "text": "war",
+        "start": 19,
+        "end": 22
+    },
+    {
+        "text": "end",
+        "start": 25,
+        "end": 28
+    },
+    {
+        "text": "Palpatine",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 112,
+        "end": 127
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Alliance to Restore the Republic",
+        "start": 51,
+        "end": 83
+    },
+    {
+        "text": "Amidala",
+        "start": 109,
+        "end": 116
+    },
+    {
+        "text": "Leia Organa",
+        "start": 129,
+        "end": 140
+    },
+    {
+        "text": "Luke Skywalker",
+        "start": 145,
+        "end": 159
+    },
+    {
+        "text": "Palpatine",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Naboo",
+        "start": 109,
+        "end": 114
+    },
+    {
+        "text": "Operation: Cinder",
+        "start": 147,
+        "end": 164
+    },
+    {
+        "text": "Sith Lord",
+        "start": 186,
+        "end": 195
+    },
+    {
+        "text": "Imperial",
+        "start": 224,
+        "end": 232
+    },
+    {
+        "text": "Emperor",
+        "start": 274,
+        "end": 281
+    },
+    {
+        "text": "Organa",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Queen Sosha Soruna",
+        "start": 39,
+        "end": 57
+    },
+    {
+        "text": "Naboo",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "Alliance",
+        "start": 156,
+        "end": 164
+    },
+    {
+        "text": "New Republic",
+        "start": 170,
+        "end": 182
+    },
+    {
+        "text": "Decades",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "planet",
+        "start": 19,
+        "end": 25
+    },
+    {
+        "text": "military junta",
+        "start": 83,
+        "end": 97
+    },
+    {
+        "text": "First Order",
+        "start": 105,
+        "end": 116
+    },
+    {
+        "text": "war",
+        "start": 128,
+        "end": 131
+    },
+    {
+        "text": "Organa",
+        "start": 137,
+        "end": 143
+    },
+    {
+        "text": "Resistance",
+        "start": 146,
+        "end": 156
+    },
+    {
+        "text": "Naboo",
+        "start": 16,
+        "end": 21
+    },
+    {
+        "text": "Mid Rim",
+        "start": 56,
+        "end": 63
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 96,
+        "end": 117
+    },
+    {
+        "text": "Core Worlds",
+        "start": 147,
+        "end": 158
+    },
+    {
+        "text": "ancient planet",
+        "start": 30,
+        "end": 44
+    },
+    {
+        "text": "network of tunnels",
+        "start": 142,
+        "end": 160
+    },
+    {
+        "text": "flooded caves",
+        "start": 165,
+        "end": 178
+    },
+    {
+        "text": "Gungans",
+        "start": 11,
+        "end": 18
+    },
+    {
+        "text": "Naboo",
+        "start": 59,
+        "end": 64
+    },
+    {
+        "text": "Caves of Eleuabad",
+        "start": 224,
+        "end": 241
+    },
+    {
+        "text": "Gungan",
+        "start": 22,
+        "end": 28
+    },
+    {
+        "text": "planet",
+        "start": 87,
+        "end": 93
+    },
+    {
+        "text": "planet",
+        "start": 178,
+        "end": 184
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Naboo",
+        "start": 141,
+        "end": 146
+    },
+    {
+        "text": "astrophysicists",
+        "start": 176,
+        "end": 191
+    },
+    {
+        "text": "galaxy",
+        "start": 267,
+        "end": 273
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "rolling plains",
+        "start": 69,
+        "end": 83
+    },
+    {
+        "text": "grassy hills",
+        "start": 88,
+        "end": 100
+    },
+    {
+        "text": "swampy lakes",
+        "start": 104,
+        "end": 116
+    },
+    {
+        "text": "deep-sea tunnels",
+        "start": 155,
+        "end": 171
+    },
+    {
+        "text": "swamps",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "world",
+        "start": 37,
+        "end": 42
+    },
+    {
+        "text": "seas",
+        "start": 45,
+        "end": 49
+    },
+    {
+        "text": "legendary creatures",
+        "start": 57,
+        "end": 76
+    },
+    {
+        "text": "Naboo",
+        "start": 29,
+        "end": 34
+    },
+    {
+        "text": "population centers",
+        "start": 107,
+        "end": 125
+    },
+    {
+        "text": "porous crust",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "planet",
+        "start": 137,
+        "end": 143
+    },
+    {
+        "text": "Naboo",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "shaak",
+        "start": 79,
+        "end": 84
+    },
+    {
+        "text": "opee sea killer",
+        "start": 184,
+        "end": 199
+    },
+    {
+        "text": "sando aqua monster",
+        "start": 205,
+        "end": 223
+    },
+    {
+        "text": "colo claw fish",
+        "start": 233,
+        "end": 247
+    },
+    {
+        "text": "Pre-human colonization",
+        "start": 17,
+        "end": 39
+    },
+    {
+        "text": "Naboo",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "amphibian",
+        "start": 75,
+        "end": 84
+    },
+    {
+        "text": "Gungans",
+        "start": 85,
+        "end": 92
+    },
+    {
+        "text": "Reptilian species",
+        "start": 42,
+        "end": 59
+    },
+    {
+        "text": "Elders",
+        "start": 73,
+        "end": 79
+    },
+    {
+        "text": "Gungans",
+        "start": 103,
+        "end": 110
+    },
+    {
+        "text": "Elders",
+        "start": 16,
+        "end": 22
+    },
+    {
+        "text": "Arrival of humanity",
+        "start": 5,
+        "end": 24
+    },
+    {
+        "text": "4000 BBY",
+        "start": 47,
+        "end": 55
+    },
+    {
+        "text": "Grizmallti",
+        "start": 57,
+        "end": 67
+    },
+    {
+        "text": "planet",
+        "start": 94,
+        "end": 100
+    },
+    {
+        "text": "Nabu",
+        "start": 123,
+        "end": 127
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "big-game hunters",
+        "start": 92,
+        "end": 108
+    },
+    {
+        "text": "Mid Rim",
+        "start": 120,
+        "end": 127
+    },
+    {
+        "text": "century",
+        "start": 159,
+        "end": 166
+    },
+    {
+        "text": "human",
+        "start": 184,
+        "end": 189
+    },
+    {
+        "text": "Gungans",
+        "start": 15,
+        "end": 22
+    },
+    {
+        "text": "underwater",
+        "start": 33,
+        "end": 43
+    },
+    {
+        "text": "colonists",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "text": "interlopers",
+        "start": 78,
+        "end": 89
+    },
+    {
+        "text": "Gungans",
+        "start": 10,
+        "end": 17
+    },
+    {
+        "text": "3900 BBY",
+        "start": 90,
+        "end": 98
+    },
+    {
+        "text": "civil war",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "humans",
+        "start": 39,
+        "end": 45
+    },
+    {
+        "text": "Grizmallt",
+        "start": 62,
+        "end": 71
+    },
+    {
+        "text": "Naboo",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "society",
+        "start": 30,
+        "end": 37
+    },
+    {
+        "text": "Gungans",
+        "start": 77,
+        "end": 84
+    },
+    {
+        "text": "Kwilaan",
+        "start": 7,
+        "end": 14
+    },
+    {
+        "text": "colonists",
+        "start": 20,
+        "end": 29
+    },
+    {
+        "text": "Gallo Mountains",
+        "start": 48,
+        "end": 63
+    },
+    {
+        "text": "Dee'ja Peak",
+        "start": 100,
+        "end": 111
+    },
+    {
+        "text": "planet",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "Naboo",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Kwilaan",
+        "start": 57,
+        "end": 64
+    },
+    {
+        "text": "colonists",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "Gungans",
+        "start": 41,
+        "end": 48
+    },
+    {
+        "text": "wars",
+        "start": 114,
+        "end": 118
+    },
+    {
+        "text": "two species",
+        "start": 131,
+        "end": 142
+    },
+    {
+        "text": "They",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Naboo",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "colonists",
+        "start": 10,
+        "end": 19
+    },
+    {
+        "text": "Chommell sector",
+        "start": 71,
+        "end": 86
+    },
+    {
+        "text": "Karlinus",
+        "start": 96,
+        "end": 104
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "colonists",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "text": "planets",
+        "start": 57,
+        "end": 64
+    },
+    {
+        "text": "Naboo",
+        "start": 74,
+        "end": 79
+    },
+    {
+        "text": "colonies",
+        "start": 99,
+        "end": 107
+    },
+    {
+        "text": "start-up costs",
+        "start": 128,
+        "end": 142
+    },
+    {
+        "text": "colonization",
+        "start": 146,
+        "end": 158
+    },
+    {
+        "text": "colonies",
+        "start": 17,
+        "end": 25
+    },
+    {
+        "text": "Naboo",
+        "start": 62,
+        "end": 67
+    },
+    {
+        "text": "emergency",
+        "start": 138,
+        "end": 147
+    },
+    {
+        "text": "new colonies",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "contract",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "inception",
+        "start": 49,
+        "end": 58
+    },
+    {
+        "text": "expiration date",
+        "start": 48,
+        "end": 63
+    },
+    {
+        "text": "Naboo",
+        "start": 20,
+        "end": 25
+    },
+    {
+        "text": "Chommell sector",
+        "start": 70,
+        "end": 85
+    },
+    {
+        "text": "Gungan",
+        "start": 5,
+        "end": 11
+    },
+    {
+        "text": "war",
+        "start": 19,
+        "end": 22
+    },
+    {
+        "text": "wars",
+        "start": 38,
+        "end": 42
+    },
+    {
+        "text": "humans",
+        "start": 48,
+        "end": 54
+    },
+    {
+        "text": "Gungan",
+        "start": 60,
+        "end": 66
+    },
+    {
+        "text": "war",
+        "start": 85,
+        "end": 88
+    },
+    {
+        "text": "war",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "text": "Boss Gallo",
+        "start": 45,
+        "end": 55
+    },
+    {
+        "text": "Gungan",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "text": "tribes",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "Gallo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Spearhead",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Boss Rogoe",
+        "start": 86,
+        "end": 96
+    },
+    {
+        "text": "Gungan",
+        "start": 111,
+        "end": 117
+    },
+    {
+        "text": "Gungan",
+        "start": 143,
+        "end": 149
+    },
+    {
+        "text": "Gallo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Gungan",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "Otoh Gunga",
+        "start": 38,
+        "end": 48
+    },
+    {
+        "text": "Spearhead",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "Naboo",
+        "start": 85,
+        "end": 90
+    },
+    {
+        "text": "brutal infighting",
+        "start": 127,
+        "end": 144
+    },
+    {
+        "text": "city-states",
+        "start": 161,
+        "end": 172
+    },
+    {
+        "text": "humans",
+        "start": 176,
+        "end": 182
+    },
+    {
+        "text": "planet",
+        "start": 202,
+        "end": 208
+    },
+    {
+        "text": "general",
+        "start": 14,
+        "end": 21
+    },
+    {
+        "text": "Jafan",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "war",
+        "start": 53,
+        "end": 56
+    },
+    {
+        "text": "opposing factions",
+        "start": 70,
+        "end": 87
+    },
+    {
+        "text": "force of arms",
+        "start": 101,
+        "end": 114
+    },
+    {
+        "text": "King Jafan",
+        "start": 10,
+        "end": 20
+    },
+    {
+        "text": "Naboo",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "Great Time of Peace",
+        "start": 65,
+        "end": 84
+    },
+    {
+        "text": "867 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "Naboo",
+        "start": 12,
+        "end": 17
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 29,
+        "end": 46
+    },
+    {
+        "text": "democratic union",
+        "start": 52,
+        "end": 68
+    },
+    {
+        "text": "galaxy",
+        "start": 95,
+        "end": 101
+    },
+    {
+        "text": "Naboo",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "Festival of Light",
+        "start": 53,
+        "end": 70
+    },
+    {
+        "text": "832 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "King Jafan",
+        "start": 35,
+        "end": 45
+    },
+    {
+        "text": "Theed",
+        "start": 67,
+        "end": 72
+    },
+    {
+        "text": "Solleu River",
+        "start": 108,
+        "end": 120
+    },
+    {
+        "text": "Theed",
+        "start": 130,
+        "end": 135
+    },
+    {
+        "text": "Theed",
+        "start": 172,
+        "end": 177
+    },
+    {
+        "text": "High Republic Era",
+        "start": 6,
+        "end": 23
+    },
+    {
+        "text": "382 BBY",
+        "start": 28,
+        "end": 35
+    },
+    {
+        "text": "High Republic Era",
+        "start": 47,
+        "end": 64
+    },
+    {
+        "text": "Naboo",
+        "start": 66,
+        "end": 71
+    },
+    {
+        "text": "queen",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "Axel Greylark",
+        "start": 113,
+        "end": 126
+    },
+    {
+        "text": "Kyong Greylark",
+        "start": 168,
+        "end": 182
+    },
+    {
+        "text": "yacht",
+        "start": 200,
+        "end": 205
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 25,
+        "end": 43
+    },
+    {
+        "text": "Orlen Mollo",
+        "start": 44,
+        "end": 55
+    },
+    {
+        "text": "Galactic Frontier",
+        "start": 76,
+        "end": 93
+    },
+    {
+        "text": "Paxion",
+        "start": 105,
+        "end": 111
+    },
+    {
+        "text": "library",
+        "start": 201,
+        "end": 208
+    },
+    {
+        "text": "Eiram and E'ronoh War",
+        "start": 28,
+        "end": 49
+    },
+    {
+        "text": "Theed Royal Palace",
+        "start": 68,
+        "end": 86
+    },
+    {
+        "text": "Naboo Palace",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Coruscant",
+        "start": 33,
+        "end": 42
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 67,
+        "end": 78
+    },
+    {
+        "text": "Gella Nattai",
+        "start": 79,
+        "end": 91
+    },
+    {
+        "text": "Chancellors Mollo",
+        "start": 67,
+        "end": 84
+    },
+    {
+        "text": "Greylark",
+        "start": 89,
+        "end": 97
+    },
+    {
+        "text": "Naboo",
+        "start": 114,
+        "end": 119
+    },
+    {
+        "text": "Eiram",
+        "start": 165,
+        "end": 170
+    },
+    {
+        "text": "wedding",
+        "start": 179,
+        "end": 186
+    },
+    {
+        "text": "Phan-tu Zenn",
+        "start": 190,
+        "end": 202
+    },
+    {
+        "text": "Xiri A'lbaran",
+        "start": 207,
+        "end": 220
+    },
+    {
+        "text": "war",
+        "start": 246,
+        "end": 249
+    },
+    {
+        "text": "Gungans",
+        "start": 13,
+        "end": 20
+    },
+    {
+        "text": "celebration",
+        "start": 34,
+        "end": 45
+    },
+    {
+        "text": "High Republic Era",
+        "start": 13,
+        "end": 30
+    },
+    {
+        "text": "Jedi",
+        "start": 43,
+        "end": 47
+    },
+    {
+        "text": "Padawan",
+        "start": 48,
+        "end": 55
+    },
+    {
+        "text": "Kantam Sy",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "Lula Talisola",
+        "start": 92,
+        "end": 105
+    },
+    {
+        "text": "orphanage",
+        "start": 143,
+        "end": 152
+    },
+    {
+        "text": "Naboo",
+        "start": 156,
+        "end": 161
+    },
+    {
+        "text": "Jedi Order",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "Sy",
+        "start": 29,
+        "end": 31
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 41,
+        "end": 52
+    },
+    {
+        "text": "Talisola",
+        "start": 57,
+        "end": 65
+    },
+    {
+        "text": "Jedi temple",
+        "start": 2,
+        "end": 13
+    },
+    {
+        "text": "Naboo",
+        "start": 17,
+        "end": 22
+    },
+    {
+        "text": "Gallo Temple",
+        "start": 28,
+        "end": 40
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 119,
+        "end": 131
+    },
+    {
+        "text": "Elzar Mann",
+        "start": 28,
+        "end": 38
+    },
+    {
+        "text": "knighted",
+        "start": 51,
+        "end": 59
+    },
+    {
+        "text": "232 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "San Tekka clan",
+        "start": 37,
+        "end": 51
+    },
+    {
+        "text": "Vellis",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "text": "Naboo",
+        "start": 74,
+        "end": 79
+    },
+    {
+        "text": "Marlowe",
+        "start": 104,
+        "end": 111
+    },
+    {
+        "text": "lakes",
+        "start": 145,
+        "end": 150
+    },
+    {
+        "text": "Nihil",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "text": "228 BBY",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "text": "Stormwall",
+        "start": 63,
+        "end": 72
+    },
+    {
+        "text": "Nihil",
+        "start": 80,
+        "end": 85
+    },
+    {
+        "text": "Naboo",
+        "start": 117,
+        "end": 122
+    },
+    {
+        "text": "Occlusion Zone",
+        "start": 154,
+        "end": 168
+    },
+    {
+        "text": "Nihil",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Abediah Viess",
+        "start": 18,
+        "end": 31
+    },
+    {
+        "text": "invasion",
+        "start": 39,
+        "end": 47
+    },
+    {
+        "text": "Naboo",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "military base",
+        "start": 87,
+        "end": 100
+    },
+    {
+        "text": "Nihil",
+        "start": 122,
+        "end": 127
+    },
+    {
+        "text": "Theed",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Nihil ion blasts",
+        "start": 39,
+        "end": 55
+    },
+    {
+        "text": "capital",
+        "start": 69,
+        "end": 76
+    },
+    {
+        "text": "plasma mine shafts",
+        "start": 79,
+        "end": 97
+    },
+    {
+        "text": "planet-wide blackout",
+        "start": 110,
+        "end": 130
+    },
+    {
+        "text": "Royal Space Fighter Corps",
+        "start": 34,
+        "end": 59
+    },
+    {
+        "text": "Nihil",
+        "start": 97,
+        "end": 102
+    },
+    {
+        "text": "planet",
+        "start": 119,
+        "end": 125
+    },
+    {
+        "text": "gungans",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "underwater cities",
+        "start": 39,
+        "end": 56
+    },
+    {
+        "text": "reigning queen",
+        "start": 66,
+        "end": 80
+    },
+    {
+        "text": "Royal Security Forces",
+        "start": 130,
+        "end": 151
+    },
+    {
+        "text": "Viess",
+        "start": 25,
+        "end": 30
+    },
+    {
+        "text": "Nihil",
+        "start": 36,
+        "end": 41
+    },
+    {
+        "text": "planet",
+        "start": 60,
+        "end": 66
+    },
+    {
+        "text": "forced disarmament",
+        "start": 88,
+        "end": 106
+    },
+    {
+        "text": "Naboo",
+        "start": 196,
+        "end": 201
+    },
+    {
+        "text": "Nihil",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "text": "Naboo",
+        "start": 62,
+        "end": 67
+    },
+    {
+        "text": "Occlusion Zone",
+        "start": 154,
+        "end": 168
+    },
+    {
+        "text": "initial raid",
+        "start": 174,
+        "end": 186
+    },
+    {
+        "text": "Jedi-Republic Defense Coalition",
+        "start": 8,
+        "end": 39
+    },
+    {
+        "text": "assault",
+        "start": 40,
+        "end": 47
+    },
+    {
+        "text": "Naboo",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "232 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "Marlaa Jinara",
+        "start": 13,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "forest",
+        "start": 100,
+        "end": 106
+    },
+    {
+        "text": "Republic",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "text": "132 BBY",
+        "start": 33,
+        "end": 40
+    },
+    {
+        "text": "Republic",
+        "start": 70,
+        "end": 78
+    },
+    {
+        "text": "Naboo",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "Chommel sector",
+        "start": 124,
+        "end": 138
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 163,
+        "end": 178
+    },
+    {
+        "text": "Republic",
+        "start": 186,
+        "end": 194
+    },
+    {
+        "text": "Senator Sahen Idane",
+        "start": 198,
+        "end": 217
+    },
+    {
+        "text": "Jedi Order",
+        "start": 242,
+        "end": 252
+    },
+    {
+        "text": "Naboo",
+        "start": 298,
+        "end": 303
+    },
+    {
+        "text": "Queen",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Yovité",
+        "start": 6,
+        "end": 12
+    },
+    {
+        "text": "elected Queen",
+        "start": 40,
+        "end": 53
+    },
+    {
+        "text": "belt sash",
+        "start": 68,
+        "end": 77
+    },
+    {
+        "text": "Yovité",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "year",
+        "start": 96,
+        "end": 100
+    },
+    {
+        "text": "Yovité",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "refinery",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "text": "Theed",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "Twilight of the Republic",
+        "start": 4,
+        "end": 28
+    },
+    {
+        "text": "Invasion of Naboo",
+        "start": 35,
+        "end": 52
+    },
+    {
+        "text": "fourteen year old",
+        "start": 58,
+        "end": 75
+    },
+    {
+        "text": "Padmé Amidala",
+        "start": 76,
+        "end": 89
+    },
+    {
+        "text": "Naboo",
+        "start": 127,
+        "end": 132
+    },
+    {
+        "text": "Queen Sanandrassa",
+        "start": 139,
+        "end": 156
+    },
+    {
+        "text": "Sanandrassa",
+        "start": 6,
+        "end": 17
+    },
+    {
+        "text": "Amidala",
+        "start": 40,
+        "end": 47
+    },
+    {
+        "text": "Chommell sector",
+        "start": 103,
+        "end": 118
+    },
+    {
+        "text": "Chommell sector summit",
+        "start": 147,
+        "end": 169
+    },
+    {
+        "text": "Quarsh",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "text": "Panaka",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "text": "Amidala",
+        "start": 61,
+        "end": 68
+    },
+    {
+        "text": "Handmaidens",
+        "start": 88,
+        "end": 99
+    },
+    {
+        "text": "Panaka",
+        "start": 169,
+        "end": 175
+    },
+    {
+        "text": "Naboo",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "ten years",
+        "start": 39,
+        "end": 48
+    },
+    {
+        "text": "Clone Wars",
+        "start": 60,
+        "end": 70
+    },
+    {
+        "text": "Naboo",
+        "start": 72,
+        "end": 77
+    },
+    {
+        "text": "Trade Federation",
+        "start": 111,
+        "end": 127
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "home planet",
+        "start": 19,
+        "end": 30
+    },
+    {
+        "text": "invasion",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Gungans",
+        "start": 89,
+        "end": 96
+    },
+    {
+        "text": "invaded planet",
+        "start": 52,
+        "end": 66
+    },
+    {
+        "text": "queen",
+        "start": 72,
+        "end": 77
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 96,
+        "end": 111
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 146,
+        "end": 161
+    },
+    {
+        "text": "Republic",
+        "start": 198,
+        "end": 206
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "invasion",
+        "start": 33,
+        "end": 41
+    },
+    {
+        "text": "Amidala",
+        "start": 48,
+        "end": 55
+    },
+    {
+        "text": "final term",
+        "start": 160,
+        "end": 170
+    },
+    {
+        "text": "Amidala",
+        "start": 7,
+        "end": 14
+    },
+    {
+        "text": "ion pulse",
+        "start": 112,
+        "end": 121
+    },
+    {
+        "text": "Theed",
+        "start": 125,
+        "end": 130
+    },
+    {
+        "text": "invasions",
+        "start": 149,
+        "end": 158
+    },
+    {
+        "text": "pulse",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "Quarsh Panaka",
+        "start": 121,
+        "end": 134
+    },
+    {
+        "text": "weapon system",
+        "start": 230,
+        "end": 243
+    },
+    {
+        "text": "Naboo",
+        "start": 267,
+        "end": 272
+    },
+    {
+        "text": "Clone Wars",
+        "start": 5,
+        "end": 15
+    },
+    {
+        "text": "miners strikes",
+        "start": 29,
+        "end": 43
+    },
+    {
+        "text": "moons",
+        "start": 60,
+        "end": 65
+    },
+    {
+        "text": "Naboo",
+        "start": 69,
+        "end": 74
+    },
+    {
+        "text": "mudslide disaster",
+        "start": 2,
+        "end": 19
+    },
+    {
+        "text": "Naboo",
+        "start": 32,
+        "end": 37
+    },
+    {
+        "text": "secondary continent",
+        "start": 40,
+        "end": 59
+    },
+    {
+        "text": "22 BBY",
+        "start": 63,
+        "end": 69
+    },
+    {
+        "text": "Naboo",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "text": "Gungans",
+        "start": 23,
+        "end": 30
+    },
+    {
+        "text": "Republic",
+        "start": 53,
+        "end": 61
+    },
+    {
+        "text": "Clone Wars",
+        "start": 73,
+        "end": 83
+    },
+    {
+        "text": "Naboo",
+        "start": 100,
+        "end": 105
+    },
+    {
+        "text": "galaxy-wide war",
+        "start": 139,
+        "end": 154
+    },
+    {
+        "text": "Senator",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Padmé Amidala",
+        "start": 8,
+        "end": 21
+    },
+    {
+        "text": "Jar Jar Binks",
+        "start": 41,
+        "end": 54
+    },
+    {
+        "text": "Naboo",
+        "start": 105,
+        "end": 110
+    },
+    {
+        "text": "Gungans",
+        "start": 115,
+        "end": 122
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 143,
+        "end": 158
+    },
+    {
+        "text": "Clone Wars",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Neeyutnee",
+        "start": 23,
+        "end": 32
+    },
+    {
+        "text": "Naboo",
+        "start": 52,
+        "end": 57
+    },
+    {
+        "text": "war",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "text": "Amidala",
+        "start": 18,
+        "end": 25
+    },
+    {
+        "text": "Skywalker",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "planet",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "wedding",
+        "start": 73,
+        "end": 80
+    },
+    {
+        "text": "world",
+        "start": 107,
+        "end": 112
+    },
+    {
+        "text": "honeymoon",
+        "start": 119,
+        "end": 128
+    },
+    {
+        "text": "Battle of Teth",
+        "start": 44,
+        "end": 58
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 71,
+        "end": 92
+    },
+    {
+        "text": "Naboo",
+        "start": 120,
+        "end": 125
+    },
+    {
+        "text": "Palpatine",
+        "start": 204,
+        "end": 213
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Chancellor",
+        "start": 50,
+        "end": 60
+    },
+    {
+        "text": "Battle of Teth",
+        "start": 84,
+        "end": 98
+    },
+    {
+        "text": "Skywalker",
+        "start": 121,
+        "end": 130
+    },
+    {
+        "text": "Hutt",
+        "start": 184,
+        "end": 188
+    },
+    {
+        "text": "Republic",
+        "start": 189,
+        "end": 197
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Binks",
+        "start": 12,
+        "end": 17
+    },
+    {
+        "text": "Jedi Order",
+        "start": 40,
+        "end": 50
+    },
+    {
+        "text": "Gungan",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "text": "Peppi Bow",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Separatist",
+        "start": 92,
+        "end": 102
+    },
+    {
+        "text": "Nuvo Vindi",
+        "start": 113,
+        "end": 123
+    },
+    {
+        "text": "Eastern swamps",
+        "start": 151,
+        "end": 165
+    },
+    {
+        "text": "Vindi",
+        "start": 24,
+        "end": 29
+    },
+    {
+        "text": "Blue Shadow Virus",
+        "start": 63,
+        "end": 80
+    },
+    {
+        "text": "Naboo",
+        "start": 86,
+        "end": 91
+    },
+    {
+        "text": "Mon Cala",
+        "start": 21,
+        "end": 29
+    },
+    {
+        "text": "Gungan Grand Army",
+        "start": 47,
+        "end": 64
+    },
+    {
+        "text": "Representative Binks",
+        "start": 72,
+        "end": 92
+    },
+    {
+        "text": "Mon Cala",
+        "start": 133,
+        "end": 141
+    },
+    {
+        "text": "Senator Amidala",
+        "start": 149,
+        "end": 164
+    },
+    {
+        "text": "Jedi",
+        "start": 170,
+        "end": 174
+    },
+    {
+        "text": "Clone SCUBA troopers",
+        "start": 180,
+        "end": 200
+    },
+    {
+        "text": "Mon Calamari",
+        "start": 210,
+        "end": 222
+    },
+    {
+        "text": "Prince Lee-Char",
+        "start": 223,
+        "end": 238
+    },
+    {
+        "text": "Separatist",
+        "start": 260,
+        "end": 270
+    },
+    {
+        "text": "Riff Tamson",
+        "start": 281,
+        "end": 292
+    },
+    {
+        "text": "Quarren",
+        "start": 301,
+        "end": 308
+    },
+    {
+        "text": "Gungan",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "text": "Lyonie",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "pro-Separatist minister",
+        "start": 62,
+        "end": 85
+    },
+    {
+        "text": "Rish Loo",
+        "start": 86,
+        "end": 94
+    },
+    {
+        "text": "Loo",
+        "start": 6,
+        "end": 9
+    },
+    {
+        "text": "Lyonie",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "text": "Gungan Grand Army",
+        "start": 40,
+        "end": 57
+    },
+    {
+        "text": "Naboo",
+        "start": 74,
+        "end": 79
+    },
+    {
+        "text": "Theed",
+        "start": 91,
+        "end": 96
+    },
+    {
+        "text": "Separatist droid army",
+        "start": 36,
+        "end": 57
+    },
+    {
+        "text": "General Grievous",
+        "start": 65,
+        "end": 81
+    },
+    {
+        "text": "Count Dooku",
+        "start": 104,
+        "end": 115
+    },
+    {
+        "text": "Rish Loo",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Dooku",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Senator Amidala",
+        "start": 64,
+        "end": 79
+    },
+    {
+        "text": "Representative Binks",
+        "start": 81,
+        "end": 101
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 119,
+        "end": 135
+    },
+    {
+        "text": "General Roos Tarpals",
+        "start": 141,
+        "end": 161
+    },
+    {
+        "text": "Naboo",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Gungans",
+        "start": 23,
+        "end": 30
+    },
+    {
+        "text": "Grievous",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "Dooku",
+        "start": 69,
+        "end": 74
+    },
+    {
+        "text": "Skywalker",
+        "start": 80,
+        "end": 89
+    },
+    {
+        "text": "Festival of Light",
+        "start": 11,
+        "end": 28
+    },
+    {
+        "text": "Dooku",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "text": "Cad Bane",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "text": "bounty hunters",
+        "start": 66,
+        "end": 80
+    },
+    {
+        "text": "Palpatine",
+        "start": 91,
+        "end": 100
+    },
+    {
+        "text": "Separatist",
+        "start": 118,
+        "end": 128
+    },
+    {
+        "text": "Republic",
+        "start": 144,
+        "end": 152
+    },
+    {
+        "text": "Bane",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "text": "Moralo Eval",
+        "start": 19,
+        "end": 30
+    },
+    {
+        "text": "Palpatine",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "text": "Rako Hardeen",
+        "start": 66,
+        "end": 78
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 95,
+        "end": 109
+    },
+    {
+        "text": "Bane",
+        "start": 5,
+        "end": 9
+    },
+    {
+        "text": "Republic forces",
+        "start": 51,
+        "end": 66
+    },
+    {
+        "text": "Dooku",
+        "start": 78,
+        "end": 83
+    },
+    {
+        "text": "kidnapping",
+        "start": 100,
+        "end": 110
+    },
+    {
+        "text": "Kenobi",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Skywalker",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 46,
+        "end": 61
+    },
+    {
+        "text": "Palpatine",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Naboo",
+        "start": 108,
+        "end": 113
+    },
+    {
+        "text": "new regime",
+        "start": 132,
+        "end": 142
+    },
+    {
+        "text": "military garrisons",
+        "start": 145,
+        "end": 163
+    },
+    {
+        "text": "Clone Wars",
+        "start": 29,
+        "end": 39
+    },
+    {
+        "text": "citizens",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "Theed",
+        "start": 90,
+        "end": 95
+    },
+    {
+        "text": "Amidala",
+        "start": 118,
+        "end": 125
+    },
+    {
+        "text": "funeral procession",
+        "start": 128,
+        "end": 146
+    },
+    {
+        "text": "Sio Bibble",
+        "start": 14,
+        "end": 24
+    },
+    {
+        "text": "Naboo",
+        "start": 78,
+        "end": 83
+    },
+    {
+        "text": "election",
+        "start": 110,
+        "end": 118
+    },
+    {
+        "text": "Saché",
+        "start": 124,
+        "end": 129
+    },
+    {
+        "text": "Naboo",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "text": "new regime",
+        "start": 68,
+        "end": 78
+    },
+    {
+        "text": "people",
+        "start": 90,
+        "end": 96
+    },
+    {
+        "text": "monarchs",
+        "start": 133,
+        "end": 141
+    },
+    {
+        "text": "governor",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "text": "abolished",
+        "start": 34,
+        "end": 43
+    },
+    {
+        "text": "Naboo",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "sector",
+        "start": 84,
+        "end": 90
+    },
+    {
+        "text": "Moff",
+        "start": 93,
+        "end": 97
+    },
+    {
+        "text": "Palpatine",
+        "start": 118,
+        "end": 127
+    },
+    {
+        "text": "Security Forces",
+        "start": 152,
+        "end": 167
+    },
+    {
+        "text": "Quarsh Panaka",
+        "start": 176,
+        "end": 189
+    },
+    {
+        "text": "election",
+        "start": 220,
+        "end": 228
+    },
+    {
+        "text": "18 BBY",
+        "start": 17,
+        "end": 23
+    },
+    {
+        "text": "Luthen Rael",
+        "start": 25,
+        "end": 36
+    },
+    {
+        "text": "Kleya Marki",
+        "start": 63,
+        "end": 74
+    },
+    {
+        "text": "Imperial vehicles",
+        "start": 82,
+        "end": 99
+    },
+    {
+        "text": "Nabooian",
+        "start": 105,
+        "end": 113
+    },
+    {
+        "text": "rebellion",
+        "start": 146,
+        "end": 155
+    },
+    {
+        "text": "Imperial",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "Panaka",
+        "start": 51,
+        "end": 57
+    },
+    {
+        "text": "Saw Gerrera",
+        "start": 78,
+        "end": 89
+    },
+    {
+        "text": "Partisans",
+        "start": 92,
+        "end": 101
+    },
+    {
+        "text": "3 BBY",
+        "start": 116,
+        "end": 121
+    },
+    {
+        "text": "Palpatine",
+        "start": 21,
+        "end": 30
+    },
+    {
+        "text": "Naboo",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "text": "Age of the Empire",
+        "start": 71,
+        "end": 88
+    },
+    {
+        "text": "worlds",
+        "start": 72,
+        "end": 78
+    },
+    {
+        "text": "Imperial",
+        "start": 105,
+        "end": 113
+    },
+    {
+        "text": "Naboo",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "man",
+        "start": 97,
+        "end": 100
+    },
+    {
+        "text": "Palpatine",
+        "start": 106,
+        "end": 115
+    },
+    {
+        "text": "Empire",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Naboo",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "text": "Naboo",
+        "start": 60,
+        "end": 65
+    },
+    {
+        "text": "starfighter",
+        "start": 84,
+        "end": 95
+    },
+    {
+        "text": "Naboo",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 71,
+        "end": 86
+    },
+    {
+        "text": "Sabé",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Padme Amidala",
+        "start": 27,
+        "end": 40
+    },
+    {
+        "text": "Darth Vader",
+        "start": 50,
+        "end": 61
+    },
+    {
+        "text": "Naboo",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "3 ABY",
+        "start": 74,
+        "end": 79
+    },
+    {
+        "text": "Typho",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "rebel team",
+        "start": 14,
+        "end": 24
+    },
+    {
+        "text": "rebels",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Sando aqua monster",
+        "start": 36,
+        "end": 54
+    },
+    {
+        "text": "Dark Lord of the Sith",
+        "start": 73,
+        "end": 94
+    },
+    {
+        "text": "Ric Olié",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "rebel cell",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "Amidalans",
+        "start": 33,
+        "end": 42
+    },
+    {
+        "text": "Padmé",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "tomb",
+        "start": 73,
+        "end": 77
+    },
+    {
+        "text": "Vader",
+        "start": 83,
+        "end": 88
+    },
+    {
+        "text": "handmaidens",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "final stand",
+        "start": 31,
+        "end": 42
+    },
+    {
+        "text": "Darth Vader",
+        "start": 28,
+        "end": 39
+    },
+    {
+        "text": "tomb",
+        "start": 59,
+        "end": 63
+    },
+    {
+        "text": "Emperor Palpatine",
+        "start": 59,
+        "end": 76
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 96,
+        "end": 111
+    },
+    {
+        "text": "Empire",
+        "start": 157,
+        "end": 163
+    },
+    {
+        "text": "Alliance to Restore the Republic",
+        "start": 171,
+        "end": 203
+    },
+    {
+        "text": "Naboo",
+        "start": 280,
+        "end": 285
+    },
+    {
+        "text": "war",
+        "start": 42,
+        "end": 45
+    },
+    {
+        "text": "Empire",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "text": "Emperor",
+        "start": 100,
+        "end": 107
+    },
+    {
+        "text": "Naboo",
+        "start": 109,
+        "end": 114
+    },
+    {
+        "text": "Imperial control",
+        "start": 134,
+        "end": 150
+    },
+    {
+        "text": "Palpatine",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "countryside retreat",
+        "start": 59,
+        "end": 78
+    },
+    {
+        "text": "New Republic",
+        "start": 132,
+        "end": 144
+    },
+    {
+        "text": "government",
+        "start": 161,
+        "end": 171
+    },
+    {
+        "text": "Palpatine",
+        "start": 206,
+        "end": 215
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 27,
+        "end": 42
+    },
+    {
+        "text": "Royal House of Naboo",
+        "start": 48,
+        "end": 68
+    },
+    {
+        "text": "Princess Leia Organa",
+        "start": 89,
+        "end": 109
+    },
+    {
+        "text": "Alderaan",
+        "start": 113,
+        "end": 121
+    },
+    {
+        "text": "Mon Mothma",
+        "start": 144,
+        "end": 154
+    },
+    {
+        "text": "Alliance",
+        "start": 174,
+        "end": 182
+    },
+    {
+        "text": "New Republic",
+        "start": 234,
+        "end": 246
+    },
+    {
+        "text": "royal palace",
+        "start": 7,
+        "end": 19
+    },
+    {
+        "text": "throne room",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "Organa",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "Naboo",
+        "start": 64,
+        "end": 69
+    },
+    {
+        "text": "Sosha Soruna",
+        "start": 71,
+        "end": 83
+    },
+    {
+        "text": "Naboo",
+        "start": 99,
+        "end": 104
+    },
+    {
+        "text": "New Republic",
+        "start": 143,
+        "end": 155
+    },
+    {
+        "text": "Senate",
+        "start": 183,
+        "end": 189
+    },
+    {
+        "text": "queen",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Organa",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Naboo",
+        "start": 62,
+        "end": 67
+    },
+    {
+        "text": "Palpatine",
+        "start": 90,
+        "end": 99
+    },
+    {
+        "text": "Operation: Cinder",
+        "start": 5,
+        "end": 22
+    },
+    {
+        "text": "Naboo",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "orbital sensors",
+        "start": 96,
+        "end": 111
+    },
+    {
+        "text": "Empire",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "climate disruption array",
+        "start": 24,
+        "end": 48
+    },
+    {
+        "text": "orbit",
+        "start": 52,
+        "end": 57
+    },
+    {
+        "text": "Emperor Palpatine",
+        "start": 82,
+        "end": 99
+    },
+    {
+        "text": "Operation: Cinder",
+        "start": 6,
+        "end": 23
+    },
+    {
+        "text": "Empire",
+        "start": 29,
+        "end": 35
+    },
+    {
+        "text": "Naboo",
+        "start": 58,
+        "end": 63
+    },
+    {
+        "text": "storms",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "flooding",
+        "start": 28,
+        "end": 36
+    },
+    {
+        "text": "world",
+        "start": 48,
+        "end": 53
+    },
+    {
+        "text": "Soruna",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Organa",
+        "start": 8,
+        "end": 14
+    },
+    {
+        "text": "Alliance",
+        "start": 20,
+        "end": 28
+    },
+    {
+        "text": "Shara Bey",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "N-1 starfighters",
+        "start": 78,
+        "end": 94
+    },
+    {
+        "text": "Queen Neeyutnee",
+        "start": 119,
+        "end": 134
+    },
+    {
+        "text": "Theed Hangar",
+        "start": 142,
+        "end": 154
+    },
+    {
+        "text": "Clone Wars",
+        "start": 166,
+        "end": 176
+    },
+    {
+        "text": "Naboo",
+        "start": 192,
+        "end": 197
+    },
+    {
+        "text": "Empire",
+        "start": 216,
+        "end": 222
+    },
+    {
+        "text": "satellites",
+        "start": 225,
+        "end": 235
+    },
+    {
+        "text": "space",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "three women",
+        "start": 19,
+        "end": 30
+    },
+    {
+        "text": "TIE fighters",
+        "start": 62,
+        "end": 74
+    },
+    {
+        "text": "satellites",
+        "start": 126,
+        "end": 136
+    },
+    {
+        "text": "Rebel fleet",
+        "start": 2,
+        "end": 13
+    },
+    {
+        "text": "Lando Calrissian",
+        "start": 21,
+        "end": 37
+    },
+    {
+        "text": "Nien Nunb",
+        "start": 42,
+        "end": 51
+    },
+    {
+        "text": "Imperial forces",
+        "start": 85,
+        "end": 100
+    },
+    {
+        "text": "Danger Squadron",
+        "start": 34,
+        "end": 49
+    },
+    {
+        "text": "T-65B X-wing",
+        "start": 68,
+        "end": 80
+    },
+    {
+        "text": "Duros",
+        "start": 115,
+        "end": 120
+    },
+    {
+        "text": "Shriv Suurgav",
+        "start": 121,
+        "end": 134
+    },
+    {
+        "text": "Nunb",
+        "start": 136,
+        "end": 140
+    },
+    {
+        "text": "Mellcrawler II",
+        "start": 148,
+        "end": 162
+    },
+    {
+        "text": "MC80 Star Cruiser Restoration",
+        "start": 172,
+        "end": 201
+    },
+    {
+        "text": "Danger Squadron",
+        "start": 0,
+        "end": 15
+    },
+    {
+        "text": "Inferno Squad",
+        "start": 44,
+        "end": 57
+    },
+    {
+        "text": "Imperial",
+        "start": 77,
+        "end": 85
+    },
+    {
+        "text": "Iden Versio",
+        "start": 96,
+        "end": 107
+    },
+    {
+        "text": "Del Meeko",
+        "start": 112,
+        "end": 121
+    },
+    {
+        "text": "satellites",
+        "start": 174,
+        "end": 184
+    },
+    {
+        "text": "Imperial II-class Star Destroyer",
+        "start": 29,
+        "end": 61
+    },
+    {
+        "text": "Torment",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "text": "Danger Squadron",
+        "start": 90,
+        "end": 105
+    },
+    {
+        "text": "Y-wing bombers",
+        "start": 118,
+        "end": 132
+    },
+    {
+        "text": "Restoration",
+        "start": 142,
+        "end": 153
+    },
+    {
+        "text": "Torment",
+        "start": 198,
+        "end": 205
+    },
+    {
+        "text": "Alliance",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "Imperials",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "final ground assault",
+        "start": 91,
+        "end": 111
+    },
+    {
+        "text": "Theed",
+        "start": 139,
+        "end": 144
+    },
+    {
+        "text": "Imperial forces",
+        "start": 0,
+        "end": 15
+    },
+    {
+        "text": "ion pulse",
+        "start": 40,
+        "end": 49
+    },
+    {
+        "text": "Leia",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "Del",
+        "start": 68,
+        "end": 71
+    },
+    {
+        "text": "Shriv",
+        "start": 73,
+        "end": 78
+    },
+    {
+        "text": "Iden",
+        "start": 83,
+        "end": 87
+    },
+    {
+        "text": "marketplace",
+        "start": 114,
+        "end": 125
+    },
+    {
+        "text": "courtyard",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "palace",
+        "start": 160,
+        "end": 166
+    },
+    {
+        "text": "weapons",
+        "start": 239,
+        "end": 246
+    },
+    {
+        "text": "vehicles",
+        "start": 251,
+        "end": 259
+    },
+    {
+        "text": "surrender",
+        "start": 286,
+        "end": 295
+    },
+    {
+        "text": "Imperial forces",
+        "start": 299,
+        "end": 314
+    },
+    {
+        "text": "Shriv",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Iden",
+        "start": 67,
+        "end": 71
+    },
+    {
+        "text": "Del",
+        "start": 76,
+        "end": 79
+    },
+    {
+        "text": "Leia",
+        "start": 105,
+        "end": 109
+    },
+    {
+        "text": "New Republic",
+        "start": 119,
+        "end": 131
+    },
+    {
+        "text": "Naboo",
+        "start": 21,
+        "end": 26
+    },
+    {
+        "text": "Emperor",
+        "start": 40,
+        "end": 47
+    },
+    {
+        "text": "Imperial sympathizers",
+        "start": 100,
+        "end": 121
+    },
+    {
+        "text": "Operation: Cinder",
+        "start": 24,
+        "end": 41
+    },
+    {
+        "text": "Imperial Navy",
+        "start": 47,
+        "end": 60
+    },
+    {
+        "text": "attack forces",
+        "start": 76,
+        "end": 89
+    },
+    {
+        "text": "New Republic",
+        "start": 106,
+        "end": 118
+    },
+    {
+        "text": "Naboo system",
+        "start": 137,
+        "end": 149
+    },
+    {
+        "text": "Corona Squadron",
+        "start": 52,
+        "end": 67
+    },
+    {
+        "text": "First Order",
+        "start": 16,
+        "end": 27
+    },
+    {
+        "text": "Cold War",
+        "start": 40,
+        "end": 48
+    },
+    {
+        "text": "thirty years",
+        "start": 56,
+        "end": 68
+    },
+    {
+        "text": "First Order",
+        "start": 87,
+        "end": 98
+    },
+    {
+        "text": "Resistance",
+        "start": 107,
+        "end": 117
+    },
+    {
+        "text": "Thadlé Berenko",
+        "start": 127,
+        "end": 141
+    },
+    {
+        "text": "Naboo",
+        "start": 154,
+        "end": 159
+    },
+    {
+        "text": "New Republic Senate",
+        "start": 181,
+        "end": 200
+    },
+    {
+        "text": "First Order",
+        "start": 226,
+        "end": 237
+    },
+    {
+        "text": "Hosnian Prime",
+        "start": 248,
+        "end": 261
+    },
+    {
+        "text": "Senate",
+        "start": 279,
+        "end": 285
+    },
+    {
+        "text": "35 ABY",
+        "start": 3,
+        "end": 9
+    },
+    {
+        "text": "Naboo",
+        "start": 11,
+        "end": 16
+    },
+    {
+        "text": "Star Destroyers",
+        "start": 49,
+        "end": 64
+    },
+    {
+        "text": "First Order",
+        "start": 74,
+        "end": 85
+    },
+    {
+        "text": "galactic dominance",
+        "start": 132,
+        "end": 150
+    },
+    {
+        "text": "Naboo",
+        "start": 21,
+        "end": 26
+    },
+    {
+        "text": "rebellion",
+        "start": 43,
+        "end": 52
+    },
+    {
+        "text": "First Order",
+        "start": 65,
+        "end": 76
+    },
+    {
+        "text": "Bespin",
+        "start": 118,
+        "end": 124
+    },
+    {
+        "text": "Coruscant",
+        "start": 129,
+        "end": 138
+    },
+    {
+        "text": "regime",
+        "start": 189,
+        "end": 195
+    },
+    {
+        "text": "Naboo",
+        "start": 24,
+        "end": 29
+    },
+    {
+        "text": "intelligent amphibians",
+        "start": 87,
+        "end": 109
+    },
+    {
+        "text": "Gungans",
+        "start": 121,
+        "end": 128
+    },
+    {
+        "text": "humans",
+        "start": 153,
+        "end": 159
+    },
+    {
+        "text": "Naboo",
+        "start": 188,
+        "end": 193
+    },
+    {
+        "text": "distant past",
+        "start": 7,
+        "end": 19
+    },
+    {
+        "text": "cultural misunderstanding",
+        "start": 23,
+        "end": 48
+    },
+    {
+        "text": "serious quarrel",
+        "start": 63,
+        "end": 78
+    },
+    {
+        "text": "Gungan",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "human",
+        "start": 106,
+        "end": 111
+    },
+    {
+        "text": "rift",
+        "start": 64,
+        "end": 68
+    },
+    {
+        "text": "two groups",
+        "start": 78,
+        "end": 88
+    },
+    {
+        "text": "Naboo",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "text": "Trade Federation",
+        "start": 57,
+        "end": 73
+    },
+    {
+        "text": "humans",
+        "start": 85,
+        "end": 91
+    },
+    {
+        "text": "Gungans",
+        "start": 96,
+        "end": 103
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "schools",
+        "start": 19,
+        "end": 26
+    },
+    {
+        "text": "planet",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Kreeling",
+        "start": 92,
+        "end": 100
+    },
+    {
+        "text": "Naboo",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "text": "Gungans",
+        "start": 19,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "text": "Naboo",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "engagement rituals",
+        "start": 10,
+        "end": 28
+    },
+    {
+        "text": "High Republic Era",
+        "start": 40,
+        "end": 57
+    },
+    {
+        "text": "betrothed individuals",
+        "start": 95,
+        "end": 116
+    }
+]

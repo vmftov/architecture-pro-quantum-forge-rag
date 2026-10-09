@@ -1,0 +1,4512 @@
+[
+    {
+        "text": "Naboo",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "Naboo",
+        "start": 37,
+        "end": 42
+    },
+    {
+        "text": "Naboo conflict",
+        "start": 62,
+        "end": 76
+    },
+    {
+        "text": "Naboo Crisis",
+        "start": 82,
+        "end": 94
+    },
+    {
+        "text": "Naboo",
+        "start": 109,
+        "end": 114
+    },
+    {
+        "text": "Naboo",
+        "start": 138,
+        "end": 143
+    },
+    {
+        "text": "Naboo",
+        "start": 175,
+        "end": 180
+    },
+    {
+        "text": "Trade Federation",
+        "start": 198,
+        "end": 214
+    },
+    {
+        "text": "32 BBY",
+        "start": 218,
+        "end": 224
+    },
+    {
+        "text": "Great Peace",
+        "start": 236,
+        "end": 247
+    },
+    {
+        "text": "Trade Federation",
+        "start": 28,
+        "end": 44
+    },
+    {
+        "text": "weeklong",
+        "start": 47,
+        "end": 55
+    },
+    {
+        "text": "blockade",
+        "start": 56,
+        "end": 64
+    },
+    {
+        "text": "Naboo",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "Naboo",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "capital city",
+        "start": 106,
+        "end": 118
+    },
+    {
+        "text": "surrounding regions",
+        "start": 135,
+        "end": 154
+    },
+    {
+        "text": "Federation Army",
+        "start": 178,
+        "end": 193
+    },
+    {
+        "text": "battle droids",
+        "start": 196,
+        "end": 209
+    },
+    {
+        "text": "Royal House of Naboo",
+        "start": 9,
+        "end": 29
+    },
+    {
+        "text": "Federation",
+        "start": 38,
+        "end": 48
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 69,
+        "end": 86
+    },
+    {
+        "text": "political debacle",
+        "start": 104,
+        "end": 121
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 129,
+        "end": 144
+    },
+    {
+        "text": "Federation",
+        "start": 13,
+        "end": 23
+    },
+    {
+        "text": "Sith",
+        "start": 56,
+        "end": 60
+    },
+    {
+        "text": "Sith",
+        "start": 72,
+        "end": 76
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 82,
+        "end": 95
+    },
+    {
+        "text": "Naboo",
+        "start": 110,
+        "end": 115
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 126,
+        "end": 141
+    },
+    {
+        "text": "Dark Lord",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "crisis",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 68,
+        "end": 86
+    },
+    {
+        "text": "Finis Valorum",
+        "start": 87,
+        "end": 100
+    },
+    {
+        "text": "Chancellor",
+        "start": 154,
+        "end": 164
+    },
+    {
+        "text": "blockade",
+        "start": 19,
+        "end": 27
+    },
+    {
+        "text": "Valorum",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "text": "Jedi",
+        "start": 46,
+        "end": 50
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 52,
+        "end": 64
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 69,
+        "end": 83
+    },
+    {
+        "text": "Federation",
+        "start": 107,
+        "end": 117
+    },
+    {
+        "text": "Sidious",
+        "start": 123,
+        "end": 130
+    },
+    {
+        "text": "Federation",
+        "start": 172,
+        "end": 182
+    },
+    {
+        "text": "Naboo",
+        "start": 206,
+        "end": 211
+    },
+    {
+        "text": "Jedi",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Queen Padmé Amidala",
+        "start": 29,
+        "end": 48
+    },
+    {
+        "text": "Federation",
+        "start": 58,
+        "end": 68
+    },
+    {
+        "text": "Tatooine",
+        "start": 126,
+        "end": 134
+    },
+    {
+        "text": "Hutt Clan",
+        "start": 162,
+        "end": 171
+    },
+    {
+        "text": "vessel",
+        "start": 195,
+        "end": 201
+    },
+    {
+        "text": "blockade",
+        "start": 233,
+        "end": 241
+    },
+    {
+        "text": "Jinn",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 43,
+        "end": 59
+    },
+    {
+        "text": "Chosen One",
+        "start": 65,
+        "end": 75
+    },
+    {
+        "text": "Darth Maul",
+        "start": 49,
+        "end": 59
+    },
+    {
+        "text": "Jinn",
+        "start": 100,
+        "end": 104
+    },
+    {
+        "text": "Republic",
+        "start": 141,
+        "end": 149
+    },
+    {
+        "text": "Coruscant",
+        "start": 167,
+        "end": 176
+    },
+    {
+        "text": "Amidala",
+        "start": 184,
+        "end": 191
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 226,
+        "end": 241
+    },
+    {
+        "text": "Republic",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "bureaucracy",
+        "start": 15,
+        "end": 26
+    },
+    {
+        "text": "Amidala",
+        "start": 46,
+        "end": 53
+    },
+    {
+        "text": "vote of no confidence",
+        "start": 72,
+        "end": 93
+    },
+    {
+        "text": "Chancellor Valorum",
+        "start": 97,
+        "end": 115
+    },
+    {
+        "text": "election",
+        "start": 131,
+        "end": 139
+    },
+    {
+        "text": "Palpatine",
+        "start": 149,
+        "end": 158
+    },
+    {
+        "text": "Coruscant",
+        "start": 34,
+        "end": 43
+    },
+    {
+        "text": "Amidala",
+        "start": 45,
+        "end": 52
+    },
+    {
+        "text": "Naboo",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "Jedi",
+        "start": 80,
+        "end": 84
+    },
+    {
+        "text": "Federation",
+        "start": 111,
+        "end": 121
+    },
+    {
+        "text": "Amidala",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "text": "Gungans",
+        "start": 61,
+        "end": 68
+    },
+    {
+        "text": "Naboo",
+        "start": 82,
+        "end": 87
+    },
+    {
+        "text": "oceans",
+        "start": 90,
+        "end": 96
+    },
+    {
+        "text": "Gungans",
+        "start": 106,
+        "end": 113
+    },
+    {
+        "text": "Federation",
+        "start": 151,
+        "end": 161
+    },
+    {
+        "text": "final battle",
+        "start": 7,
+        "end": 19
+    },
+    {
+        "text": "Gungan army",
+        "start": 25,
+        "end": 36
+    },
+    {
+        "text": "Federation army",
+        "start": 49,
+        "end": 64
+    },
+    {
+        "text": "starfighters",
+        "start": 91,
+        "end": 103
+    },
+    {
+        "text": "droid control ship",
+        "start": 117,
+        "end": 135
+    },
+    {
+        "text": "orbit",
+        "start": 139,
+        "end": 144
+    },
+    {
+        "text": "Amidala",
+        "start": 150,
+        "end": 157
+    },
+    {
+        "text": "Jedi",
+        "start": 166,
+        "end": 170
+    },
+    {
+        "text": "palace",
+        "start": 187,
+        "end": 193
+    },
+    {
+        "text": "Nute Gunray",
+        "start": 205,
+        "end": 216
+    },
+    {
+        "text": "Federation",
+        "start": 222,
+        "end": 232
+    },
+    {
+        "text": "battle",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "Skywalker",
+        "start": 21,
+        "end": 30
+    },
+    {
+        "text": "Federation control ship",
+        "start": 49,
+        "end": 72
+    },
+    {
+        "text": "Gungans",
+        "start": 78,
+        "end": 85
+    },
+    {
+        "text": "Gunray",
+        "start": 103,
+        "end": 109
+    },
+    {
+        "text": "Sith Lord",
+        "start": 132,
+        "end": 141
+    },
+    {
+        "text": "Darth Maul",
+        "start": 142,
+        "end": 152
+    },
+    {
+        "text": "Jinn",
+        "start": 181,
+        "end": 185
+    },
+    {
+        "text": "Naboo",
+        "start": 37,
+        "end": 42
+    },
+    {
+        "text": "Occupation",
+        "start": 50,
+        "end": 60
+    },
+    {
+        "text": "Republic",
+        "start": 83,
+        "end": 91
+    },
+    {
+        "text": "Naboo",
+        "start": 111,
+        "end": 116
+    },
+    {
+        "text": "ten years",
+        "start": 126,
+        "end": 135
+    },
+    {
+        "text": "Clone Wars",
+        "start": 149,
+        "end": 159
+    },
+    {
+        "text": "invasion",
+        "start": 165,
+        "end": 173
+    },
+    {
+        "text": "Republic",
+        "start": 206,
+        "end": 214
+    },
+    {
+        "text": "galactic stage",
+        "start": 222,
+        "end": 236
+    },
+    {
+        "text": "Palpatine",
+        "start": 15,
+        "end": 24
+    },
+    {
+        "text": "crisis",
+        "start": 30,
+        "end": 36
+    },
+    {
+        "text": "Maul",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "text": "Federation",
+        "start": 85,
+        "end": 95
+    },
+    {
+        "text": "Palpatine",
+        "start": 144,
+        "end": 153
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 166,
+        "end": 184
+    },
+    {
+        "text": "Palpatine",
+        "start": 16,
+        "end": 25
+    },
+    {
+        "text": "Sith",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "text": "Republic",
+        "start": 67,
+        "end": 75
+    },
+    {
+        "text": "Jedi",
+        "start": 92,
+        "end": 96
+    },
+    {
+        "text": "Clone Wars",
+        "start": 112,
+        "end": 122
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 154,
+        "end": 169
+    },
+    {
+        "text": "Jedi Order",
+        "start": 186,
+        "end": 196
+    },
+    {
+        "text": "Sith",
+        "start": 16,
+        "end": 20
+    },
+    {
+        "text": "millennium",
+        "start": 39,
+        "end": 49
+    },
+    {
+        "text": "Invasion",
+        "start": 61,
+        "end": 69
+    },
+    {
+        "text": "Jedi",
+        "start": 75,
+        "end": 79
+    },
+    {
+        "text": "Sith",
+        "start": 84,
+        "end": 88
+    },
+    {
+        "text": "war",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "text": "Sith",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "text": "defeat",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Jedi",
+        "start": 115,
+        "end": 119
+    },
+    {
+        "text": "Sith",
+        "start": 162,
+        "end": 166
+    },
+    {
+        "text": "Sith",
+        "start": 13,
+        "end": 17
+    },
+    {
+        "text": "Darth Bane",
+        "start": 55,
+        "end": 65
+    },
+    {
+        "text": "Rule of Two",
+        "start": 83,
+        "end": 94
+    },
+    {
+        "text": "Sith",
+        "start": 112,
+        "end": 116
+    },
+    {
+        "text": "Bane",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "centuries",
+        "start": 42,
+        "end": 51
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 12,
+        "end": 25
+    },
+    {
+        "text": "Sith Lord",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "Darth Plagueis",
+        "start": 51,
+        "end": 65
+    },
+    {
+        "text": "Sith Master",
+        "start": 154,
+        "end": 165
+    },
+    {
+        "text": "Sidious",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Darth Maul",
+        "start": 47,
+        "end": 57
+    },
+    {
+        "text": "Sith",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Dooku",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "Jedi",
+        "start": 44,
+        "end": 48
+    },
+    {
+        "text": "Order",
+        "start": 95,
+        "end": 100
+    },
+    {
+        "text": "Wilhuff Tarkin",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "Eriadu Conference",
+        "start": 65,
+        "end": 82
+    },
+    {
+        "text": "Nebula Front",
+        "start": 101,
+        "end": 113
+    },
+    {
+        "text": "Trade Federation",
+        "start": 156,
+        "end": 172
+    },
+    {
+        "text": "Nute Gunray",
+        "start": 215,
+        "end": 226
+    },
+    {
+        "text": "Trade Federation",
+        "start": 260,
+        "end": 276
+    },
+    {
+        "text": "Naboo invasion",
+        "start": 310,
+        "end": 324
+    },
+    {
+        "text": "conference",
+        "start": 101,
+        "end": 111
+    },
+    {
+        "text": "Supreme Chancellor Finis Valorum",
+        "start": 113,
+        "end": 145
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 223,
+        "end": 238
+    },
+    {
+        "text": "Prop 31-814D",
+        "start": 6,
+        "end": 18
+    },
+    {
+        "text": "Senate",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Free Trade Zones",
+        "start": 40,
+        "end": 56
+    },
+    {
+        "text": "Federation",
+        "start": 98,
+        "end": 108
+    },
+    {
+        "text": "33 BBY",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "Federation",
+        "start": 19,
+        "end": 29
+    },
+    {
+        "text": "blockades",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "taxes",
+        "start": 71,
+        "end": 76
+    },
+    {
+        "text": "32 BBY",
+        "start": 3,
+        "end": 9
+    },
+    {
+        "text": "trade disputes",
+        "start": 21,
+        "end": 35
+    },
+    {
+        "text": "Mid Rim Territories",
+        "start": 65,
+        "end": 84
+    },
+    {
+        "text": "Federation",
+        "start": 90,
+        "end": 100
+    },
+    {
+        "text": "trade bill",
+        "start": 130,
+        "end": 140
+    },
+    {
+        "text": "senate",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "Prop 31-814D",
+        "start": 11,
+        "end": 23
+    },
+    {
+        "text": "Federation",
+        "start": 93,
+        "end": 103
+    },
+    {
+        "text": "Mid Rim",
+        "start": 118,
+        "end": 125
+    },
+    {
+        "text": "Naboo",
+        "start": 133,
+        "end": 138
+    },
+    {
+        "text": "32 BBY",
+        "start": 142,
+        "end": 148
+    },
+    {
+        "text": "Naboo",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "trade dispute",
+        "start": 57,
+        "end": 70
+    },
+    {
+        "text": "Federation",
+        "start": 80,
+        "end": 90
+    },
+    {
+        "text": "plasma mining",
+        "start": 96,
+        "end": 109
+    },
+    {
+        "text": "Federation",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Naboo",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "text": "delegates",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "issue",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "33 BBY",
+        "start": 127,
+        "end": 133
+    },
+    {
+        "text": "invasion",
+        "start": 44,
+        "end": 52
+    },
+    {
+        "text": "invasion",
+        "start": 72,
+        "end": 80
+    },
+    {
+        "text": "Sidious",
+        "start": 111,
+        "end": 118
+    },
+    {
+        "text": "Federation",
+        "start": 128,
+        "end": 138
+    },
+    {
+        "text": "Sidious",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Naboo",
+        "start": 39,
+        "end": 44
+    },
+    {
+        "text": "Federation",
+        "start": 52,
+        "end": 62
+    },
+    {
+        "text": "Naboo",
+        "start": 93,
+        "end": 98
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 107,
+        "end": 122
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 255,
+        "end": 272
+    },
+    {
+        "text": "Sidious",
+        "start": 13,
+        "end": 20
+    },
+    {
+        "text": "Senate",
+        "start": 94,
+        "end": 100
+    },
+    {
+        "text": "Palpatine",
+        "start": 114,
+        "end": 123
+    },
+    {
+        "text": "Naboo",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "32 BBY",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "Naboo",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "biannual elections",
+        "start": 79,
+        "end": 97
+    },
+    {
+        "text": "Sanandrassa",
+        "start": 129,
+        "end": 140
+    },
+    {
+        "text": "Padmé Amidala",
+        "start": 188,
+        "end": 201
+    },
+    {
+        "text": "Sanandrassa",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Sidious",
+        "start": 73,
+        "end": 80
+    },
+    {
+        "text": "Naboo",
+        "start": 101,
+        "end": 106
+    },
+    {
+        "text": "people",
+        "start": 153,
+        "end": 159
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Sanandrassa",
+        "start": 53,
+        "end": 64
+    },
+    {
+        "text": "coronation",
+        "start": 100,
+        "end": 110
+    },
+    {
+        "text": "Amidala",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "text": "summit",
+        "start": 32,
+        "end": 38
+    },
+    {
+        "text": "Republic",
+        "start": 95,
+        "end": 103
+    },
+    {
+        "text": "Chommell sector",
+        "start": 124,
+        "end": 139
+    },
+    {
+        "text": "summit",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Amidala",
+        "start": 38,
+        "end": 45
+    },
+    {
+        "text": "Palpatine",
+        "start": 55,
+        "end": 64
+    },
+    {
+        "text": "planets",
+        "start": 21,
+        "end": 28
+    },
+    {
+        "text": "Amidala",
+        "start": 38,
+        "end": 45
+    },
+    {
+        "text": "summit",
+        "start": 101,
+        "end": 107
+    },
+    {
+        "text": "Trade Federation",
+        "start": 13,
+        "end": 29
+    },
+    {
+        "text": "summit",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "text": "orbital sensors",
+        "start": 69,
+        "end": 84
+    },
+    {
+        "text": "Amidala",
+        "start": 127,
+        "end": 134
+    },
+    {
+        "text": "Captain Quarsh Panaka",
+        "start": 150,
+        "end": 171
+    },
+    {
+        "text": "Governor Kelma",
+        "start": 181,
+        "end": 195
+    },
+    {
+        "text": "Karlinus",
+        "start": 199,
+        "end": 207
+    },
+    {
+        "text": "Amidala",
+        "start": 19,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 111,
+        "end": 116
+    },
+    {
+        "text": "Federation",
+        "start": 142,
+        "end": 152
+    },
+    {
+        "text": "Naboo",
+        "start": 163,
+        "end": 168
+    },
+    {
+        "text": "Lucrehulk-class Battleships",
+        "start": 185,
+        "end": 212
+    },
+    {
+        "text": "Lucrehulk-class LH-3210 cargo freighters",
+        "start": 266,
+        "end": 306
+    },
+    {
+        "text": "blockade",
+        "start": 7,
+        "end": 15
+    },
+    {
+        "text": "week",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "text": "planet",
+        "start": 65,
+        "end": 71
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "officials",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "allies",
+        "start": 54,
+        "end": 60
+    },
+    {
+        "text": "seventh day",
+        "start": 7,
+        "end": 18
+    },
+    {
+        "text": "blockade",
+        "start": 26,
+        "end": 34
+    },
+    {
+        "text": "agricultural transport",
+        "start": 39,
+        "end": 61
+    },
+    {
+        "text": "Karlinus",
+        "start": 67,
+        "end": 75
+    },
+    {
+        "text": "Naboo",
+        "start": 118,
+        "end": 123
+    },
+    {
+        "text": "Enarc",
+        "start": 170,
+        "end": 175
+    },
+    {
+        "text": "Graf Zapalo",
+        "start": 5,
+        "end": 16
+    },
+    {
+        "text": "Amidala",
+        "start": 22,
+        "end": 29
+    },
+    {
+        "text": "planet",
+        "start": 39,
+        "end": 45
+    },
+    {
+        "text": "Amidala",
+        "start": 151,
+        "end": 158
+    },
+    {
+        "text": "planet",
+        "start": 171,
+        "end": 177
+    },
+    {
+        "text": "Jedi",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "text": "Adi Gallia",
+        "start": 23,
+        "end": 33
+    },
+    {
+        "text": "Jedi High Council",
+        "start": 76,
+        "end": 93
+    },
+    {
+        "text": "Naboo",
+        "start": 187,
+        "end": 192
+    },
+    {
+        "text": "crisis",
+        "start": 258,
+        "end": 264
+    },
+    {
+        "text": "Queen Amidala",
+        "start": 15,
+        "end": 28
+    },
+    {
+        "text": "Chancellor Valorum",
+        "start": 50,
+        "end": 68
+    },
+    {
+        "text": "Federation-Naboo talks",
+        "start": 154,
+        "end": 176
+    },
+    {
+        "text": "Federation",
+        "start": 182,
+        "end": 192
+    },
+    {
+        "text": "Anselmi–Nautolan war",
+        "start": 239,
+        "end": 259
+    },
+    {
+        "text": "Naboo",
+        "start": 308,
+        "end": 313
+    },
+    {
+        "text": "Trade Federation",
+        "start": 322,
+        "end": 338
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 360,
+        "end": 372
+    },
+    {
+        "text": "Dooku",
+        "start": 417,
+        "end": 422
+    },
+    {
+        "text": "Padawan",
+        "start": 431,
+        "end": 438
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 439,
+        "end": 453
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "taxation bills",
+        "start": 43,
+        "end": 57
+    },
+    {
+        "text": "Senate",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "Kenobi",
+        "start": 190,
+        "end": 196
+    },
+    {
+        "text": "Senate",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "blockade",
+        "start": 60,
+        "end": 68
+    },
+    {
+        "text": "Alvadorjian",
+        "start": 119,
+        "end": 130
+    },
+    {
+        "text": "Senate",
+        "start": 131,
+        "end": 137
+    },
+    {
+        "text": "rotunda",
+        "start": 161,
+        "end": 168
+    },
+    {
+        "text": "Negotiations",
+        "start": 21,
+        "end": 33
+    },
+    {
+        "text": "Jedi",
+        "start": 43,
+        "end": 47
+    },
+    {
+        "text": "Viceroy Gunray",
+        "start": 76,
+        "end": 90
+    },
+    {
+        "text": "Naboo",
+        "start": 121,
+        "end": 126
+    },
+    {
+        "text": "Radiant VII",
+        "start": 143,
+        "end": 154
+    },
+    {
+        "text": "TC-14",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "text": "Gunray",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "Rune Haako",
+        "start": 134,
+        "end": 144
+    },
+    {
+        "text": "Daultay Dofine",
+        "start": 173,
+        "end": 187
+    },
+    {
+        "text": "Coruscant",
+        "start": 215,
+        "end": 224
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 230,
+        "end": 242
+    },
+    {
+        "text": "Jedi",
+        "start": 36,
+        "end": 40
+    },
+    {
+        "text": "Gunray",
+        "start": 42,
+        "end": 48
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 59,
+        "end": 72
+    },
+    {
+        "text": "Sidious",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Chancellor",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "Gunray",
+        "start": 82,
+        "end": 88
+    },
+    {
+        "text": "Jedi",
+        "start": 101,
+        "end": 105
+    },
+    {
+        "text": "Naboo",
+        "start": 146,
+        "end": 151
+    },
+    {
+        "text": "invasion",
+        "start": 159,
+        "end": 167
+    },
+    {
+        "text": "Gunray",
+        "start": 178,
+        "end": 184
+    },
+    {
+        "text": "invasions",
+        "start": 200,
+        "end": 209
+    },
+    {
+        "text": "Sidious",
+        "start": 221,
+        "end": 228
+    },
+    {
+        "text": "Sidious",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Gunray",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "Dofine",
+        "start": 36,
+        "end": 42
+    },
+    {
+        "text": "Toxic dioxis gas",
+        "start": 0,
+        "end": 16
+    },
+    {
+        "text": "ventilation system",
+        "start": 34,
+        "end": 52
+    },
+    {
+        "text": "Jedi",
+        "start": 60,
+        "end": 64
+    },
+    {
+        "text": "waiting room",
+        "start": 67,
+        "end": 79
+    },
+    {
+        "text": "Gunray",
+        "start": 85,
+        "end": 91
+    },
+    {
+        "text": "battle droids",
+        "start": 114,
+        "end": 127
+    },
+    {
+        "text": "Jedi",
+        "start": 147,
+        "end": 151
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 40,
+        "end": 52
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 57,
+        "end": 71
+    },
+    {
+        "text": "OOM command battle droid",
+        "start": 86,
+        "end": 110
+    },
+    {
+        "text": "OOM-series security droids",
+        "start": 115,
+        "end": 141
+    },
+    {
+        "text": "Jedi",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "security droids",
+        "start": 42,
+        "end": 57
+    },
+    {
+        "text": "ship",
+        "start": 92,
+        "end": 96
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "blast doors",
+        "start": 39,
+        "end": 50
+    },
+    {
+        "text": "bridge",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Federation leadership",
+        "start": 75,
+        "end": 96
+    },
+    {
+        "text": "shield-bearing",
+        "start": 46,
+        "end": 60
+    },
+    {
+        "text": "droidekas",
+        "start": 61,
+        "end": 70
+    },
+    {
+        "text": "Jedi",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "ship",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "text": "hangar",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "B1-series battle droids",
+        "start": 75,
+        "end": 98
+    },
+    {
+        "text": "landing craft",
+        "start": 117,
+        "end": 130
+    },
+    {
+        "text": "invasion",
+        "start": 18,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "text": "droid",
+        "start": 79,
+        "end": 84
+    },
+    {
+        "text": "invasion craft",
+        "start": 85,
+        "end": 99
+    },
+    {
+        "text": "planet",
+        "start": 117,
+        "end": 123
+    },
+    {
+        "text": "surface",
+        "start": 126,
+        "end": 133
+    },
+    {
+        "text": "Kenobi",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "transport",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "Naboo",
+        "start": 47,
+        "end": 52
+    },
+    {
+        "text": "Jedi",
+        "start": 67,
+        "end": 71
+    },
+    {
+        "text": "Naboo",
+        "start": 23,
+        "end": 28
+    },
+    {
+        "text": "Jedi",
+        "start": 49,
+        "end": 53
+    },
+    {
+        "text": "Gunray",
+        "start": 67,
+        "end": 73
+    },
+    {
+        "text": "invasion commander",
+        "start": 84,
+        "end": 102
+    },
+    {
+        "text": "OOM command battle droid",
+        "start": 107,
+        "end": 131
+    },
+    {
+        "text": "OOM-9",
+        "start": 138,
+        "end": 143
+    },
+    {
+        "text": "Jedi",
+        "start": 167,
+        "end": 171
+    },
+    {
+        "text": "OOM-9",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "droid troops",
+        "start": 14,
+        "end": 26
+    },
+    {
+        "text": "pilots",
+        "start": 31,
+        "end": 37
+    },
+    {
+        "text": "communication transmitters",
+        "start": 47,
+        "end": 73
+    },
+    {
+        "text": "Naboo",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "invasion",
+        "start": 124,
+        "end": 132
+    },
+    {
+        "text": "settlements",
+        "start": 164,
+        "end": 175
+    },
+    {
+        "text": "Theed",
+        "start": 23,
+        "end": 28
+    },
+    {
+        "text": "communications jam",
+        "start": 32,
+        "end": 50
+    },
+    {
+        "text": "Padmé Amidala",
+        "start": 63,
+        "end": 76
+    },
+    {
+        "text": "Senator Palpatine",
+        "start": 97,
+        "end": 114
+    },
+    {
+        "text": "Theed",
+        "start": 21,
+        "end": 26
+    },
+    {
+        "text": "Sio Bibble",
+        "start": 38,
+        "end": 48
+    },
+    {
+        "text": "invasion",
+        "start": 71,
+        "end": 79
+    },
+    {
+        "text": "Amidala",
+        "start": 90,
+        "end": 97
+    },
+    {
+        "text": "invasion",
+        "start": 17,
+        "end": 25
+    },
+    {
+        "text": "Handmaiden Sabé",
+        "start": 80,
+        "end": 95
+    },
+    {
+        "text": "minutes",
+        "start": 19,
+        "end": 26
+    },
+    {
+        "text": "Trade Federation military",
+        "start": 32,
+        "end": 57
+    },
+    {
+        "text": "Theed",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "Naboo",
+        "start": 84,
+        "end": 89
+    },
+    {
+        "text": "Naboo",
+        "start": 104,
+        "end": 109
+    },
+    {
+        "text": "Federation",
+        "start": 166,
+        "end": 176
+    },
+    {
+        "text": "Nute Gunray",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Theed",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "text": "Queen Amidala",
+        "start": 61,
+        "end": 74
+    },
+    {
+        "text": "throne room",
+        "start": 81,
+        "end": 92
+    },
+    {
+        "text": "Amidala",
+        "start": 6,
+        "end": 13
+    },
+    {
+        "text": "treaty",
+        "start": 32,
+        "end": 38
+    },
+    {
+        "text": "occupation",
+        "start": 54,
+        "end": 64
+    },
+    {
+        "text": "Camp Four",
+        "start": 112,
+        "end": 121
+    },
+    {
+        "text": "Kenobi",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "text": "Jinn",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "Naboo swamps",
+        "start": 43,
+        "end": 55
+    },
+    {
+        "text": "Gungan",
+        "start": 25,
+        "end": 31
+    },
+    {
+        "text": "Jar Jar Binks",
+        "start": 32,
+        "end": 45
+    },
+    {
+        "text": "Jedi",
+        "start": 51,
+        "end": 55
+    },
+    {
+        "text": "Boss Rugor Nass",
+        "start": 86,
+        "end": 101
+    },
+    {
+        "text": "Gungans",
+        "start": 117,
+        "end": 124
+    },
+    {
+        "text": "Otoh Gunga",
+        "start": 152,
+        "end": 162
+    },
+    {
+        "text": "Gungan",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "text": "Gungan",
+        "start": 102,
+        "end": 108
+    },
+    {
+        "text": "Theed",
+        "start": 149,
+        "end": 154
+    },
+    {
+        "text": "Jar Jar",
+        "start": 160,
+        "end": 167
+    },
+    {
+        "text": "Queen",
+        "start": 21,
+        "end": 26
+    },
+    {
+        "text": "entourage",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "battle droids",
+        "start": 61,
+        "end": 74
+    },
+    {
+        "text": "droids",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "text": "Jedi",
+        "start": 57,
+        "end": 61
+    },
+    {
+        "text": "Queen",
+        "start": 75,
+        "end": 80
+    },
+    {
+        "text": "Coruscant",
+        "start": 109,
+        "end": 118
+    },
+    {
+        "text": "she",
+        "start": 15,
+        "end": 18
+    },
+    {
+        "text": "she",
+        "start": 39,
+        "end": 42
+    },
+    {
+        "text": "Senate",
+        "start": 68,
+        "end": 74
+    },
+    {
+        "text": "invasion",
+        "start": 90,
+        "end": 98
+    },
+    {
+        "text": "military action",
+        "start": 108,
+        "end": 123
+    },
+    {
+        "text": "She",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Trade Federation",
+        "start": 26,
+        "end": 42
+    },
+    {
+        "text": "blockade",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Queen",
+        "start": 82,
+        "end": 87
+    },
+    {
+        "text": "ship",
+        "start": 90,
+        "end": 94
+    },
+    {
+        "text": "shields",
+        "start": 137,
+        "end": 144
+    },
+    {
+        "text": "astromech droid",
+        "start": 163,
+        "end": 178
+    },
+    {
+        "text": "R2-D2",
+        "start": 179,
+        "end": 184
+    },
+    {
+        "text": "last possible moment",
+        "start": 192,
+        "end": 212
+    },
+    {
+        "text": "hyperdrive",
+        "start": 10,
+        "end": 20
+    },
+    {
+        "text": "group",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "Tatooine",
+        "start": 93,
+        "end": 101
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 109,
+        "end": 130
+    },
+    {
+        "text": "Trade Federation",
+        "start": 27,
+        "end": 43
+    },
+    {
+        "text": "planet",
+        "start": 71,
+        "end": 77
+    },
+    {
+        "text": "subjugation",
+        "start": 14,
+        "end": 25
+    },
+    {
+        "text": "planet",
+        "start": 33,
+        "end": 39
+    },
+    {
+        "text": "Saak'ak",
+        "start": 70,
+        "end": 77
+    },
+    {
+        "text": "Droid Control Ship",
+        "start": 85,
+        "end": 103
+    },
+    {
+        "text": "Vuutun Palaa",
+        "start": 104,
+        "end": 116
+    },
+    {
+        "text": "Federation",
+        "start": 153,
+        "end": 163
+    },
+    {
+        "text": "blockade",
+        "start": 166,
+        "end": 174
+    },
+    {
+        "text": "Yuutun Palaa",
+        "start": 52,
+        "end": 64
+    },
+    {
+        "text": "Saak'ak",
+        "start": 99,
+        "end": 106
+    },
+    {
+        "text": "control ship",
+        "start": 126,
+        "end": 138
+    },
+    {
+        "text": "Return of the Sith",
+        "start": 4,
+        "end": 22
+    },
+    {
+        "text": "Arrival",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "text": "Queen",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "blockade",
+        "start": 87,
+        "end": 95
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 97,
+        "end": 110
+    },
+    {
+        "text": "Sith",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "text": "Darth Maul",
+        "start": 29,
+        "end": 39
+    },
+    {
+        "text": "Queen",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "Jedi",
+        "start": 67,
+        "end": 71
+    },
+    {
+        "text": "Queen",
+        "start": 18,
+        "end": 23
+    },
+    {
+        "text": "Tatooine",
+        "start": 34,
+        "end": 42
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 44,
+        "end": 56
+    },
+    {
+        "text": "Amidala",
+        "start": 67,
+        "end": 74
+    },
+    {
+        "text": "Jar Jar Binks",
+        "start": 105,
+        "end": 118
+    },
+    {
+        "text": "Mos Espa settlement",
+        "start": 126,
+        "end": 145
+    },
+    {
+        "text": "Watto",
+        "start": 191,
+        "end": 196
+    },
+    {
+        "text": "Toydarian",
+        "start": 209,
+        "end": 218
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 37,
+        "end": 53
+    },
+    {
+        "text": "home",
+        "start": 86,
+        "end": 90
+    },
+    {
+        "text": "second day",
+        "start": 7,
+        "end": 17
+    },
+    {
+        "text": "Tatooine",
+        "start": 21,
+        "end": 29
+    },
+    {
+        "text": "Watto",
+        "start": 50,
+        "end": 55
+    },
+    {
+        "text": "Skywalker",
+        "start": 82,
+        "end": 91
+    },
+    {
+        "text": "podracer",
+        "start": 94,
+        "end": 102
+    },
+    {
+        "text": "Boonta Eve Classic",
+        "start": 112,
+        "end": 130
+    },
+    {
+        "text": "Jedi",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Amidala",
+        "start": 13,
+        "end": 20
+    },
+    {
+        "text": "Skywalker",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "text": "podracer",
+        "start": 51,
+        "end": 59
+    },
+    {
+        "text": "Jinn",
+        "start": 27,
+        "end": 31
+    },
+    {
+        "text": "comlink",
+        "start": 91,
+        "end": 98
+    },
+    {
+        "text": "Kenobi",
+        "start": 102,
+        "end": 108
+    },
+    {
+        "text": "midi-chlorians",
+        "start": 54,
+        "end": 68
+    },
+    {
+        "text": "individual",
+        "start": 99,
+        "end": 109
+    },
+    {
+        "text": "Boonta Eve\n\nSkywalker",
+        "start": 5,
+        "end": 26
+    },
+    {
+        "text": "podrace",
+        "start": 35,
+        "end": 42
+    },
+    {
+        "text": "Watto",
+        "start": 76,
+        "end": 81
+    },
+    {
+        "text": "Jedi",
+        "start": 91,
+        "end": 95
+    },
+    {
+        "text": "T-14 hyperdrive generator",
+        "start": 110,
+        "end": 135
+    },
+    {
+        "text": "Young Skywalker",
+        "start": 0,
+        "end": 15
+    },
+    {
+        "text": "Coruscant",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "Jedi",
+        "start": 65,
+        "end": 69
+    },
+    {
+        "text": "Obi-Wan",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "text": "Scimitar",
+        "start": 13,
+        "end": 21
+    },
+    {
+        "text": "Maul",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "Tatooine",
+        "start": 40,
+        "end": 48
+    },
+    {
+        "text": "He",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "text": "planet",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "sand",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "text": "probe droids",
+        "start": 46,
+        "end": 58
+    },
+    {
+        "text": "probe droids",
+        "start": 11,
+        "end": 23
+    },
+    {
+        "text": "Jinn",
+        "start": 46,
+        "end": 50
+    },
+    {
+        "text": "Later that day",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "Jedi",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "ship",
+        "start": 46,
+        "end": 50
+    },
+    {
+        "text": "Maul",
+        "start": 52,
+        "end": 56
+    },
+    {
+        "text": "Jinn",
+        "start": 66,
+        "end": 70
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 92,
+        "end": 108
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "speeder",
+        "start": 21,
+        "end": 28
+    },
+    {
+        "text": "Jedi",
+        "start": 50,
+        "end": 54
+    },
+    {
+        "text": "Qui-Gon",
+        "start": 47,
+        "end": 54
+    },
+    {
+        "text": "Maul",
+        "start": 84,
+        "end": 88
+    },
+    {
+        "text": "Sith",
+        "start": 29,
+        "end": 33
+    },
+    {
+        "text": "Qui-Gon",
+        "start": 35,
+        "end": 42
+    },
+    {
+        "text": "Anakin",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Naboo pilot",
+        "start": 87,
+        "end": 98
+    },
+    {
+        "text": "Skywalker",
+        "start": 26,
+        "end": 35
+    },
+    {
+        "text": "Royal cruiser",
+        "start": 48,
+        "end": 61
+    },
+    {
+        "text": "Jinn",
+        "start": 73,
+        "end": 77
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Jinn",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "text": "Jinn",
+        "start": 53,
+        "end": 57
+    },
+    {
+        "text": "ramp",
+        "start": 107,
+        "end": 111
+    },
+    {
+        "text": "Sith",
+        "start": 35,
+        "end": 39
+    },
+    {
+        "text": "Queen",
+        "start": 45,
+        "end": 50
+    },
+    {
+        "text": "Tatooine",
+        "start": 78,
+        "end": 86
+    },
+    {
+        "text": "Coruscant",
+        "start": 91,
+        "end": 100
+    },
+    {
+        "text": "cruiser",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "text": "boarding ramp",
+        "start": 22,
+        "end": 35
+    },
+    {
+        "text": "Jinn",
+        "start": 37,
+        "end": 41
+    },
+    {
+        "text": "Skywalker",
+        "start": 79,
+        "end": 88
+    },
+    {
+        "text": "master",
+        "start": 103,
+        "end": 109
+    },
+    {
+        "text": "Amidala",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "Senate",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "duel",
+        "start": 41,
+        "end": 45
+    },
+    {
+        "text": "Tatooine",
+        "start": 49,
+        "end": 57
+    },
+    {
+        "text": "Jedi",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "text": "Queen Amidala",
+        "start": 72,
+        "end": 85
+    },
+    {
+        "text": "Coruscant",
+        "start": 97,
+        "end": 106
+    },
+    {
+        "text": "landing platform",
+        "start": 21,
+        "end": 37
+    },
+    {
+        "text": "Senator Palpatine",
+        "start": 41,
+        "end": 58
+    },
+    {
+        "text": "Finis Valorum",
+        "start": 82,
+        "end": 95
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "apartment",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "apartment",
+        "start": 13,
+        "end": 22
+    },
+    {
+        "text": "Palpatine",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "Queen",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "Republic",
+        "start": 89,
+        "end": 97
+    },
+    {
+        "text": "Senate",
+        "start": 165,
+        "end": 171
+    },
+    {
+        "text": "invasion",
+        "start": 189,
+        "end": 197
+    },
+    {
+        "text": "Chancellor Valorum",
+        "start": 232,
+        "end": 250
+    },
+    {
+        "text": "bureaucrats",
+        "start": 286,
+        "end": 297
+    },
+    {
+        "text": "Republic",
+        "start": 334,
+        "end": 342
+    },
+    {
+        "text": "Palpatine",
+        "start": 21,
+        "end": 30
+    },
+    {
+        "text": "Queen",
+        "start": 50,
+        "end": 55
+    },
+    {
+        "text": "vote of no confidence",
+        "start": 65,
+        "end": 86
+    },
+    {
+        "text": "Chancellor",
+        "start": 94,
+        "end": 104
+    },
+    {
+        "text": "Republic",
+        "start": 127,
+        "end": 135
+    },
+    {
+        "text": "courts",
+        "start": 209,
+        "end": 215
+    },
+    {
+        "text": "Senate",
+        "start": 269,
+        "end": 275
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Palpatine",
+        "start": 58,
+        "end": 67
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Kenobi",
+        "start": 6,
+        "end": 12
+    },
+    {
+        "text": "Skywalker",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "Jedi Council",
+        "start": 48,
+        "end": 60
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Maul",
+        "start": 33,
+        "end": 37
+    },
+    {
+        "text": "Council",
+        "start": 51,
+        "end": 58
+    },
+    {
+        "text": "Sith",
+        "start": 96,
+        "end": 100
+    },
+    {
+        "text": "thousand years",
+        "start": 122,
+        "end": 136
+    },
+    {
+        "text": "Skywalker",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Council",
+        "start": 43,
+        "end": 50
+    },
+    {
+        "text": "boy",
+        "start": 71,
+        "end": 74
+    },
+    {
+        "text": "Skywalker",
+        "start": 134,
+        "end": 143
+    },
+    {
+        "text": "special meeting",
+        "start": 5,
+        "end": 20
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 28,
+        "end": 43
+    },
+    {
+        "text": "Palpatine",
+        "start": 45,
+        "end": 54
+    },
+    {
+        "text": "Amidala",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "Galactic delegates",
+        "start": 97,
+        "end": 115
+    },
+    {
+        "text": "Trade Federation",
+        "start": 96,
+        "end": 112
+    },
+    {
+        "text": "Lott Dod",
+        "start": 114,
+        "end": 122
+    },
+    {
+        "text": "commission",
+        "start": 153,
+        "end": 163
+    },
+    {
+        "text": "senator",
+        "start": 239,
+        "end": 246
+    },
+    {
+        "text": "Aks Moe",
+        "start": 247,
+        "end": 254
+    },
+    {
+        "text": "Malastare",
+        "start": 258,
+        "end": 267
+    },
+    {
+        "text": "Valorum",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Dod",
+        "start": 25,
+        "end": 28
+    },
+    {
+        "text": "Moe",
+        "start": 33,
+        "end": 36
+    },
+    {
+        "text": "Vice Chancellor",
+        "start": 64,
+        "end": 79
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 80,
+        "end": 90
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Amidala",
+        "start": 54,
+        "end": 61
+    },
+    {
+        "text": "Valorum",
+        "start": 78,
+        "end": 85
+    },
+    {
+        "text": "Bureaucrats",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Republic",
+        "start": 147,
+        "end": 155
+    },
+    {
+        "text": "Trade Federation",
+        "start": 182,
+        "end": 198
+    },
+    {
+        "text": "Valorum",
+        "start": 225,
+        "end": 232
+    },
+    {
+        "text": "Amedda",
+        "start": 22,
+        "end": 28
+    },
+    {
+        "text": "Sei Taria",
+        "start": 42,
+        "end": 51
+    },
+    {
+        "text": "Valorum",
+        "start": 53,
+        "end": 60
+    },
+    {
+        "text": "Amidala",
+        "start": 67,
+        "end": 74
+    },
+    {
+        "text": "commission",
+        "start": 119,
+        "end": 129
+    },
+    {
+        "text": "The Queen",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Senate",
+        "start": 132,
+        "end": 138
+    },
+    {
+        "text": "invasion",
+        "start": 153,
+        "end": 161
+    },
+    {
+        "text": "committee",
+        "start": 167,
+        "end": 176
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Palpatine",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Republic",
+        "start": 19,
+        "end": 27
+    },
+    {
+        "text": "Amidala",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "Senate",
+        "start": 79,
+        "end": 85
+    },
+    {
+        "text": "vote of no confidence",
+        "start": 102,
+        "end": 123
+    },
+    {
+        "text": "Chancellor Valorum",
+        "start": 145,
+        "end": 163
+    },
+    {
+        "text": "Palpatine",
+        "start": 200,
+        "end": 209
+    },
+    {
+        "text": "Senate",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Amedda",
+        "start": 114,
+        "end": 120
+    },
+    {
+        "text": "hours",
+        "start": 7,
+        "end": 12
+    },
+    {
+        "text": "Amidala",
+        "start": 14,
+        "end": 21
+    },
+    {
+        "text": "motion of no confidence",
+        "start": 24,
+        "end": 47
+    },
+    {
+        "text": "Valorum",
+        "start": 63,
+        "end": 70
+    },
+    {
+        "text": "removed from power",
+        "start": 71,
+        "end": 89
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Valorum",
+        "start": 60,
+        "end": 67
+    },
+    {
+        "text": "Queen Amidala",
+        "start": 81,
+        "end": 94
+    },
+    {
+        "text": "rampant corruption",
+        "start": 111,
+        "end": 129
+    },
+    {
+        "text": "Bail Antilles",
+        "start": 131,
+        "end": 144
+    },
+    {
+        "text": "Ainlee Teem",
+        "start": 149,
+        "end": 160
+    },
+    {
+        "text": "Palpatine",
+        "start": 8,
+        "end": 17
+    },
+    {
+        "text": "Amidala",
+        "start": 33,
+        "end": 40
+    },
+    {
+        "text": "Naboo",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "her people",
+        "start": 105,
+        "end": 115
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 17,
+        "end": 29
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 34,
+        "end": 48
+    },
+    {
+        "text": "Jedi Council",
+        "start": 68,
+        "end": 80
+    },
+    {
+        "text": "Anakin",
+        "start": 115,
+        "end": 121
+    },
+    {
+        "text": "Jedi Order",
+        "start": 129,
+        "end": 139
+    },
+    {
+        "text": "Naboo",
+        "start": 230,
+        "end": 235
+    },
+    {
+        "text": "Queen",
+        "start": 245,
+        "end": 250
+    },
+    {
+        "text": "Sith",
+        "start": 341,
+        "end": 345
+    },
+    {
+        "text": "The battle for freedom",
+        "start": 4,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 55,
+        "end": 60
+    },
+    {
+        "text": "Amidala",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "text": "Jedi",
+        "start": 78,
+        "end": 82
+    },
+    {
+        "text": "Viceroy Gunray",
+        "start": 112,
+        "end": 126
+    },
+    {
+        "text": "Theed",
+        "start": 130,
+        "end": 135
+    },
+    {
+        "text": "Jar Jar Binks",
+        "start": 16,
+        "end": 29
+    },
+    {
+        "text": "Boss Nass",
+        "start": 69,
+        "end": 78
+    },
+    {
+        "text": "Gungans",
+        "start": 87,
+        "end": 94
+    },
+    {
+        "text": "Captain Panaka",
+        "start": 100,
+        "end": 114
+    },
+    {
+        "text": "Resistance cells",
+        "start": 138,
+        "end": 154
+    },
+    {
+        "text": "Gungan Grand Army",
+        "start": 21,
+        "end": 38
+    },
+    {
+        "text": "Droid Army",
+        "start": 53,
+        "end": 63
+    },
+    {
+        "text": "Federation",
+        "start": 71,
+        "end": 81
+    },
+    {
+        "text": "Queen",
+        "start": 107,
+        "end": 112
+    },
+    {
+        "text": "Jedi",
+        "start": 121,
+        "end": 125
+    },
+    {
+        "text": "Theed",
+        "start": 159,
+        "end": 164
+    },
+    {
+        "text": "Royal Security forces",
+        "start": 191,
+        "end": 212
+    },
+    {
+        "text": "Viceroy",
+        "start": 228,
+        "end": 235
+    },
+    {
+        "text": "Naboo security forces",
+        "start": 34,
+        "end": 55
+    },
+    {
+        "text": "space",
+        "start": 76,
+        "end": 81
+    },
+    {
+        "text": "Droid Control Ship",
+        "start": 145,
+        "end": 163
+    },
+    {
+        "text": "battle droids",
+        "start": 179,
+        "end": 192
+    },
+    {
+        "text": "computer brain",
+        "start": 223,
+        "end": 237
+    },
+    {
+        "text": "Camp Four",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "Mariek Panaka",
+        "start": 45,
+        "end": 58
+    },
+    {
+        "text": "Sergeant Tonra",
+        "start": 63,
+        "end": 77
+    },
+    {
+        "text": "prison uprising",
+        "start": 84,
+        "end": 99
+    },
+    {
+        "text": "Overseer Usan Ollin",
+        "start": 108,
+        "end": 127
+    },
+    {
+        "text": "battle droids",
+        "start": 136,
+        "end": 149
+    },
+    {
+        "text": "Darth Maul",
+        "start": 96,
+        "end": 106
+    },
+    {
+        "text": "Jedi",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "Sith Lord",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "queen",
+        "start": 55,
+        "end": 60
+    },
+    {
+        "text": "raid",
+        "start": 67,
+        "end": 71
+    },
+    {
+        "text": "throne room",
+        "start": 81,
+        "end": 92
+    },
+    {
+        "text": "Amidala",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "text": "Security Captain Panaka",
+        "start": 24,
+        "end": 47
+    },
+    {
+        "text": "Gunray",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "Rune Haako",
+        "start": 86,
+        "end": 96
+    },
+    {
+        "text": "gunpoint",
+        "start": 114,
+        "end": 122
+    },
+    {
+        "text": "new treaty",
+        "start": 156,
+        "end": 166
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Jinn",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "text": "Kenobi",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "hangar",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Theed",
+        "start": 53,
+        "end": 58
+    },
+    {
+        "text": "power generator complex",
+        "start": 61,
+        "end": 84
+    },
+    {
+        "text": "Maul",
+        "start": 92,
+        "end": 96
+    },
+    {
+        "text": "Kenobi",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Maul",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Sith Lord",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "They",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "catwalk",
+        "start": 20,
+        "end": 27
+    },
+    {
+        "text": "refinery",
+        "start": 37,
+        "end": 45
+    },
+    {
+        "text": "Kenobi",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "text": "catwalk",
+        "start": 45,
+        "end": 52
+    },
+    {
+        "text": "Jinn",
+        "start": 53,
+        "end": 57
+    },
+    {
+        "text": "Maul",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "Jinn",
+        "start": 92,
+        "end": 96
+    },
+    {
+        "text": "Jinn",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Kenobi",
+        "start": 10,
+        "end": 16
+    },
+    {
+        "text": "Maul",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "text": "laser shields",
+        "start": 48,
+        "end": 61
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Jinn",
+        "start": 55,
+        "end": 59
+    },
+    {
+        "text": "Sith Lord",
+        "start": 125,
+        "end": 134
+    },
+    {
+        "text": "Kenobi",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "text": "Jinn",
+        "start": 37,
+        "end": 41
+    },
+    {
+        "text": "Maul",
+        "start": 64,
+        "end": 68
+    },
+    {
+        "text": "melting pit",
+        "start": 7,
+        "end": 18
+    },
+    {
+        "text": "Maul",
+        "start": 20,
+        "end": 24
+    },
+    {
+        "text": "Jedi",
+        "start": 37,
+        "end": 41
+    },
+    {
+        "text": "Jinn",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "text": "Kenobi",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "text": "wall",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "Kenobi",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Maul",
+        "start": 58,
+        "end": 62
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Kenobi",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "text": "pit",
+        "start": 37,
+        "end": 40
+    },
+    {
+        "text": "Kenobi",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "text": "nozzle",
+        "start": 73,
+        "end": 79
+    },
+    {
+        "text": "Maul",
+        "start": 117,
+        "end": 121
+    },
+    {
+        "text": "Sith Lord",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "Kenobi",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "lightsaber",
+        "start": 35,
+        "end": 45
+    },
+    {
+        "text": "bottomless shaft",
+        "start": 55,
+        "end": 71
+    },
+    {
+        "text": "Jedi",
+        "start": 96,
+        "end": 100
+    },
+    {
+        "text": "Master",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "text": "lightsaber",
+        "start": 21,
+        "end": 31
+    },
+    {
+        "text": "Kenobi",
+        "start": 40,
+        "end": 46
+    },
+    {
+        "text": "Sith Lord",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "Maul",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "shaft",
+        "start": 24,
+        "end": 29
+    },
+    {
+        "text": "Kenobi",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Master",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Skywalker",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "Chosen One",
+        "start": 97,
+        "end": 107
+    },
+    {
+        "text": "Jinn",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Kenobi",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "Maul",
+        "start": 5,
+        "end": 9
+    },
+    {
+        "text": "Amidala",
+        "start": 25,
+        "end": 32
+    },
+    {
+        "text": "assassination",
+        "start": 35,
+        "end": 48
+    },
+    {
+        "text": "Droid Army",
+        "start": 65,
+        "end": 75
+    },
+    {
+        "text": "Droid Control Ship",
+        "start": 114,
+        "end": 132
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 216,
+        "end": 232
+    },
+    {
+        "text": "control ship",
+        "start": 23,
+        "end": 35
+    },
+    {
+        "text": "Federation",
+        "start": 52,
+        "end": 62
+    },
+    {
+        "text": "OOM-9",
+        "start": 80,
+        "end": 85
+    },
+    {
+        "text": "Naboo",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "text": "Trade Federation",
+        "start": 58,
+        "end": 74
+    },
+    {
+        "text": "mechanical army",
+        "start": 103,
+        "end": 118
+    },
+    {
+        "text": "invasion",
+        "start": 124,
+        "end": 132
+    },
+    {
+        "text": "Peace",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Gungans",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "Naboo",
+        "start": 85,
+        "end": 90
+    },
+    {
+        "text": "Palpatine",
+        "start": 12,
+        "end": 21
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 51,
+        "end": 69
+    },
+    {
+        "text": "Naboo",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "Jedi High Council",
+        "start": 124,
+        "end": 141
+    },
+    {
+        "text": "arrest",
+        "start": 157,
+        "end": 163
+    },
+    {
+        "text": "Gunray",
+        "start": 167,
+        "end": 173
+    },
+    {
+        "text": "Haako",
+        "start": 178,
+        "end": 183
+    },
+    {
+        "text": "Yoda",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Kenobi",
+        "start": 14,
+        "end": 20
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 29,
+        "end": 40
+    },
+    {
+        "text": "Skywalker",
+        "start": 67,
+        "end": 76
+    },
+    {
+        "text": "Qui-Gon",
+        "start": 14,
+        "end": 21
+    },
+    {
+        "text": "Jedi",
+        "start": 34,
+        "end": 38
+    },
+    {
+        "text": "Naboo",
+        "start": 80,
+        "end": 85
+    },
+    {
+        "text": "Jedi",
+        "start": 94,
+        "end": 98
+    },
+    {
+        "text": "Council",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "Kenobi",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Darth Maul",
+        "start": 55,
+        "end": 65
+    },
+    {
+        "text": "Gungans",
+        "start": 19,
+        "end": 26
+    },
+    {
+        "text": "Naboo",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "parade",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "Theed",
+        "start": 65,
+        "end": 70
+    },
+    {
+        "text": "N-1 starfighters",
+        "start": 101,
+        "end": 117
+    },
+    {
+        "text": "Bravo Squadron",
+        "start": 121,
+        "end": 135
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Boss Nass",
+        "start": 12,
+        "end": 21
+    },
+    {
+        "text": "globe",
+        "start": 40,
+        "end": 45
+    },
+    {
+        "text": "Gungan",
+        "start": 51,
+        "end": 57
+    },
+    {
+        "text": "band",
+        "start": 58,
+        "end": 62
+    },
+    {
+        "text": "Gungans",
+        "start": 41,
+        "end": 48
+    },
+    {
+        "text": "Great Grass Plains",
+        "start": 90,
+        "end": 108
+    },
+    {
+        "text": "Nass",
+        "start": 110,
+        "end": 114
+    },
+    {
+        "text": "Amidala",
+        "start": 119,
+        "end": 126
+    },
+    {
+        "text": "Naboo",
+        "start": 222,
+        "end": 227
+    },
+    {
+        "text": "Gungan",
+        "start": 228,
+        "end": 234
+    },
+    {
+        "text": "treaty",
+        "start": 15,
+        "end": 21
+    },
+    {
+        "text": "Theed",
+        "start": 84,
+        "end": 89
+    },
+    {
+        "text": "seawater pumps",
+        "start": 116,
+        "end": 130
+    },
+    {
+        "text": "Otoh Gunga",
+        "start": 134,
+        "end": 144
+    },
+    {
+        "text": "engineers",
+        "start": 147,
+        "end": 156
+    },
+    {
+        "text": "Gungans",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "text": "surface settlements",
+        "start": 59,
+        "end": 78
+    },
+    {
+        "text": "planet",
+        "start": 116,
+        "end": 122
+    },
+    {
+        "text": "civilizations",
+        "start": 177,
+        "end": 190
+    },
+    {
+        "text": "year",
+        "start": 228,
+        "end": 232
+    },
+    {
+        "text": "invasion",
+        "start": 240,
+        "end": 248
+    },
+    {
+        "text": "Gungans",
+        "start": 52,
+        "end": 59
+    },
+    {
+        "text": "Naboo",
+        "start": 98,
+        "end": 103
+    },
+    {
+        "text": "elections",
+        "start": 106,
+        "end": 115
+    },
+    {
+        "text": "Naboo",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Gungans",
+        "start": 112,
+        "end": 119
+    },
+    {
+        "text": "Naboo",
+        "start": 124,
+        "end": 129
+    },
+    {
+        "text": "invasion",
+        "start": 154,
+        "end": 162
+    },
+    {
+        "text": "Lake Country",
+        "start": 203,
+        "end": 215
+    },
+    {
+        "text": "Clone Wars",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Naboo",
+        "start": 33,
+        "end": 38
+    },
+    {
+        "text": "Roos Tarpals",
+        "start": 47,
+        "end": 59
+    },
+    {
+        "text": "Gungan",
+        "start": 118,
+        "end": 124
+    },
+    {
+        "text": "Naboo",
+        "start": 129,
+        "end": 134
+    },
+    {
+        "text": "Naboo",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "Occupation",
+        "start": 63,
+        "end": 73
+    },
+    {
+        "text": "Dooku",
+        "start": 159,
+        "end": 164
+    },
+    {
+        "text": "Sidious",
+        "start": 181,
+        "end": 188
+    },
+    {
+        "text": "Works",
+        "start": 196,
+        "end": 201
+    },
+    {
+        "text": "Coruscant",
+        "start": 205,
+        "end": 214
+    },
+    {
+        "text": "Maul",
+        "start": 242,
+        "end": 246
+    },
+    {
+        "text": "Jinn",
+        "start": 255,
+        "end": 259
+    },
+    {
+        "text": "Dooku",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Jedi Master",
+        "start": 34,
+        "end": 45
+    },
+    {
+        "text": "Yaddle",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "text": "Dooku",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Maul",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "text": "Sidious",
+        "start": 36,
+        "end": 43
+    },
+    {
+        "text": "Darth Tyrannus",
+        "start": 79,
+        "end": 93
+    },
+    {
+        "text": "Federation",
+        "start": 101,
+        "end": 111
+    },
+    {
+        "text": "Valorum",
+        "start": 116,
+        "end": 123
+    },
+    {
+        "text": "invasion",
+        "start": 159,
+        "end": 167
+    },
+    {
+        "text": "Naboo",
+        "start": 238,
+        "end": 243
+    },
+    {
+        "text": "invasion",
+        "start": 260,
+        "end": 268
+    },
+    {
+        "text": "Federation",
+        "start": 274,
+        "end": 284
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 315,
+        "end": 336
+    },
+    {
+        "text": "Valorum Shipping",
+        "start": 20,
+        "end": 36
+    },
+    {
+        "text": "scandals",
+        "start": 63,
+        "end": 71
+    },
+    {
+        "text": "Chancellor Valorum",
+        "start": 76,
+        "end": 94
+    },
+    {
+        "text": "Eriadu Mining and Shipping",
+        "start": 121,
+        "end": 147
+    },
+    {
+        "text": "company",
+        "start": 18,
+        "end": 25
+    },
+    {
+        "text": "company",
+        "start": 83,
+        "end": 90
+    },
+    {
+        "text": "Gunray",
+        "start": 143,
+        "end": 149
+    },
+    {
+        "text": "legal battle",
+        "start": 152,
+        "end": 164
+    },
+    {
+        "text": "political exile",
+        "start": 200,
+        "end": 215
+    },
+    {
+        "text": "Senate",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Federation",
+        "start": 84,
+        "end": 94
+    },
+    {
+        "text": "Senate",
+        "start": 128,
+        "end": 134
+    },
+    {
+        "text": "Free Trade Routes",
+        "start": 220,
+        "end": 237
+    },
+    {
+        "text": "Chancellor",
+        "start": 24,
+        "end": 34
+    },
+    {
+        "text": "Palpatine",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "galaxy",
+        "start": 63,
+        "end": 69
+    },
+    {
+        "text": "Gunray",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "Federation",
+        "start": 106,
+        "end": 116
+    },
+    {
+        "text": "Naboo",
+        "start": 172,
+        "end": 177
+    },
+    {
+        "text": "Republic",
+        "start": 46,
+        "end": 54
+    },
+    {
+        "text": "Gunray",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "Supreme Court",
+        "start": 95,
+        "end": 108
+    },
+    {
+        "text": "crisis",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "text": "Federation",
+        "start": 51,
+        "end": 61
+    },
+    {
+        "text": "Gunray",
+        "start": 83,
+        "end": 89
+    },
+    {
+        "text": "Federation",
+        "start": 27,
+        "end": 37
+    },
+    {
+        "text": "Free Trade Zones",
+        "start": 82,
+        "end": 98
+    },
+    {
+        "text": "Naboo invasion",
+        "start": 168,
+        "end": 182
+    },
+    {
+        "text": "corporation",
+        "start": 188,
+        "end": 199
+    },
+    {
+        "text": "Gunray",
+        "start": 63,
+        "end": 69
+    },
+    {
+        "text": "Federation",
+        "start": 78,
+        "end": 88
+    },
+    {
+        "text": "Republic",
+        "start": 139,
+        "end": 147
+    },
+    {
+        "text": "Federation",
+        "start": 9,
+        "end": 19
+    },
+    {
+        "text": "Republic",
+        "start": 33,
+        "end": 41
+    },
+    {
+        "text": "worlds",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "trade deals",
+        "start": 91,
+        "end": 102
+    },
+    {
+        "text": "corporation",
+        "start": 112,
+        "end": 123
+    },
+    {
+        "text": "Federation",
+        "start": 55,
+        "end": 65
+    },
+    {
+        "text": "Outer Rim worlds",
+        "start": 93,
+        "end": 109
+    },
+    {
+        "text": "megacorporations",
+        "start": 128,
+        "end": 144
+    },
+    {
+        "text": "secessionist movement",
+        "start": 170,
+        "end": 191
+    },
+    {
+        "text": "final trial",
+        "start": 26,
+        "end": 37
+    },
+    {
+        "text": "Amidala",
+        "start": 39,
+        "end": 46
+    },
+    {
+        "text": "Queen",
+        "start": 57,
+        "end": 62
+    },
+    {
+        "text": "Naboo",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Constitution",
+        "start": 52,
+        "end": 64
+    },
+    {
+        "text": "Amidala",
+        "start": 66,
+        "end": 73
+    },
+    {
+        "text": "Réillata",
+        "start": 104,
+        "end": 112
+    },
+    {
+        "text": "Queen",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "Amidala",
+        "start": 22,
+        "end": 29
+    },
+    {
+        "text": "Senator",
+        "start": 44,
+        "end": 51
+    },
+    {
+        "text": "Oshadam",
+        "start": 76,
+        "end": 83
+    },
+    {
+        "text": "Count Dooku",
+        "start": 12,
+        "end": 23
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 43,
+        "end": 56
+    },
+    {
+        "text": "Separatist Crisis",
+        "start": 92,
+        "end": 109
+    },
+    {
+        "text": "Gunray",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Amidala",
+        "start": 28,
+        "end": 35
+    },
+    {
+        "text": "Palpatine",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 42,
+        "end": 60
+    },
+    {
+        "text": "grand scheme",
+        "start": 77,
+        "end": 89
+    },
+    {
+        "text": "galaxy",
+        "start": 129,
+        "end": 135
+    },
+    {
+        "text": "invasion",
+        "start": 14,
+        "end": 22
+    },
+    {
+        "text": "Republic government",
+        "start": 49,
+        "end": 68
+    },
+    {
+        "text": "military",
+        "start": 93,
+        "end": 101
+    },
+    {
+        "text": "central authority",
+        "start": 112,
+        "end": 129
+    },
+    {
+        "text": "layers of bureaucracy",
+        "start": 135,
+        "end": 156
+    },
+    {
+        "text": "galactic stage",
+        "start": 186,
+        "end": 200
+    },
+    {
+        "text": "Palpatine",
+        "start": 206,
+        "end": 215
+    },
+    {
+        "text": "Republic government",
+        "start": 279,
+        "end": 298
+    },
+    {
+        "text": "Maul",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "text": "Savage Opress",
+        "start": 150,
+        "end": 163
+    },
+    {
+        "text": "Maul",
+        "start": 24,
+        "end": 28
+    },
+    {
+        "text": "Kenobi",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "Jedi",
+        "start": 101,
+        "end": 105
+    },
+    {
+        "text": "Padawan",
+        "start": 106,
+        "end": 113
+    },
+    {
+        "text": "Sith",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "Naboo",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "text": "Clone Wars",
+        "start": 101,
+        "end": 111
+    },
+    {
+        "text": "Jedi Order",
+        "start": 136,
+        "end": 146
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 168,
+        "end": 183
+    },
+    {
+        "text": "Clone Wars",
+        "start": 37,
+        "end": 47
+    },
+    {
+        "text": "Count Dooku",
+        "start": 64,
+        "end": 75
+    },
+    {
+        "text": "Invasion of Naboo",
+        "start": 91,
+        "end": 108
+    },
+    {
+        "text": "Federation forces",
+        "start": 23,
+        "end": 40
+    },
+    {
+        "text": "laboratory",
+        "start": 82,
+        "end": 92
+    },
+    {
+        "text": "hidden base",
+        "start": 99,
+        "end": 110
+    },
+    {
+        "text": "Separatists",
+        "start": 120,
+        "end": 131
+    },
+    {
+        "text": "war",
+        "start": 175,
+        "end": 178
+    }
+]

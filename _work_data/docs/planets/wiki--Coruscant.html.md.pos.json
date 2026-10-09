@@ -1,0 +1,8772 @@
+[
+    {
+        "text": "Coruscant",
+        "start": 2,
+        "end": 11
+    },
+    {
+        "text": "Coruscant",
+        "start": 13,
+        "end": 22
+    },
+    {
+        "text": "Core Worlds",
+        "start": 76,
+        "end": 87
+    },
+    {
+        "text": "Imperial Center",
+        "start": 92,
+        "end": 107
+    },
+    {
+        "text": "Imperial Era",
+        "start": 119,
+        "end": 131
+    },
+    {
+        "text": "Coruscant",
+        "start": 175,
+        "end": 184
+    },
+    {
+        "text": "Coruscant",
+        "start": 199,
+        "end": 208
+    },
+    {
+        "text": "Core Worlds",
+        "start": 226,
+        "end": 237
+    },
+    {
+        "text": "Corusca sector",
+        "start": 240,
+        "end": 254
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 302,
+        "end": 319
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 328,
+        "end": 343
+    },
+    {
+        "text": "Imperial City",
+        "start": 91,
+        "end": 104
+    },
+    {
+        "text": "Coruscant",
+        "start": 106,
+        "end": 115
+    },
+    {
+        "text": "Taung",
+        "start": 149,
+        "end": 154
+    },
+    {
+        "text": "Zhell",
+        "start": 159,
+        "end": 164
+    },
+    {
+        "text": "historians",
+        "start": 18,
+        "end": 28
+    },
+    {
+        "text": "Coruscant",
+        "start": 46,
+        "end": 55
+    },
+    {
+        "text": "humans",
+        "start": 83,
+        "end": 89
+    },
+    {
+        "text": "Coruscant",
+        "start": 61,
+        "end": 70
+    },
+    {
+        "text": "humanoid",
+        "start": 153,
+        "end": 161
+    },
+    {
+        "text": "alien species",
+        "start": 166,
+        "end": 179
+    },
+    {
+        "text": "Coruscant",
+        "start": 13,
+        "end": 22
+    },
+    {
+        "text": "major trade routes",
+        "start": 66,
+        "end": 84
+    },
+    {
+        "text": "city-planet",
+        "start": 140,
+        "end": 151
+    },
+    {
+        "text": "galactic culture",
+        "start": 202,
+        "end": 218
+    },
+    {
+        "text": "education",
+        "start": 220,
+        "end": 229
+    },
+    {
+        "text": "finance",
+        "start": 231,
+        "end": 238
+    },
+    {
+        "text": "fine arts",
+        "start": 240,
+        "end": 249
+    },
+    {
+        "text": "politics",
+        "start": 251,
+        "end": 259
+    },
+    {
+        "text": "technology",
+        "start": 264,
+        "end": 274
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 62,
+        "end": 73
+    },
+    {
+        "text": "Monument Plaza",
+        "start": 75,
+        "end": 89
+    },
+    {
+        "text": "Senate Building",
+        "start": 99,
+        "end": 114
+    },
+    {
+        "text": "ancient days",
+        "start": 47,
+        "end": 59
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 71,
+        "end": 88
+    },
+    {
+        "text": "Coruscant",
+        "start": 90,
+        "end": 99
+    },
+    {
+        "text": "historic events",
+        "start": 126,
+        "end": 141
+    },
+    {
+        "text": "Jedi Order",
+        "start": 155,
+        "end": 165
+    },
+    {
+        "text": "Sith",
+        "start": 186,
+        "end": 190
+    },
+    {
+        "text": "Sith",
+        "start": 31,
+        "end": 35
+    },
+    {
+        "text": "Republic",
+        "start": 56,
+        "end": 64
+    },
+    {
+        "text": "Coruscant",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 123,
+        "end": 135
+    },
+    {
+        "text": "Sith",
+        "start": 52,
+        "end": 56
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 160,
+        "end": 177
+    },
+    {
+        "text": "galactic capital",
+        "start": 24,
+        "end": 40
+    },
+    {
+        "text": "Coruscant",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 72,
+        "end": 87
+    },
+    {
+        "text": "centuries",
+        "start": 112,
+        "end": 121
+    },
+    {
+        "text": "millennium",
+        "start": 177,
+        "end": 187
+    },
+    {
+        "text": "Jedi",
+        "start": 216,
+        "end": 220
+    },
+    {
+        "text": "Coruscant",
+        "start": 76,
+        "end": 85
+    },
+    {
+        "text": "Clone Wars",
+        "start": 134,
+        "end": 144
+    },
+    {
+        "text": "Confederacy of Independent Systems",
+        "start": 154,
+        "end": 188
+    },
+    {
+        "text": "New Order",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 56,
+        "end": 74
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 75,
+        "end": 90
+    },
+    {
+        "text": "Sith Lord",
+        "start": 114,
+        "end": 123
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 124,
+        "end": 137
+    },
+    {
+        "text": "Jedi",
+        "start": 152,
+        "end": 156
+    },
+    {
+        "text": "galaxy-wide purge",
+        "start": 194,
+        "end": 211
+    },
+    {
+        "text": "Jedi",
+        "start": 239,
+        "end": 243
+    },
+    {
+        "text": "Jedi",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "text": "Palpatine",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "text": "Republic",
+        "start": 56,
+        "end": 64
+    },
+    {
+        "text": "Galactic Emperor",
+        "start": 86,
+        "end": 102
+    },
+    {
+        "text": "Imperial Senate",
+        "start": 130,
+        "end": 145
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "galactic capital",
+        "start": 32,
+        "end": 48
+    },
+    {
+        "text": "Empire",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "text": "Emperor",
+        "start": 85,
+        "end": 92
+    },
+    {
+        "text": "Palpatine",
+        "start": 117,
+        "end": 126
+    },
+    {
+        "text": "Imperial Ruling Council",
+        "start": 239,
+        "end": 262
+    },
+    {
+        "text": "Empire",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Coruscant",
+        "start": 37,
+        "end": 46
+    },
+    {
+        "text": "Emperor",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 106,
+        "end": 121
+    },
+    {
+        "text": "4 ABY",
+        "start": 125,
+        "end": 130
+    },
+    {
+        "text": "Alliance to Restore the Republic",
+        "start": 138,
+        "end": 170
+    },
+    {
+        "text": "Coruscant",
+        "start": 184,
+        "end": 193
+    },
+    {
+        "text": "military",
+        "start": 22,
+        "end": 30
+    },
+    {
+        "text": "rebels",
+        "start": 51,
+        "end": 57
+    },
+    {
+        "text": "Republic",
+        "start": 71,
+        "end": 79
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 94,
+        "end": 104
+    },
+    {
+        "text": "Coruscant",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "Gallius Rax",
+        "start": 157,
+        "end": 168
+    },
+    {
+        "text": "Empire",
+        "start": 207,
+        "end": 213
+    },
+    {
+        "text": "Imperial government",
+        "start": 258,
+        "end": 277
+    },
+    {
+        "text": "war crimes",
+        "start": 33,
+        "end": 43
+    },
+    {
+        "text": "Amedda",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "text": "New Republic",
+        "start": 90,
+        "end": 102
+    },
+    {
+        "text": "amnesty",
+        "start": 117,
+        "end": 124
+    },
+    {
+        "text": "Rax",
+        "start": 10,
+        "end": 13
+    },
+    {
+        "text": "Battle of Jakku",
+        "start": 29,
+        "end": 44
+    },
+    {
+        "text": "5 ABY",
+        "start": 48,
+        "end": 53
+    },
+    {
+        "text": "Amedda",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "Galactic Concordance",
+        "start": 73,
+        "end": 93
+    },
+    {
+        "text": "Empire",
+        "start": 125,
+        "end": 131
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 166,
+        "end": 184
+    },
+    {
+        "text": "Amedda",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Coruscant",
+        "start": 42,
+        "end": 51
+    },
+    {
+        "text": "provisional government",
+        "start": 69,
+        "end": 91
+    },
+    {
+        "text": "Republic",
+        "start": 66,
+        "end": 74
+    },
+    {
+        "text": "New Republic",
+        "start": 42,
+        "end": 54
+    },
+    {
+        "text": "millennia",
+        "start": 66,
+        "end": 75
+    },
+    {
+        "text": "Coruscant",
+        "start": 109,
+        "end": 118
+    },
+    {
+        "text": "member worlds",
+        "start": 180,
+        "end": 193
+    },
+    {
+        "text": "galactic capital",
+        "start": 213,
+        "end": 229
+    },
+    {
+        "text": "New Republic Era",
+        "start": 11,
+        "end": 27
+    },
+    {
+        "text": "Coruscant",
+        "start": 29,
+        "end": 38
+    },
+    {
+        "text": "New Republic",
+        "start": 69,
+        "end": 81
+    },
+    {
+        "text": "galaxy",
+        "start": 130,
+        "end": 136
+    },
+    {
+        "text": "New Republic Senate",
+        "start": 15,
+        "end": 34
+    },
+    {
+        "text": "Coruscant",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "Cold War",
+        "start": 109,
+        "end": 117
+    },
+    {
+        "text": "Centrists",
+        "start": 166,
+        "end": 175
+    },
+    {
+        "text": "Coruscant",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "crime syndicates",
+        "start": 75,
+        "end": 91
+    },
+    {
+        "text": "galaxy",
+        "start": 48,
+        "end": 54
+    },
+    {
+        "text": "current era",
+        "start": 57,
+        "end": 68
+    },
+    {
+        "text": "gangs",
+        "start": 70,
+        "end": 75
+    },
+    {
+        "text": "Battle of Crait",
+        "start": 130,
+        "end": 145
+    },
+    {
+        "text": "First Order-Resistance War",
+        "start": 11,
+        "end": 37
+    },
+    {
+        "text": "First Order",
+        "start": 94,
+        "end": 105
+    },
+    {
+        "text": "Coruscant",
+        "start": 109,
+        "end": 118
+    },
+    {
+        "text": "ecumenopolis",
+        "start": 185,
+        "end": 197
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 205,
+        "end": 220
+    },
+    {
+        "text": "Battle of Exegol",
+        "start": 24,
+        "end": 40
+    },
+    {
+        "text": "worlds",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "text": "First Order",
+        "start": 77,
+        "end": 88
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "uprising",
+        "start": 38,
+        "end": 46
+    },
+    {
+        "text": "galaxy-wide effort",
+        "start": 71,
+        "end": 89
+    },
+    {
+        "text": "overthrow",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "First Order",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Coruscant",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "Imperial Center",
+        "start": 55,
+        "end": 70
+    },
+    {
+        "text": "Core Worlds",
+        "start": 118,
+        "end": 129
+    },
+    {
+        "text": "ecumenopolis Planet",
+        "start": 138,
+        "end": 157
+    },
+    {
+        "text": "Coruscant",
+        "start": 177,
+        "end": 186
+    },
+    {
+        "text": "Coruscant subsector",
+        "start": 201,
+        "end": 220
+    },
+    {
+        "text": "Corusca sector",
+        "start": 228,
+        "end": 242
+    },
+    {
+        "text": "Core Worlds",
+        "start": 277,
+        "end": 288
+    },
+    {
+        "text": "The Interior",
+        "start": 293,
+        "end": 305
+    },
+    {
+        "text": "Zhell",
+        "start": 21,
+        "end": 26
+    },
+    {
+        "text": "Taung",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "humans",
+        "start": 88,
+        "end": 94
+    },
+    {
+        "text": "Coruscant",
+        "start": 96,
+        "end": 105
+    },
+    {
+        "text": "L-9",
+        "start": 130,
+        "end": 133
+    },
+    {
+        "text": "Standard Galactic Grid",
+        "start": 141,
+        "end": 163
+    },
+    {
+        "text": "Namadii Corridor",
+        "start": 326,
+        "end": 342
+    },
+    {
+        "text": "Stassia Alley",
+        "start": 375,
+        "end": 388
+    },
+    {
+        "text": "Galactic Governments",
+        "start": 456,
+        "end": 476
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 492,
+        "end": 509
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 546,
+        "end": 561
+    },
+    {
+        "text": "New Republic",
+        "start": 588,
+        "end": 600
+    },
+    {
+        "text": "9 ABY",
+        "start": 604,
+        "end": 609
+    },
+    {
+        "text": "Courscant",
+        "start": 7,
+        "end": 16
+    },
+    {
+        "text": "governments",
+        "start": 62,
+        "end": 73
+    },
+    {
+        "text": "First Order",
+        "start": 86,
+        "end": 97
+    },
+    {
+        "text": "capital",
+        "start": 157,
+        "end": 164
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Centax-1",
+        "start": 25,
+        "end": 33
+    },
+    {
+        "text": "Centax-2",
+        "start": 35,
+        "end": 43
+    },
+    {
+        "text": "Centax-3",
+        "start": 45,
+        "end": 53
+    },
+    {
+        "text": "Hesperidium",
+        "start": 59,
+        "end": 70
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Coruscant Prime",
+        "start": 18,
+        "end": 33
+    },
+    {
+        "text": "Coruscant",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "Local days",
+        "start": 104,
+        "end": 114
+    },
+    {
+        "text": "Standard hours",
+        "start": 141,
+        "end": 155
+    },
+    {
+        "text": "Coruscant",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "Coruscant",
+        "start": 90,
+        "end": 99
+    },
+    {
+        "text": "Coruscant",
+        "start": 135,
+        "end": 144
+    },
+    {
+        "text": "Coruscant",
+        "start": 175,
+        "end": 184
+    },
+    {
+        "text": "Taung species",
+        "start": 235,
+        "end": 248
+    },
+    {
+        "text": "Zhell species",
+        "start": 283,
+        "end": 296
+    },
+    {
+        "text": "Dai Bendu monks",
+        "start": 328,
+        "end": 343
+    },
+    {
+        "text": "Coruscant",
+        "start": 349,
+        "end": 358
+    },
+    {
+        "text": "Galaxy",
+        "start": 73,
+        "end": 79
+    },
+    {
+        "text": "Galactic Standard Calendar",
+        "start": 85,
+        "end": 111
+    },
+    {
+        "text": "days",
+        "start": 144,
+        "end": 148
+    },
+    {
+        "text": "years",
+        "start": 153,
+        "end": 158
+    },
+    {
+        "text": "Coruscant",
+        "start": 162,
+        "end": 171
+    },
+    {
+        "text": "orbital period",
+        "start": 174,
+        "end": 188
+    },
+    {
+        "text": "rotational period",
+        "start": 193,
+        "end": 210
+    },
+    {
+        "text": "Imperial City",
+        "start": 35,
+        "end": 48
+    },
+    {
+        "text": "Coruscant",
+        "start": 50,
+        "end": 59
+    },
+    {
+        "text": "troposphere-piercing skyscrapers",
+        "start": 254,
+        "end": 286
+    },
+    {
+        "text": "Imperial City",
+        "start": 294,
+        "end": 307
+    },
+    {
+        "text": "Coruscant",
+        "start": 6,
+        "end": 15
+    },
+    {
+        "text": "Coruscant",
+        "start": 147,
+        "end": 156
+    },
+    {
+        "text": "Underworld",
+        "start": 157,
+        "end": 167
+    },
+    {
+        "text": "Imperial City",
+        "start": 176,
+        "end": 189
+    },
+    {
+        "text": "Underworld",
+        "start": 256,
+        "end": 266
+    },
+    {
+        "text": "Coruscant",
+        "start": 22,
+        "end": 31
+    },
+    {
+        "text": "skyscrapers",
+        "start": 42,
+        "end": 53
+    },
+    {
+        "text": "microclimates",
+        "start": 162,
+        "end": 175
+    },
+    {
+        "text": "Thousands of years",
+        "start": 0,
+        "end": 18
+    },
+    {
+        "text": "development",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "planet",
+        "start": 48,
+        "end": 54
+    },
+    {
+        "text": "ancient mountains and seas",
+        "start": 57,
+        "end": 83
+    },
+    {
+        "text": "Monument Plaza",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "Coruscant",
+        "start": 33,
+        "end": 42
+    },
+    {
+        "text": "Umate",
+        "start": 102,
+        "end": 107
+    },
+    {
+        "text": "Manarai range",
+        "start": 28,
+        "end": 41
+    },
+    {
+        "text": "Level 5,216",
+        "start": 127,
+        "end": 138
+    },
+    {
+        "text": "232 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "dark ring",
+        "start": 14,
+        "end": 23
+    },
+    {
+        "text": "peak",
+        "start": 39,
+        "end": 43
+    },
+    {
+        "text": "base",
+        "start": 46,
+        "end": 50
+    },
+    {
+        "text": "rock",
+        "start": 107,
+        "end": 111
+    },
+    {
+        "text": "Generations",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "city planners",
+        "start": 15,
+        "end": 28
+    },
+    {
+        "text": "mountain peak",
+        "start": 49,
+        "end": 62
+    },
+    {
+        "text": "High Republic Era",
+        "start": 11,
+        "end": 28
+    },
+    {
+        "text": "surface",
+        "start": 34,
+        "end": 41
+    },
+    {
+        "text": "peak",
+        "start": 53,
+        "end": 57
+    },
+    {
+        "text": "Umate",
+        "start": 167,
+        "end": 172
+    },
+    {
+        "text": "base",
+        "start": 175,
+        "end": 179
+    },
+    {
+        "text": "Golan",
+        "start": 15,
+        "end": 20
+    },
+    {
+        "text": "fixed-path orbit",
+        "start": 56,
+        "end": 72
+    },
+    {
+        "text": "planet",
+        "start": 84,
+        "end": 90
+    },
+    {
+        "text": "Imperial Era",
+        "start": 11,
+        "end": 23
+    },
+    {
+        "text": "Golan-II Defense Platforms",
+        "start": 39,
+        "end": 65
+    },
+    {
+        "text": "Golan III defense platforms",
+        "start": 70,
+        "end": 97
+    },
+    {
+        "text": "Coruscant",
+        "start": 115,
+        "end": 124
+    },
+    {
+        "text": "Imperial Core Worlds",
+        "start": 145,
+        "end": 165
+    },
+    {
+        "text": "Small reptiles",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "roulette game",
+        "start": 33,
+        "end": 46
+    },
+    {
+        "text": "Coruscant",
+        "start": 57,
+        "end": 66
+    },
+    {
+        "text": "planet",
+        "start": 117,
+        "end": 123
+    },
+    {
+        "text": "gutters",
+        "start": 126,
+        "end": 133
+    },
+    {
+        "text": "small animals",
+        "start": 18,
+        "end": 31
+    },
+    {
+        "text": "lizards",
+        "start": 60,
+        "end": 67
+    },
+    {
+        "text": "rats",
+        "start": 72,
+        "end": 76
+    },
+    {
+        "text": "Imperial City",
+        "start": 4,
+        "end": 17
+    },
+    {
+        "text": "Coruscant",
+        "start": 19,
+        "end": 28
+    },
+    {
+        "text": "Galactic City",
+        "start": 102,
+        "end": 115
+    },
+    {
+        "text": "Imperial City",
+        "start": 151,
+        "end": 164
+    },
+    {
+        "text": "Imperial Era",
+        "start": 176,
+        "end": 188
+    },
+    {
+        "text": "Level 1",
+        "start": 77,
+        "end": 84
+    },
+    {
+        "text": "Level 5127",
+        "start": 113,
+        "end": 123
+    },
+    {
+        "text": "Level 5",
+        "start": 37,
+        "end": 44
+    },
+    {
+        "text": "Galactic City",
+        "start": 22,
+        "end": 35
+    },
+    {
+        "text": "planet-wide city",
+        "start": 24,
+        "end": 40
+    },
+    {
+        "text": "underworld",
+        "start": 49,
+        "end": 59
+    },
+    {
+        "text": "dark alleys",
+        "start": 68,
+        "end": 79
+    },
+    {
+        "text": "Coruscant",
+        "start": 108,
+        "end": 117
+    },
+    {
+        "text": "thief",
+        "start": 154,
+        "end": 159
+    },
+    {
+        "text": "tourists",
+        "start": 193,
+        "end": 201
+    },
+    {
+        "text": "quieter planets",
+        "start": 207,
+        "end": 222
+    },
+    {
+        "text": "Galactic City",
+        "start": 0,
+        "end": 13
+    },
+    {
+        "text": "sectors",
+        "start": 31,
+        "end": 38
+    },
+    {
+        "text": "coordinates",
+        "start": 59,
+        "end": 70
+    },
+    {
+        "text": "sector H-46",
+        "start": 53,
+        "end": 64
+    },
+    {
+        "text": "Sah'c Town",
+        "start": 87,
+        "end": 97
+    },
+    {
+        "text": "Sah'c family",
+        "start": 110,
+        "end": 122
+    },
+    {
+        "text": "Sectors",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "zones",
+        "start": 34,
+        "end": 39
+    },
+    {
+        "text": "zones",
+        "start": 46,
+        "end": 51
+    },
+    {
+        "text": "financial",
+        "start": 83,
+        "end": 92
+    },
+    {
+        "text": "senatorial",
+        "start": 94,
+        "end": 104
+    },
+    {
+        "text": "industrial zones",
+        "start": 109,
+        "end": 125
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 10,
+        "end": 27
+    },
+    {
+        "text": "Federal District",
+        "start": 33,
+        "end": 49
+    },
+    {
+        "text": "Senate District",
+        "start": 67,
+        "end": 82
+    },
+    {
+        "text": "planet",
+        "start": 128,
+        "end": 134
+    },
+    {
+        "text": "Senate Building",
+        "start": 163,
+        "end": 178
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 192,
+        "end": 207
+    },
+    {
+        "text": "Senate Office Building",
+        "start": 217,
+        "end": 239
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 251,
+        "end": 269
+    },
+    {
+        "text": "City Municipal Authorities Building",
+        "start": 87,
+        "end": 122
+    },
+    {
+        "text": "Galactic Courts of Justice",
+        "start": 131,
+        "end": 157
+    },
+    {
+        "text": "Federal District",
+        "start": 4,
+        "end": 20
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 50,
+        "end": 61
+    },
+    {
+        "text": "Jedi Order",
+        "start": 79,
+        "end": 89
+    },
+    {
+        "text": "500 Republica",
+        "start": 102,
+        "end": 115
+    },
+    {
+        "text": "Coruscant",
+        "start": 174,
+        "end": 183
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 22,
+        "end": 37
+    },
+    {
+        "text": "Federal District",
+        "start": 43,
+        "end": 59
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 141,
+        "end": 156
+    },
+    {
+        "text": "supreme triangle",
+        "start": 33,
+        "end": 49
+    },
+    {
+        "text": "Imperial Inspectorate HQ",
+        "start": 79,
+        "end": 103
+    },
+    {
+        "text": "COMPNOR arcology",
+        "start": 120,
+        "end": 136
+    },
+    {
+        "text": "ISB Central Office",
+        "start": 172,
+        "end": 190
+    },
+    {
+        "text": "Imperial Security Bureau",
+        "start": 198,
+        "end": 222
+    },
+    {
+        "text": "Federal District",
+        "start": 12,
+        "end": 28
+    },
+    {
+        "text": "Verity District",
+        "start": 37,
+        "end": 52
+    },
+    {
+        "text": "Empire",
+        "start": 70,
+        "end": 76
+    },
+    {
+        "text": "Hall of Adjudication",
+        "start": 88,
+        "end": 108
+    },
+    {
+        "text": "Hall of Imperial Register",
+        "start": 114,
+        "end": 139
+    },
+    {
+        "text": "Institute to Preserve Imperial History",
+        "start": 145,
+        "end": 183
+    },
+    {
+        "text": "ISB Academy and Offices",
+        "start": 193,
+        "end": 216
+    },
+    {
+        "text": "planet",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "skylanes",
+        "start": 13,
+        "end": 21
+    },
+    {
+        "text": "air-traffic",
+        "start": 35,
+        "end": 46
+    },
+    {
+        "text": "airspeeders",
+        "start": 50,
+        "end": 61
+    },
+    {
+        "text": "auto-navigation system",
+        "start": 66,
+        "end": 88
+    },
+    {
+        "text": "speeders",
+        "start": 104,
+        "end": 112
+    },
+    {
+        "text": "preprogrammed routes",
+        "start": 119,
+        "end": 139
+    },
+    {
+        "text": "crashes",
+        "start": 8,
+        "end": 15
+    },
+    {
+        "text": "skytunnels",
+        "start": 39,
+        "end": 49
+    },
+    {
+        "text": "bombproof shields",
+        "start": 64,
+        "end": 81
+    },
+    {
+        "text": "high-level tracking systems",
+        "start": 86,
+        "end": 113
+    },
+    {
+        "text": "Coruscant",
+        "start": 138,
+        "end": 147
+    },
+    {
+        "text": "defensive shields",
+        "start": 152,
+        "end": 169
+    },
+    {
+        "text": "out-of-control vehicles",
+        "start": 204,
+        "end": 227
+    },
+    {
+        "text": "Galactic City",
+        "start": 63,
+        "end": 76
+    },
+    {
+        "text": "governmental offices",
+        "start": 93,
+        "end": 113
+    },
+    {
+        "text": "inter-galactic headquarters",
+        "start": 118,
+        "end": 145
+    },
+    {
+        "text": "Tagge Corporation",
+        "start": 56,
+        "end": 73
+    },
+    {
+        "text": "city",
+        "start": 100,
+        "end": 104
+    },
+    {
+        "text": "Cybot Galactica",
+        "start": 157,
+        "end": 172
+    },
+    {
+        "text": "Bank of the Core",
+        "start": 182,
+        "end": 198
+    },
+    {
+        "text": "galaxy",
+        "start": 211,
+        "end": 217
+    },
+    {
+        "text": "towers",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "planet",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Coruscanti",
+        "start": 41,
+        "end": 51
+    },
+    {
+        "text": "planet",
+        "start": 102,
+        "end": 108
+    },
+    {
+        "text": "human",
+        "start": 134,
+        "end": 139
+    },
+    {
+        "text": "Coruscant",
+        "start": 3,
+        "end": 12
+    },
+    {
+        "text": "lowermost levels",
+        "start": 4,
+        "end": 20
+    },
+    {
+        "text": "Level 1",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "text": "monsters",
+        "start": 130,
+        "end": 138
+    },
+    {
+        "text": "underlevels",
+        "start": 164,
+        "end": 175
+    },
+    {
+        "text": "middle-class workers",
+        "start": 218,
+        "end": 238
+    },
+    {
+        "text": "super-towers",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Level 5217",
+        "start": 20,
+        "end": 30
+    },
+    {
+        "text": "ultra-wealthy",
+        "start": 52,
+        "end": 65
+    },
+    {
+        "text": "upper levels",
+        "start": 56,
+        "end": 68
+    },
+    {
+        "text": "factory",
+        "start": 204,
+        "end": 211
+    },
+    {
+        "text": "vehicular waste",
+        "start": 216,
+        "end": 231
+    },
+    {
+        "text": "Coruscant",
+        "start": 26,
+        "end": 35
+    },
+    {
+        "text": "ancient times",
+        "start": 34,
+        "end": 47
+    },
+    {
+        "text": "Coruscant",
+        "start": 49,
+        "end": 58
+    },
+    {
+        "text": "sentient species",
+        "start": 80,
+        "end": 96
+    },
+    {
+        "text": "Taung",
+        "start": 102,
+        "end": 107
+    },
+    {
+        "text": "Zhell",
+        "start": 116,
+        "end": 121
+    },
+    {
+        "text": "distant past",
+        "start": 16,
+        "end": 28
+    },
+    {
+        "text": "Coruscant",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "conflict",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "civilizations",
+        "start": 71,
+        "end": 84
+    },
+    {
+        "text": "planet",
+        "start": 116,
+        "end": 122
+    },
+    {
+        "text": "civilizations",
+        "start": 12,
+        "end": 25
+    },
+    {
+        "text": "battlefields",
+        "start": 40,
+        "end": 52
+    },
+    {
+        "text": "new civilizations",
+        "start": 95,
+        "end": 112
+    },
+    {
+        "text": "human species",
+        "start": 29,
+        "end": 42
+    },
+    {
+        "text": "Coruscant",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "text": "human",
+        "start": 97,
+        "end": 102
+    },
+    {
+        "text": "human",
+        "start": 18,
+        "end": 23
+    },
+    {
+        "text": "Axel Greylark",
+        "start": 24,
+        "end": 37
+    },
+    {
+        "text": "Coruscant",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "humans",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "galaxy",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "text": "space",
+        "start": 95,
+        "end": 100
+    },
+    {
+        "text": "Coruscant",
+        "start": 107,
+        "end": 116
+    },
+    {
+        "text": "galactic center",
+        "start": 130,
+        "end": 145
+    },
+    {
+        "text": "100,000 BBY",
+        "start": 3,
+        "end": 14
+    },
+    {
+        "text": "Coruscant",
+        "start": 37,
+        "end": 46
+    },
+    {
+        "text": "Level 1",
+        "start": 56,
+        "end": 63
+    },
+    {
+        "text": "Coruscant",
+        "start": 104,
+        "end": 113
+    },
+    {
+        "text": "planet",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "buildings",
+        "start": 40,
+        "end": 49
+    },
+    {
+        "text": "ancient ruins",
+        "start": 60,
+        "end": 73
+    },
+    {
+        "text": "low levels",
+        "start": 22,
+        "end": 32
+    },
+    {
+        "text": "political systems",
+        "start": 15,
+        "end": 32
+    },
+    {
+        "text": "Coruscant",
+        "start": 51,
+        "end": 60
+    },
+    {
+        "text": "empires",
+        "start": 122,
+        "end": 129
+    },
+    {
+        "text": "dictatorships",
+        "start": 134,
+        "end": 147
+    },
+    {
+        "text": "democracies",
+        "start": 151,
+        "end": 162
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 25,
+        "end": 42
+    },
+    {
+        "text": "Core World",
+        "start": 54,
+        "end": 64
+    },
+    {
+        "text": "hyperspace routes",
+        "start": 206,
+        "end": 223
+    },
+    {
+        "text": "hyperspace lanes",
+        "start": 15,
+        "end": 31
+    },
+    {
+        "text": "alien species",
+        "start": 92,
+        "end": 105
+    },
+    {
+        "text": "Coruscant",
+        "start": 123,
+        "end": 132
+    },
+    {
+        "text": "residential levels",
+        "start": 180,
+        "end": 198
+    },
+    {
+        "text": "city-world",
+        "start": 219,
+        "end": 229
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Republic",
+        "start": 50,
+        "end": 58
+    },
+    {
+        "text": "0-0-0",
+        "start": 99,
+        "end": 104
+    },
+    {
+        "text": "Galactic City",
+        "start": 29,
+        "end": 42
+    },
+    {
+        "text": "5,000 years",
+        "start": 56,
+        "end": 67
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 79,
+        "end": 97
+    },
+    {
+        "text": "planet",
+        "start": 143,
+        "end": 149
+    },
+    {
+        "text": "Sith Lords",
+        "start": 12,
+        "end": 22
+    },
+    {
+        "text": "Coruscant",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 9,
+        "end": 21
+    },
+    {
+        "text": "temple",
+        "start": 52,
+        "end": 58
+    },
+    {
+        "text": "Jedi-Sith War",
+        "start": 11,
+        "end": 24
+    },
+    {
+        "text": "Sith",
+        "start": 30,
+        "end": 34
+    },
+    {
+        "text": "Coruscant",
+        "start": 44,
+        "end": 53
+    },
+    {
+        "text": "Republic",
+        "start": 89,
+        "end": 97
+    },
+    {
+        "text": "Coruscant",
+        "start": 119,
+        "end": 128
+    },
+    {
+        "text": "Victory",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Sith",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "text": "Ruusan",
+        "start": 25,
+        "end": 31
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 63,
+        "end": 80
+    },
+    {
+        "text": "Coruscant",
+        "start": 86,
+        "end": 95
+    },
+    {
+        "text": "Beings",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "galaxy",
+        "start": 23,
+        "end": 29
+    },
+    {
+        "text": "Coruscant",
+        "start": 43,
+        "end": 52
+    },
+    {
+        "text": "bustling planet",
+        "start": 82,
+        "end": 97
+    },
+    {
+        "text": "Coruscant",
+        "start": 61,
+        "end": 70
+    },
+    {
+        "text": "galaxy",
+        "start": 86,
+        "end": 92
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 8,
+        "end": 25
+    },
+    {
+        "text": "High Republic Era",
+        "start": 32,
+        "end": 49
+    },
+    {
+        "text": "millennia",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 102,
+        "end": 117
+    },
+    {
+        "text": "Coruscant",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "galactic capital",
+        "start": 39,
+        "end": 55
+    },
+    {
+        "text": "thousands of years",
+        "start": 60,
+        "end": 78
+    },
+    {
+        "text": "382 BBY",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "Toydarian",
+        "start": 14,
+        "end": 23
+    },
+    {
+        "text": "Level 1392",
+        "start": 87,
+        "end": 97
+    },
+    {
+        "text": "Level 2623",
+        "start": 134,
+        "end": 144
+    },
+    {
+        "text": "Kyong Greylark",
+        "start": 52,
+        "end": 66
+    },
+    {
+        "text": "Axel",
+        "start": 68,
+        "end": 72
+    },
+    {
+        "text": "Level 2623",
+        "start": 85,
+        "end": 95
+    },
+    {
+        "text": "Raik",
+        "start": 109,
+        "end": 113
+    },
+    {
+        "text": "gambling den",
+        "start": 39,
+        "end": 51
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 87,
+        "end": 102
+    },
+    {
+        "text": "mother",
+        "start": 143,
+        "end": 149
+    },
+    {
+        "text": "Marda Ro",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "text": "Path of the Open Hand",
+        "start": 58,
+        "end": 79
+    },
+    {
+        "text": "Path of the Closed Fist",
+        "start": 98,
+        "end": 121
+    },
+    {
+        "text": "Jedi",
+        "start": 141,
+        "end": 145
+    },
+    {
+        "text": "Force-sensitives",
+        "start": 156,
+        "end": 172
+    },
+    {
+        "text": "Coruscant",
+        "start": 229,
+        "end": 238
+    },
+    {
+        "text": "Path",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "text": "Ro",
+        "start": 34,
+        "end": 36
+    },
+    {
+        "text": "Battle of Dalna",
+        "start": 57,
+        "end": 72
+    },
+    {
+        "text": "cult",
+        "start": 103,
+        "end": 107
+    },
+    {
+        "text": "Ro",
+        "start": 118,
+        "end": 120
+    },
+    {
+        "text": "Nihil marauders",
+        "start": 197,
+        "end": 212
+    },
+    {
+        "text": "Republic Era",
+        "start": 53,
+        "end": 65
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 85,
+        "end": 98
+    },
+    {
+        "text": "galactic domination",
+        "start": 122,
+        "end": 141
+    },
+    {
+        "text": "blockade",
+        "start": 162,
+        "end": 170
+    },
+    {
+        "text": "Naboo",
+        "start": 174,
+        "end": 179
+    },
+    {
+        "text": "Senator",
+        "start": 218,
+        "end": 225
+    },
+    {
+        "text": "Sheev Palpatine",
+        "start": 226,
+        "end": 241
+    },
+    {
+        "text": "Sith Order",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Darth Bane",
+        "start": 61,
+        "end": 71
+    },
+    {
+        "text": "Rule of Two",
+        "start": 74,
+        "end": 85
+    },
+    {
+        "text": "generations",
+        "start": 101,
+        "end": 112
+    },
+    {
+        "text": "galaxy",
+        "start": 156,
+        "end": 162
+    },
+    {
+        "text": "Sidious",
+        "start": 3,
+        "end": 10
+    },
+    {
+        "text": "Sith",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "Coruscant",
+        "start": 47,
+        "end": 56
+    },
+    {
+        "text": "Jedi Order",
+        "start": 73,
+        "end": 83
+    },
+    {
+        "text": "capital",
+        "start": 102,
+        "end": 109
+    },
+    {
+        "text": "Jedi",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "ancient rivals",
+        "start": 54,
+        "end": 68
+    },
+    {
+        "text": "millennium",
+        "start": 97,
+        "end": 107
+    },
+    {
+        "text": "Sith",
+        "start": 27,
+        "end": 31
+    },
+    {
+        "text": "Trade Federation",
+        "start": 37,
+        "end": 53
+    },
+    {
+        "text": "Naboo",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "32 BBY",
+        "start": 97,
+        "end": 103
+    },
+    {
+        "text": "Queen Padmé Amidala",
+        "start": 132,
+        "end": 151
+    },
+    {
+        "text": "Coruscant",
+        "start": 164,
+        "end": 173
+    },
+    {
+        "text": "Senator Palpatine",
+        "start": 182,
+        "end": 199
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 30,
+        "end": 46
+    },
+    {
+        "text": "Tatooine",
+        "start": 68,
+        "end": 76
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Jedi Master",
+        "start": 122,
+        "end": 133
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 134,
+        "end": 146
+    },
+    {
+        "text": "Chosen One",
+        "start": 175,
+        "end": 185
+    },
+    {
+        "text": "Senate",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "Finis Valorum",
+        "start": 34,
+        "end": 47
+    },
+    {
+        "text": "Naboo",
+        "start": 89,
+        "end": 94
+    },
+    {
+        "text": "Amidala",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Palpatine",
+        "start": 29,
+        "end": 38
+    },
+    {
+        "text": "Republic government",
+        "start": 67,
+        "end": 86
+    },
+    {
+        "text": "Valorum",
+        "start": 133,
+        "end": 140
+    },
+    {
+        "text": "Valorum",
+        "start": 14,
+        "end": 21
+    },
+    {
+        "text": "voted out of office",
+        "start": 26,
+        "end": 45
+    },
+    {
+        "text": "Palpatine",
+        "start": 50,
+        "end": 59
+    },
+    {
+        "text": "elected",
+        "start": 64,
+        "end": 71
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 83,
+        "end": 101
+    },
+    {
+        "text": "early years",
+        "start": 11,
+        "end": 22
+    },
+    {
+        "text": "Palpatine",
+        "start": 26,
+        "end": 35
+    },
+    {
+        "text": "chancellery",
+        "start": 38,
+        "end": 49
+    },
+    {
+        "text": "Skywalker",
+        "start": 62,
+        "end": 71
+    },
+    {
+        "text": "lower levels",
+        "start": 79,
+        "end": 91
+    },
+    {
+        "text": "Coruscant",
+        "start": 95,
+        "end": 104
+    },
+    {
+        "text": "Republic",
+        "start": 135,
+        "end": 143
+    },
+    {
+        "text": "Jedi",
+        "start": 171,
+        "end": 175
+    },
+    {
+        "text": "Clone Wars",
+        "start": 27,
+        "end": 37
+    },
+    {
+        "text": "First Battle of Geonosis",
+        "start": 53,
+        "end": 77
+    },
+    {
+        "text": "22 BBY",
+        "start": 81,
+        "end": 87
+    },
+    {
+        "text": "Separatist Crisis",
+        "start": 98,
+        "end": 115
+    },
+    {
+        "text": "Confederacy of Independent Systems",
+        "start": 157,
+        "end": 191
+    },
+    {
+        "text": "Republic",
+        "start": 228,
+        "end": 236
+    },
+    {
+        "text": "Separatists",
+        "start": 245,
+        "end": 256
+    },
+    {
+        "text": "year",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "text": "Amidala",
+        "start": 18,
+        "end": 25
+    },
+    {
+        "text": "assassination plot",
+        "start": 50,
+        "end": 68
+    },
+    {
+        "text": "Coruscant",
+        "start": 86,
+        "end": 95
+    },
+    {
+        "text": "Military Creation Act",
+        "start": 109,
+        "end": 130
+    },
+    {
+        "text": "queen-turned-senator",
+        "start": 11,
+        "end": 31
+    },
+    {
+        "text": "Zam Wesell",
+        "start": 66,
+        "end": 76
+    },
+    {
+        "text": "Jango Fett",
+        "start": 81,
+        "end": 91
+    },
+    {
+        "text": "Kenobi",
+        "start": 115,
+        "end": 121
+    },
+    {
+        "text": "Skywalker",
+        "start": 126,
+        "end": 135
+    },
+    {
+        "text": "Skywalker",
+        "start": 6,
+        "end": 15
+    },
+    {
+        "text": "Amidala",
+        "start": 25,
+        "end": 32
+    },
+    {
+        "text": "Naboo",
+        "start": 36,
+        "end": 41
+    },
+    {
+        "text": "Kenobi",
+        "start": 62,
+        "end": 68
+    },
+    {
+        "text": "Fett",
+        "start": 77,
+        "end": 81
+    },
+    {
+        "text": "Kamino",
+        "start": 112,
+        "end": 118
+    },
+    {
+        "text": "army of elite soldiers",
+        "start": 147,
+        "end": 169
+    },
+    {
+        "text": "Fett",
+        "start": 189,
+        "end": 193
+    },
+    {
+        "text": "Kenobi",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Fett",
+        "start": 16,
+        "end": 20
+    },
+    {
+        "text": "Geonosis",
+        "start": 24,
+        "end": 32
+    },
+    {
+        "text": "Count Dooku",
+        "start": 110,
+        "end": 121
+    },
+    {
+        "text": "Separatist Droid Army",
+        "start": 130,
+        "end": 151
+    },
+    {
+        "text": "Separatists",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "Republic",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "Loyalist Committee",
+        "start": 68,
+        "end": 86
+    },
+    {
+        "text": "Kaminoan",
+        "start": 127,
+        "end": 135
+    },
+    {
+        "text": "Republic",
+        "start": 172,
+        "end": 180
+    },
+    {
+        "text": "Jedi Order",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Senate",
+        "start": 44,
+        "end": 50
+    },
+    {
+        "text": "galaxy",
+        "start": 80,
+        "end": 86
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 110,
+        "end": 122
+    },
+    {
+        "text": "galactic-scale conflict",
+        "start": 154,
+        "end": 177
+    },
+    {
+        "text": "Junior Representative",
+        "start": 0,
+        "end": 21
+    },
+    {
+        "text": "Jar Jar Binks",
+        "start": 22,
+        "end": 35
+    },
+    {
+        "text": "Naboo",
+        "start": 57,
+        "end": 62
+    },
+    {
+        "text": "Amidala",
+        "start": 66,
+        "end": 73
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 136,
+        "end": 154
+    },
+    {
+        "text": "Senate",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Gungan",
+        "start": 33,
+        "end": 39
+    },
+    {
+        "text": "politician",
+        "start": 40,
+        "end": 50
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 71,
+        "end": 91
+    },
+    {
+        "text": "Grand Army of the Republic",
+        "start": 119,
+        "end": 145
+    },
+    {
+        "text": "Clone Wars",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "galactic history",
+        "start": 57,
+        "end": 73
+    },
+    {
+        "text": "thousand years",
+        "start": 114,
+        "end": 128
+    },
+    {
+        "text": "Republic",
+        "start": 22,
+        "end": 30
+    },
+    {
+        "text": "Coruscant",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "text": "centuries before",
+        "start": 44,
+        "end": 60
+    },
+    {
+        "text": "war",
+        "start": 35,
+        "end": 38
+    },
+    {
+        "text": "Republic",
+        "start": 69,
+        "end": 77
+    },
+    {
+        "text": "Senate",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Palpatine",
+        "start": 102,
+        "end": 111
+    },
+    {
+        "text": "chancellor",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Red Guards",
+        "start": 84,
+        "end": 94
+    },
+    {
+        "text": "Senate Guards",
+        "start": 110,
+        "end": 123
+    },
+    {
+        "text": "Clone Wars",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 27,
+        "end": 42
+    },
+    {
+        "text": "clone",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "text": "Republic capital",
+        "start": 97,
+        "end": 113
+    },
+    {
+        "text": "clone",
+        "start": 18,
+        "end": 23
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 44,
+        "end": 59
+    },
+    {
+        "text": "Clone Commander Fox",
+        "start": 71,
+        "end": 90
+    },
+    {
+        "text": "Grand Army",
+        "start": 7,
+        "end": 17
+    },
+    {
+        "text": "Republic Navy",
+        "start": 26,
+        "end": 39
+    },
+    {
+        "text": "galaxy",
+        "start": 58,
+        "end": 64
+    },
+    {
+        "text": "Republic",
+        "start": 79,
+        "end": 87
+    },
+    {
+        "text": "Jedi",
+        "start": 93,
+        "end": 97
+    },
+    {
+        "text": "clone troopers",
+        "start": 172,
+        "end": 186
+    },
+    {
+        "text": "Jedi",
+        "start": 39,
+        "end": 43
+    },
+    {
+        "text": "Republic",
+        "start": 52,
+        "end": 60
+    },
+    {
+        "text": "Coruscant",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "Coruscant",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "war",
+        "start": 77,
+        "end": 80
+    },
+    {
+        "text": "Palpatine",
+        "start": 112,
+        "end": 121
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 3,
+        "end": 21
+    },
+    {
+        "text": "Republic military",
+        "start": 53,
+        "end": 70
+    },
+    {
+        "text": "Senate Office Building",
+        "start": 122,
+        "end": 144
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 3,
+        "end": 16
+    },
+    {
+        "text": "Dooku",
+        "start": 29,
+        "end": 34
+    },
+    {
+        "text": "war",
+        "start": 70,
+        "end": 73
+    },
+    {
+        "text": "Clone Wars",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 23,
+        "end": 43
+    },
+    {
+        "text": "Zillo Beast",
+        "start": 52,
+        "end": 63
+    },
+    {
+        "text": "Malastare",
+        "start": 69,
+        "end": 78
+    },
+    {
+        "text": "Coruscant",
+        "start": 94,
+        "end": 103
+    },
+    {
+        "text": "Jedi",
+        "start": 162,
+        "end": 166
+    },
+    {
+        "text": "Mace Windu",
+        "start": 175,
+        "end": 185
+    },
+    {
+        "text": "Palpatine",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Zillo Beast",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "Republic Science and Technical Center",
+        "start": 83,
+        "end": 120
+    },
+    {
+        "text": "Coruscant",
+        "start": 155,
+        "end": 164
+    },
+    {
+        "text": "Senate district",
+        "start": 167,
+        "end": 182
+    },
+    {
+        "text": "clone forces",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Coruscant",
+        "start": 20,
+        "end": 29
+    },
+    {
+        "text": "Zillo Beast",
+        "start": 47,
+        "end": 58
+    },
+    {
+        "text": "poison gas",
+        "start": 66,
+        "end": 76
+    },
+    {
+        "text": "Jedi",
+        "start": 98,
+        "end": 102
+    },
+    {
+        "text": "chancellor",
+        "start": 117,
+        "end": 127
+    },
+    {
+        "text": "Senate",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Cad Bane",
+        "start": 59,
+        "end": 67
+    },
+    {
+        "text": "Hutt Clan",
+        "start": 81,
+        "end": 90
+    },
+    {
+        "text": "Ziro Desilijic Tiure",
+        "start": 104,
+        "end": 124
+    },
+    {
+        "text": "clone troopers",
+        "start": 6,
+        "end": 20
+    },
+    {
+        "text": "Coruscant",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "text": "Senate Guards",
+        "start": 100,
+        "end": 113
+    },
+    {
+        "text": "incident",
+        "start": 125,
+        "end": 133
+    },
+    {
+        "text": "clones",
+        "start": 182,
+        "end": 188
+    },
+    {
+        "text": "capital",
+        "start": 196,
+        "end": 203
+    },
+    {
+        "text": "clones",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "Senate Commandos",
+        "start": 32,
+        "end": 48
+    },
+    {
+        "text": "Coruscant-based",
+        "start": 52,
+        "end": 67
+    },
+    {
+        "text": "fast-action response military forces",
+        "start": 92,
+        "end": 128
+    },
+    {
+        "text": "Confederate–Republic peace initiative",
+        "start": 4,
+        "end": 41
+    },
+    {
+        "text": "bombing",
+        "start": 63,
+        "end": 70
+    },
+    {
+        "text": "Coruscant",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "central power distribution grid",
+        "start": 86,
+        "end": 117
+    },
+    {
+        "text": "planetside",
+        "start": 121,
+        "end": 131
+    },
+    {
+        "text": "Separatist agents",
+        "start": 132,
+        "end": 149
+    },
+    {
+        "text": "Senate",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "banking industry",
+        "start": 49,
+        "end": 65
+    },
+    {
+        "text": "Republic",
+        "start": 80,
+        "end": 88
+    },
+    {
+        "text": "clones",
+        "start": 152,
+        "end": 158
+    },
+    {
+        "text": "army",
+        "start": 167,
+        "end": 171
+    },
+    {
+        "text": "Senate",
+        "start": 17,
+        "end": 23
+    },
+    {
+        "text": "Senators",
+        "start": 53,
+        "end": 61
+    },
+    {
+        "text": "Nix Card",
+        "start": 62,
+        "end": 70
+    },
+    {
+        "text": "Lott Dod",
+        "start": 75,
+        "end": 83
+    },
+    {
+        "text": "InterGalactic Banking Clan",
+        "start": 121,
+        "end": 147
+    },
+    {
+        "text": "Trade Federation",
+        "start": 156,
+        "end": 172
+    },
+    {
+        "text": "Clone Wars",
+        "start": 192,
+        "end": 202
+    },
+    {
+        "text": "Public opinion",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "text": "war",
+        "start": 38,
+        "end": 41
+    },
+    {
+        "text": "Coruscant",
+        "start": 77,
+        "end": 86
+    },
+    {
+        "text": "Jedi",
+        "start": 114,
+        "end": 118
+    },
+    {
+        "text": "Protesters",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "Temple",
+        "start": 40,
+        "end": 46
+    },
+    {
+        "text": "Jedi",
+        "start": 60,
+        "end": 64
+    },
+    {
+        "text": "military losses",
+        "start": 73,
+        "end": 88
+    },
+    {
+        "text": "Jedi",
+        "start": 97,
+        "end": 101
+    },
+    {
+        "text": "explosion",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "text": "Jedi Temple docking complex",
+        "start": 54,
+        "end": 81
+    },
+    {
+        "text": "Jedi",
+        "start": 98,
+        "end": 102
+    },
+    {
+        "text": "clone troopers",
+        "start": 115,
+        "end": 129
+    },
+    {
+        "text": "Temple employees",
+        "start": 134,
+        "end": 150
+    },
+    {
+        "text": "crime scene analysis droid",
+        "start": 21,
+        "end": 47
+    },
+    {
+        "text": "Russo-ISC",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "Jedi",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 67,
+        "end": 83
+    },
+    {
+        "text": "Ahsoka Tano",
+        "start": 88,
+        "end": 99
+    },
+    {
+        "text": "Letta Turmond",
+        "start": 111,
+        "end": 124
+    },
+    {
+        "text": "Temple",
+        "start": 138,
+        "end": 144
+    },
+    {
+        "text": "Jackar Bowmani",
+        "start": 154,
+        "end": 168
+    },
+    {
+        "text": "volatile nano-droids",
+        "start": 182,
+        "end": 202
+    },
+    {
+        "text": "Bowmani",
+        "start": 232,
+        "end": 239
+    },
+    {
+        "text": "bombing",
+        "start": 256,
+        "end": 263
+    },
+    {
+        "text": "Temple",
+        "start": 271,
+        "end": 277
+    },
+    {
+        "text": "Turmond",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Republic Center for Military Operations",
+        "start": 37,
+        "end": 76
+    },
+    {
+        "text": "Tano",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Turmond",
+        "start": 46,
+        "end": 53
+    },
+    {
+        "text": "Force",
+        "start": 84,
+        "end": 89
+    },
+    {
+        "text": "She",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "lower levels",
+        "start": 19,
+        "end": 31
+    },
+    {
+        "text": "Coruscant",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "her",
+        "start": 96,
+        "end": 99
+    },
+    {
+        "text": "military",
+        "start": 10,
+        "end": 18
+    },
+    {
+        "text": "Tano",
+        "start": 30,
+        "end": 34
+    },
+    {
+        "text": "Jedi",
+        "start": 47,
+        "end": 51
+    },
+    {
+        "text": "trial",
+        "start": 63,
+        "end": 68
+    },
+    {
+        "text": "treason",
+        "start": 73,
+        "end": 80
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 93,
+        "end": 110
+    },
+    {
+        "text": "Jedi",
+        "start": 61,
+        "end": 65
+    },
+    {
+        "text": "Barriss Offee",
+        "start": 66,
+        "end": 79
+    },
+    {
+        "text": "Tano",
+        "start": 109,
+        "end": 113
+    },
+    {
+        "text": "Coruscant",
+        "start": 23,
+        "end": 32
+    },
+    {
+        "text": "Tano",
+        "start": 34,
+        "end": 38
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 48,
+        "end": 59
+    },
+    {
+        "text": "Jedi Order",
+        "start": 93,
+        "end": 103
+    },
+    {
+        "text": "Coruscant",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "Clone Wars",
+        "start": 43,
+        "end": 53
+    },
+    {
+        "text": "Palpatine",
+        "start": 55,
+        "end": 64
+    },
+    {
+        "text": "Senate",
+        "start": 135,
+        "end": 141
+    },
+    {
+        "text": "Palpatine",
+        "start": 20,
+        "end": 29
+    },
+    {
+        "text": "19 BBY",
+        "start": 3,
+        "end": 9
+    },
+    {
+        "text": "third and final year",
+        "start": 15,
+        "end": 35
+    },
+    {
+        "text": "war",
+        "start": 43,
+        "end": 46
+    },
+    {
+        "text": "Coruscant",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "Separatists",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "Outer Rim Territories",
+        "start": 44,
+        "end": 65
+    },
+    {
+        "text": "Republic",
+        "start": 122,
+        "end": 130
+    },
+    {
+        "text": "Coruscanti",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "capitol",
+        "start": 64,
+        "end": 71
+    },
+    {
+        "text": "Coruscant Home Defense Fleet",
+        "start": 103,
+        "end": 131
+    },
+    {
+        "text": "Separatist assault force",
+        "start": 139,
+        "end": 163
+    },
+    {
+        "text": "surprise attack",
+        "start": 175,
+        "end": 190
+    },
+    {
+        "text": "planet",
+        "start": 198,
+        "end": 204
+    },
+    {
+        "text": "Battle of Coruscant",
+        "start": 11,
+        "end": 30
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 32,
+        "end": 52
+    },
+    {
+        "text": "Separatist",
+        "start": 83,
+        "end": 93
+    },
+    {
+        "text": "Invisible Hand",
+        "start": 108,
+        "end": 122
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 152,
+        "end": 164
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 165,
+        "end": 181
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 186,
+        "end": 200
+    },
+    {
+        "text": "Count Dooku",
+        "start": 19,
+        "end": 30
+    },
+    {
+        "text": "Jedi",
+        "start": 36,
+        "end": 40
+    },
+    {
+        "text": "Coruscant",
+        "start": 44,
+        "end": 53
+    },
+    {
+        "text": "General Grievous",
+        "start": 88,
+        "end": 104
+    },
+    {
+        "text": "Separatist Droid Armies",
+        "start": 143,
+        "end": 166
+    },
+    {
+        "text": "Republic",
+        "start": 12,
+        "end": 20
+    },
+    {
+        "text": "Outer Rim Sieges",
+        "start": 38,
+        "end": 54
+    },
+    {
+        "text": "Jedi High Council",
+        "start": 92,
+        "end": 109
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 118,
+        "end": 136
+    },
+    {
+        "text": "High Council",
+        "start": 44,
+        "end": 56
+    },
+    {
+        "text": "Skywalker",
+        "start": 64,
+        "end": 73
+    },
+    {
+        "text": "Palpatine",
+        "start": 89,
+        "end": 98
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 127,
+        "end": 138
+    },
+    {
+        "text": "Office of the Chancellor",
+        "start": 143,
+        "end": 167
+    },
+    {
+        "text": "Council",
+        "start": 192,
+        "end": 199
+    },
+    {
+        "text": "Clone Wars",
+        "start": 29,
+        "end": 39
+    },
+    {
+        "text": "Grand Master Yoda",
+        "start": 41,
+        "end": 58
+    },
+    {
+        "text": "41st Scout Battalion",
+        "start": 67,
+        "end": 87
+    },
+    {
+        "text": "Coruscant",
+        "start": 102,
+        "end": 111
+    },
+    {
+        "text": "Wookiee",
+        "start": 126,
+        "end": 133
+    },
+    {
+        "text": "Kashyyyk",
+        "start": 147,
+        "end": 155
+    },
+    {
+        "text": "High Council",
+        "start": 23,
+        "end": 35
+    },
+    {
+        "text": "Kenobi",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "212th Attack Battalion",
+        "start": 62,
+        "end": 84
+    },
+    {
+        "text": "Utapau",
+        "start": 88,
+        "end": 94
+    },
+    {
+        "text": "Grievous",
+        "start": 113,
+        "end": 121
+    },
+    {
+        "text": "Clone Intelligence",
+        "start": 142,
+        "end": 160
+    },
+    {
+        "text": "Clone Wars",
+        "start": 9,
+        "end": 19
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 44,
+        "end": 64
+    },
+    {
+        "text": "Dark Lord of the Sith",
+        "start": 101,
+        "end": 122
+    },
+    {
+        "text": "Skywalker",
+        "start": 126,
+        "end": 135
+    },
+    {
+        "text": "Skywalker",
+        "start": 10,
+        "end": 19
+    },
+    {
+        "text": "Jedi Masters",
+        "start": 30,
+        "end": 42
+    },
+    {
+        "text": "Mace Windu",
+        "start": 43,
+        "end": 53
+    },
+    {
+        "text": "Kit Fisto",
+        "start": 55,
+        "end": 64
+    },
+    {
+        "text": "Saesee Tiin",
+        "start": 66,
+        "end": 77
+    },
+    {
+        "text": "Agen Kolar",
+        "start": 83,
+        "end": 93
+    },
+    {
+        "text": "Sidious",
+        "start": 110,
+        "end": 117
+    },
+    {
+        "text": "lightsaber",
+        "start": 12,
+        "end": 22
+    },
+    {
+        "text": "Kolar",
+        "start": 54,
+        "end": 59
+    },
+    {
+        "text": "Tiin",
+        "start": 61,
+        "end": 65
+    },
+    {
+        "text": "Fisto",
+        "start": 71,
+        "end": 76
+    },
+    {
+        "text": "Sidious",
+        "start": 87,
+        "end": 94
+    },
+    {
+        "text": "Windu",
+        "start": 111,
+        "end": 116
+    },
+    {
+        "text": "Jedi Order",
+        "start": 146,
+        "end": 156
+    },
+    {
+        "text": "champion",
+        "start": 159,
+        "end": 167
+    },
+    {
+        "text": "Skywalker",
+        "start": 195,
+        "end": 204
+    },
+    {
+        "text": "chancellor",
+        "start": 223,
+        "end": 233
+    },
+    {
+        "text": "Skywalker",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "Jedi",
+        "start": 42,
+        "end": 46
+    },
+    {
+        "text": "Sith",
+        "start": 75,
+        "end": 79
+    },
+    {
+        "text": "Darth Vader",
+        "start": 83,
+        "end": 94
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 8,
+        "end": 23
+    },
+    {
+        "text": "Sidious",
+        "start": 79,
+        "end": 86
+    },
+    {
+        "text": "Order 66",
+        "start": 94,
+        "end": 102
+    },
+    {
+        "text": "Grand Army of the Republic",
+        "start": 117,
+        "end": 143
+    },
+    {
+        "text": "inhibitor chips",
+        "start": 158,
+        "end": 173
+    },
+    {
+        "text": "clone troopers",
+        "start": 187,
+        "end": 201
+    },
+    {
+        "text": "Jedi Generals",
+        "start": 221,
+        "end": 234
+    },
+    {
+        "text": "Coruscant",
+        "start": 3,
+        "end": 12
+    },
+    {
+        "text": "Great Jedi Purge",
+        "start": 18,
+        "end": 34
+    },
+    {
+        "text": "Vader",
+        "start": 50,
+        "end": 55
+    },
+    {
+        "text": "501st Legion",
+        "start": 64,
+        "end": 76
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 92,
+        "end": 103
+    },
+    {
+        "text": "clone army",
+        "start": 9,
+        "end": 19
+    },
+    {
+        "text": "Sidious",
+        "start": 39,
+        "end": 46
+    },
+    {
+        "text": "New Order",
+        "start": 123,
+        "end": 132
+    },
+    {
+        "text": "Congress",
+        "start": 157,
+        "end": 165
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 225,
+        "end": 240
+    },
+    {
+        "text": "Separatist",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "Coruscant",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "capital",
+        "start": 51,
+        "end": 58
+    },
+    {
+        "text": "Sidious",
+        "start": 97,
+        "end": 104
+    },
+    {
+        "text": "Jedi rebellion",
+        "start": 123,
+        "end": 137
+    },
+    {
+        "text": "Senate",
+        "start": 154,
+        "end": 160
+    },
+    {
+        "text": "Emperor",
+        "start": 176,
+        "end": 183
+    },
+    {
+        "text": "New Order",
+        "start": 192,
+        "end": 201
+    },
+    {
+        "text": "Yoda",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "text": "Kenobi",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "Coruscant",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "text": "Order 66",
+        "start": 58,
+        "end": 66
+    },
+    {
+        "text": "Skywalker",
+        "start": 18,
+        "end": 27
+    },
+    {
+        "text": "Jedi Masters",
+        "start": 74,
+        "end": 86
+    },
+    {
+        "text": "Sith",
+        "start": 111,
+        "end": 115
+    },
+    {
+        "text": "Kenobi",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Coruscant",
+        "start": 12,
+        "end": 21
+    },
+    {
+        "text": "Yoda",
+        "start": 61,
+        "end": 65
+    },
+    {
+        "text": "capital",
+        "start": 82,
+        "end": 89
+    },
+    {
+        "text": "Emperor",
+        "start": 106,
+        "end": 113
+    },
+    {
+        "text": "Yoda",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "text": "Sidious",
+        "start": 31,
+        "end": 38
+    },
+    {
+        "text": "Dagobah",
+        "start": 79,
+        "end": 86
+    },
+    {
+        "text": "Vader",
+        "start": 11,
+        "end": 16
+    },
+    {
+        "text": "Mustafar",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "Kenobi",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "text": "Coruscant",
+        "start": 98,
+        "end": 107
+    },
+    {
+        "text": "cyborg",
+        "start": 113,
+        "end": 119
+    },
+    {
+        "text": "Palpatine",
+        "start": 54,
+        "end": 63
+    },
+    {
+        "text": "Coruscant",
+        "start": 110,
+        "end": 119
+    },
+    {
+        "text": "Imperial Center",
+        "start": 141,
+        "end": 156
+    },
+    {
+        "text": "Galactic City",
+        "start": 166,
+        "end": 179
+    },
+    {
+        "text": "Imperial City",
+        "start": 183,
+        "end": 196
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "Emperor",
+        "start": 78,
+        "end": 85
+    },
+    {
+        "text": "Temple",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Federal District",
+        "start": 33,
+        "end": 49
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 60,
+        "end": 75
+    },
+    {
+        "text": "supreme triangle",
+        "start": 111,
+        "end": 127
+    },
+    {
+        "text": "Empire",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "greater galaxy",
+        "start": 40,
+        "end": 54
+    },
+    {
+        "text": "Core Worlds",
+        "start": 139,
+        "end": 150
+    },
+    {
+        "text": "Coruscant",
+        "start": 165,
+        "end": 174
+    },
+    {
+        "text": "Coruscant",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "COMPNOR arcology",
+        "start": 53,
+        "end": 69
+    },
+    {
+        "text": "Imperial Security Bureau",
+        "start": 111,
+        "end": 135
+    },
+    {
+        "text": "Naval Intelligence Agency",
+        "start": 149,
+        "end": 174
+    },
+    {
+        "text": "Republic",
+        "start": 241,
+        "end": 249
+    },
+    {
+        "text": "strategic center",
+        "start": 252,
+        "end": 268
+    },
+    {
+        "text": "Coruscant",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "Republic",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "text": "Empire",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "non-humans",
+        "start": 73,
+        "end": 83
+    },
+    {
+        "text": "alien",
+        "start": 165,
+        "end": 170
+    },
+    {
+        "text": "underworld",
+        "start": 190,
+        "end": 200
+    },
+    {
+        "text": "Empire",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "streets",
+        "start": 54,
+        "end": 61
+    },
+    {
+        "text": "planet",
+        "start": 82,
+        "end": 88
+    },
+    {
+        "text": "Imperial authorities",
+        "start": 121,
+        "end": 141
+    },
+    {
+        "text": "Level 2046",
+        "start": 184,
+        "end": 194
+    },
+    {
+        "text": "The wealthy",
+        "start": 0,
+        "end": 11
+    },
+    {
+        "text": "Coruscanti",
+        "start": 8,
+        "end": 18
+    },
+    {
+        "text": "2046",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "text": "Coruscanti",
+        "start": 87,
+        "end": 97
+    },
+    {
+        "text": "Coruscant",
+        "start": 167,
+        "end": 176
+    },
+    {
+        "text": "Krrupt Gang",
+        "start": 4,
+        "end": 15
+    },
+    {
+        "text": "Level 3726",
+        "start": 42,
+        "end": 52
+    },
+    {
+        "text": "Empire",
+        "start": 89,
+        "end": 95
+    },
+    {
+        "text": "9 BBY",
+        "start": 3,
+        "end": 8
+    },
+    {
+        "text": "Stinger Mantis",
+        "start": 14,
+        "end": 28
+    },
+    {
+        "text": "Jedi Knight",
+        "start": 42,
+        "end": 53
+    },
+    {
+        "text": "Cal Kestis",
+        "start": 54,
+        "end": 64
+    },
+    {
+        "text": "Imperial military",
+        "start": 72,
+        "end": 89
+    },
+    {
+        "text": "Imperial",
+        "start": 107,
+        "end": 115
+    },
+    {
+        "text": "Daho Sejan",
+        "start": 124,
+        "end": 134
+    },
+    {
+        "text": "Coruscant",
+        "start": 138,
+        "end": 147
+    },
+    {
+        "text": "Kestis",
+        "start": 16,
+        "end": 22
+    },
+    {
+        "text": "team",
+        "start": 24,
+        "end": 28
+    },
+    {
+        "text": "Sejan",
+        "start": 71,
+        "end": 76
+    },
+    {
+        "text": "Inquisitor",
+        "start": 100,
+        "end": 110
+    },
+    {
+        "text": "Ninth Sister",
+        "start": 124,
+        "end": 136
+    },
+    {
+        "text": "Ninth Sister",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Kestis",
+        "start": 38,
+        "end": 44
+    },
+    {
+        "text": "decapitated",
+        "start": 45,
+        "end": 56
+    },
+    {
+        "text": "Partisans",
+        "start": 48,
+        "end": 57
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 7,
+        "end": 25
+    },
+    {
+        "text": "Empire",
+        "start": 42,
+        "end": 48
+    },
+    {
+        "text": "Mon Calamari",
+        "start": 66,
+        "end": 78
+    },
+    {
+        "text": "Coruscant",
+        "start": 93,
+        "end": 102
+    },
+    {
+        "text": "forced relocations",
+        "start": 26,
+        "end": 44
+    },
+    {
+        "text": "rioting",
+        "start": 52,
+        "end": 59
+    },
+    {
+        "text": "Old Market Sector",
+        "start": 76,
+        "end": 93
+    },
+    {
+        "text": "Imperial forces",
+        "start": 126,
+        "end": 141
+    },
+    {
+        "text": "Alderaan",
+        "start": 36,
+        "end": 44
+    },
+    {
+        "text": "Death Star",
+        "start": 52,
+        "end": 62
+    },
+    {
+        "text": "Alderaanian",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Coruscant",
+        "start": 133,
+        "end": 142
+    },
+    {
+        "text": "Level 3204",
+        "start": 166,
+        "end": 176
+    },
+    {
+        "text": "Vigils",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "Empire",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "text": "planet",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "several days",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "rioting",
+        "start": 18,
+        "end": 25
+    },
+    {
+        "text": "Coruscant Security Force",
+        "start": 70,
+        "end": 94
+    },
+    {
+        "text": "Imperial stormtroopers",
+        "start": 99,
+        "end": 121
+    },
+    {
+        "text": "firing indiscriminately",
+        "start": 140,
+        "end": 163
+    },
+    {
+        "text": "crowds",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "following day",
+        "start": 4,
+        "end": 17
+    },
+    {
+        "text": "Coruscant police",
+        "start": 23,
+        "end": 39
+    },
+    {
+        "text": "streets",
+        "start": 74,
+        "end": 81
+    },
+    {
+        "text": "stormtroopers",
+        "start": 20,
+        "end": 33
+    },
+    {
+        "text": "Rebel spies",
+        "start": 72,
+        "end": 83
+    },
+    {
+        "text": "Alderaanians",
+        "start": 123,
+        "end": 135
+    },
+    {
+        "text": "Planetary civil war",
+        "start": 5,
+        "end": 24
+    },
+    {
+        "text": "4 ABY",
+        "start": 29,
+        "end": 34
+    },
+    {
+        "text": "Rebel Alliance",
+        "start": 40,
+        "end": 54
+    },
+    {
+        "text": "Empire",
+        "start": 77,
+        "end": 83
+    },
+    {
+        "text": "Battle of Endor",
+        "start": 103,
+        "end": 118
+    },
+    {
+        "text": "Emperor",
+        "start": 14,
+        "end": 21
+    },
+    {
+        "text": "apprentice",
+        "start": 30,
+        "end": 40
+    },
+    {
+        "text": "DS-2 Death Star II Mobile Battle Station",
+        "start": 97,
+        "end": 137
+    },
+    {
+        "text": "citizens",
+        "start": 143,
+        "end": 151
+    },
+    {
+        "text": "Coruscant",
+        "start": 155,
+        "end": 164
+    },
+    {
+        "text": "Palpatine",
+        "start": 199,
+        "end": 208
+    },
+    {
+        "text": "stormtroopers",
+        "start": 227,
+        "end": 240
+    },
+    {
+        "text": "Police forces",
+        "start": 0,
+        "end": 13
+    },
+    {
+        "text": "speeders",
+        "start": 17,
+        "end": 25
+    },
+    {
+        "text": "plaza",
+        "start": 46,
+        "end": 51
+    },
+    {
+        "text": "crowds",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "Present",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "Coruscanti",
+        "start": 8,
+        "end": 18
+    },
+    {
+        "text": "full-scale rioting",
+        "start": 32,
+        "end": 50
+    },
+    {
+        "text": "Blaster",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "capital",
+        "start": 50,
+        "end": 57
+    },
+    {
+        "text": "Coruscanti",
+        "start": 66,
+        "end": 76
+    },
+    {
+        "text": "Imperial security forces",
+        "start": 85,
+        "end": 109
+    },
+    {
+        "text": "New Republic",
+        "start": 26,
+        "end": 38
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 73,
+        "end": 88
+    },
+    {
+        "text": "Chandrila",
+        "start": 92,
+        "end": 101
+    },
+    {
+        "text": "Coruscant",
+        "start": 11,
+        "end": 20
+    },
+    {
+        "text": "civil war",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "text": "sectors",
+        "start": 73,
+        "end": 80
+    },
+    {
+        "text": "Rebel resistance fighters",
+        "start": 109,
+        "end": 134
+    },
+    {
+        "text": "sectors",
+        "start": 148,
+        "end": 155
+    },
+    {
+        "text": "Imperial forces",
+        "start": 214,
+        "end": 229
+    },
+    {
+        "text": "Empire",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "galaxy",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 58,
+        "end": 68
+    },
+    {
+        "text": "Imperial forces",
+        "start": 85,
+        "end": 100
+    },
+    {
+        "text": "Coruscant",
+        "start": 104,
+        "end": 113
+    },
+    {
+        "text": "Coruscanti government",
+        "start": 122,
+        "end": 143
+    },
+    {
+        "text": "Imperial Navy",
+        "start": 13,
+        "end": 26
+    },
+    {
+        "text": "throneworld",
+        "start": 53,
+        "end": 64
+    },
+    {
+        "text": "Gallius Rax",
+        "start": 82,
+        "end": 93
+    },
+    {
+        "text": "Grand Admiral Rae Sloane",
+        "start": 111,
+        "end": 135
+    },
+    {
+        "text": "Navy",
+        "start": 159,
+        "end": 163
+    },
+    {
+        "text": "Rax",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Shadow Council",
+        "start": 19,
+        "end": 33
+    },
+    {
+        "text": "Empire",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "text": "final days",
+        "start": 73,
+        "end": 83
+    },
+    {
+        "text": "planet",
+        "start": 93,
+        "end": 99
+    },
+    {
+        "text": "decay",
+        "start": 121,
+        "end": 126
+    },
+    {
+        "text": "Empire",
+        "start": 144,
+        "end": 150
+    },
+    {
+        "text": "downfall",
+        "start": 153,
+        "end": 161
+    },
+    {
+        "text": "vacuum",
+        "start": 8,
+        "end": 14
+    },
+    {
+        "text": "Imperial Security Bureau",
+        "start": 20,
+        "end": 44
+    },
+    {
+        "text": "Coruscant",
+        "start": 68,
+        "end": 77
+    },
+    {
+        "text": "Imperial forces",
+        "start": 80,
+        "end": 95
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 13,
+        "end": 23
+    },
+    {
+        "text": "planet",
+        "start": 37,
+        "end": 43
+    },
+    {
+        "text": "Empire",
+        "start": 85,
+        "end": 91
+    },
+    {
+        "text": "ISB",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "text": "planet",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "text": "ISB",
+        "start": 67,
+        "end": 70
+    },
+    {
+        "text": "security forces",
+        "start": 121,
+        "end": 136
+    },
+    {
+        "text": "stormtroopers",
+        "start": 141,
+        "end": 154
+    },
+    {
+        "text": "Verity",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Federal District",
+        "start": 15,
+        "end": 31
+    },
+    {
+        "text": "barricades",
+        "start": 76,
+        "end": 86
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "skylanes",
+        "start": 10,
+        "end": 18
+    },
+    {
+        "text": "ISB crafts",
+        "start": 38,
+        "end": 48
+    },
+    {
+        "text": "vehicles",
+        "start": 24,
+        "end": 32
+    },
+    {
+        "text": "buildings",
+        "start": 37,
+        "end": 46
+    },
+    {
+        "text": "guerrilla war",
+        "start": 59,
+        "end": 72
+    },
+    {
+        "text": "planet",
+        "start": 93,
+        "end": 99
+    },
+    {
+        "text": "Amedda",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "New Republic",
+        "start": 67,
+        "end": 79
+    },
+    {
+        "text": "Mon Mothma",
+        "start": 91,
+        "end": 101
+    },
+    {
+        "text": "Princess Leia Organa",
+        "start": 106,
+        "end": 126
+    },
+    {
+        "text": "Empire",
+        "start": 99,
+        "end": 105
+    },
+    {
+        "text": "Galactic Concordance",
+        "start": 5,
+        "end": 25
+    },
+    {
+        "text": "Jakku",
+        "start": 56,
+        "end": 61
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 76,
+        "end": 86
+    },
+    {
+        "text": "Empire",
+        "start": 135,
+        "end": 141
+    },
+    {
+        "text": "Rax",
+        "start": 142,
+        "end": 145
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 153,
+        "end": 168
+    },
+    {
+        "text": "propaganda broadcasts",
+        "start": 29,
+        "end": 50
+    },
+    {
+        "text": "child resistance group",
+        "start": 38,
+        "end": 60
+    },
+    {
+        "text": "Anklebiter Brigade",
+        "start": 74,
+        "end": 92
+    },
+    {
+        "text": "Amedda",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "text": "child resistance fighters",
+        "start": 31,
+        "end": 56
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 101,
+        "end": 119
+    },
+    {
+        "text": "Amedda",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "text": "Chancellor Mothma",
+        "start": 45,
+        "end": 62
+    },
+    {
+        "text": "Imperial Instruments of Surrender",
+        "start": 29,
+        "end": 62
+    },
+    {
+        "text": "Galactic Concordance",
+        "start": 71,
+        "end": 91
+    },
+    {
+        "text": "Chandrila",
+        "start": 95,
+        "end": 104
+    },
+    {
+        "text": "Empire",
+        "start": 110,
+        "end": 116
+    },
+    {
+        "text": "New Republic",
+        "start": 136,
+        "end": 148
+    },
+    {
+        "text": "Coruscant",
+        "start": 159,
+        "end": 168
+    },
+    {
+        "text": "galactic government",
+        "start": 191,
+        "end": 210
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 216,
+        "end": 226
+    },
+    {
+        "text": "provisional government",
+        "start": 253,
+        "end": 275
+    },
+    {
+        "text": "Coruscant",
+        "start": 279,
+        "end": 288
+    },
+    {
+        "text": "Republic",
+        "start": 301,
+        "end": 309
+    },
+    {
+        "text": "Imperial surrender",
+        "start": 14,
+        "end": 32
+    },
+    {
+        "text": "weeks",
+        "start": 34,
+        "end": 39
+    },
+    {
+        "text": "Coruscant",
+        "start": 98,
+        "end": 107
+    },
+    {
+        "text": "Imperial",
+        "start": 148,
+        "end": 156
+    },
+    {
+        "text": "New Republic",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 50,
+        "end": 68
+    },
+    {
+        "text": "New Republic",
+        "start": 84,
+        "end": 96
+    },
+    {
+        "text": "Old Republic",
+        "start": 180,
+        "end": 192
+    },
+    {
+        "text": "disaffected worlds",
+        "start": 206,
+        "end": 224
+    },
+    {
+        "text": "Republic",
+        "start": 251,
+        "end": 259
+    },
+    {
+        "text": "Clone Wars",
+        "start": 273,
+        "end": 283
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 33,
+        "end": 48
+    },
+    {
+        "text": "worlds",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "text": "worlds",
+        "start": 134,
+        "end": 140
+    },
+    {
+        "text": "legislative branch",
+        "start": 176,
+        "end": 194
+    },
+    {
+        "text": "Coruscant",
+        "start": 248,
+        "end": 257
+    },
+    {
+        "text": "New Republic",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Coruscant",
+        "start": 74,
+        "end": 83
+    },
+    {
+        "text": "galaxy",
+        "start": 148,
+        "end": 154
+    },
+    {
+        "text": "Coruscant",
+        "start": 186,
+        "end": 195
+    },
+    {
+        "text": "young government",
+        "start": 234,
+        "end": 250
+    },
+    {
+        "text": "9 ABY",
+        "start": 3,
+        "end": 8
+    },
+    {
+        "text": "Chandrila",
+        "start": 16,
+        "end": 25
+    },
+    {
+        "text": "Coruscant",
+        "start": 69,
+        "end": 78
+    },
+    {
+        "text": "New Republic",
+        "start": 93,
+        "end": 105
+    },
+    {
+        "text": "Coruscant",
+        "start": 15,
+        "end": 24
+    },
+    {
+        "text": "center of the galaxy",
+        "start": 126,
+        "end": 146
+    },
+    {
+        "text": "New Republic Era",
+        "start": 159,
+        "end": 175
+    },
+    {
+        "text": "New Republic Defense Force",
+        "start": 4,
+        "end": 30
+    },
+    {
+        "text": "Coruscant",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "warships",
+        "start": 138,
+        "end": 146
+    },
+    {
+        "text": "Imperial Navy",
+        "start": 161,
+        "end": 174
+    },
+    {
+        "text": "Alliance Fleet",
+        "start": 183,
+        "end": 197
+    },
+    {
+        "text": "Imperial-class Star Destroyers",
+        "start": 11,
+        "end": 41
+    },
+    {
+        "text": "salvage yards",
+        "start": 59,
+        "end": 72
+    },
+    {
+        "text": "Shipyard Depot",
+        "start": 85,
+        "end": 99
+    },
+    {
+        "text": "Coruscant",
+        "start": 103,
+        "end": 112
+    },
+    {
+        "text": "Coruscanti",
+        "start": 5,
+        "end": 15
+    },
+    {
+        "text": "galaxy",
+        "start": 89,
+        "end": 95
+    },
+    {
+        "text": "government",
+        "start": 127,
+        "end": 137
+    },
+    {
+        "text": "Coruscant",
+        "start": 207,
+        "end": 216
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 10,
+        "end": 25
+    },
+    {
+        "text": "Imperials",
+        "start": 45,
+        "end": 54
+    },
+    {
+        "text": "New Republic",
+        "start": 91,
+        "end": 103
+    },
+    {
+        "text": "Re-Integration Institute",
+        "start": 31,
+        "end": 55
+    },
+    {
+        "text": "New Republic Amnesty Program",
+        "start": 64,
+        "end": 92
+    },
+    {
+        "text": "Imperial",
+        "start": 129,
+        "end": 137
+    },
+    {
+        "text": "new regime",
+        "start": 162,
+        "end": 172
+    },
+    {
+        "text": "Amnesty Program",
+        "start": 4,
+        "end": 19
+    },
+    {
+        "text": "Imperial",
+        "start": 40,
+        "end": 48
+    },
+    {
+        "text": "Re-Integration Institute",
+        "start": 105,
+        "end": 129
+    },
+    {
+        "text": "Amnesty Housing",
+        "start": 158,
+        "end": 173
+    },
+    {
+        "text": "Coruscant",
+        "start": 177,
+        "end": 186
+    },
+    {
+        "text": "Amnesty Scientist",
+        "start": 0,
+        "end": 17
+    },
+    {
+        "text": "L52",
+        "start": 18,
+        "end": 21
+    },
+    {
+        "text": "New Republic",
+        "start": 48,
+        "end": 60
+    },
+    {
+        "text": "skyscraper",
+        "start": 61,
+        "end": 71
+    },
+    {
+        "text": "Imperial technology",
+        "start": 78,
+        "end": 97
+    },
+    {
+        "text": "G68",
+        "start": 16,
+        "end": 19
+    },
+    {
+        "text": "Colonel Tuttle",
+        "start": 51,
+        "end": 65
+    },
+    {
+        "text": "Requisitions",
+        "start": 71,
+        "end": 83
+    },
+    {
+        "text": "L52",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "New Republic",
+        "start": 20,
+        "end": 32
+    },
+    {
+        "text": "9 ABY",
+        "start": 45,
+        "end": 50
+    },
+    {
+        "text": "program",
+        "start": 68,
+        "end": 75
+    },
+    {
+        "text": "perimeter",
+        "start": 89,
+        "end": 98
+    },
+    {
+        "text": "Coruscant Accords",
+        "start": 199,
+        "end": 216
+    },
+    {
+        "text": "Return of Thrawn",
+        "start": 5,
+        "end": 21
+    },
+    {
+        "text": "Late that year",
+        "start": 23,
+        "end": 37
+    },
+    {
+        "text": "General Hera Syndulla",
+        "start": 39,
+        "end": 60
+    },
+    {
+        "text": "Coruscant",
+        "start": 77,
+        "end": 86
+    },
+    {
+        "text": "New Republic Senate Oversight Committee",
+        "start": 97,
+        "end": 136
+    },
+    {
+        "text": "Centrist",
+        "start": 7,
+        "end": 15
+    },
+    {
+        "text": "Coruscant",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "text": "Centrists",
+        "start": 88,
+        "end": 97
+    },
+    {
+        "text": "faction",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "Coruscant",
+        "start": 17,
+        "end": 26
+    },
+    {
+        "text": "Old Empire",
+        "start": 112,
+        "end": 122
+    },
+    {
+        "text": "Populists",
+        "start": 54,
+        "end": 63
+    },
+    {
+        "text": "galactic government",
+        "start": 88,
+        "end": 107
+    },
+    {
+        "text": "constituent worlds",
+        "start": 144,
+        "end": 162
+    },
+    {
+        "text": "28 ABY",
+        "start": 3,
+        "end": 9
+    },
+    {
+        "text": "Coruscant",
+        "start": 11,
+        "end": 20
+    },
+    {
+        "text": "New Republic Senate",
+        "start": 44,
+        "end": 63
+    },
+    {
+        "text": "Arbo",
+        "start": 82,
+        "end": 86
+    },
+    {
+        "text": "Orris Madmund",
+        "start": 106,
+        "end": 119
+    },
+    {
+        "text": "Amaxine warrior crisis",
+        "start": 139,
+        "end": 161
+    },
+    {
+        "text": "Core World",
+        "start": 13,
+        "end": 23
+    },
+    {
+        "text": "Hosnian Prime",
+        "start": 24,
+        "end": 37
+    },
+    {
+        "text": "New Republic",
+        "start": 80,
+        "end": 92
+    },
+    {
+        "text": "Senator Arbo",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Centrist",
+        "start": 25,
+        "end": 33
+    },
+    {
+        "text": "New Republic Defense Force",
+        "start": 66,
+        "end": 92
+    },
+    {
+        "text": "Senate",
+        "start": 10,
+        "end": 16
+    },
+    {
+        "text": "First Senator",
+        "start": 45,
+        "end": 58
+    },
+    {
+        "text": "Centrists",
+        "start": 64,
+        "end": 73
+    },
+    {
+        "text": "New Republic",
+        "start": 91,
+        "end": 103
+    },
+    {
+        "text": "First Order",
+        "start": 143,
+        "end": 154
+    },
+    {
+        "text": "Descent into lawlessness",
+        "start": 5,
+        "end": 29
+    },
+    {
+        "text": "New Republic",
+        "start": 59,
+        "end": 71
+    },
+    {
+        "text": "planet",
+        "start": 77,
+        "end": 83
+    },
+    {
+        "text": "criminal syndicates",
+        "start": 119,
+        "end": 138
+    },
+    {
+        "text": "Empire",
+        "start": 149,
+        "end": 155
+    },
+    {
+        "text": "fall",
+        "start": 158,
+        "end": 162
+    },
+    {
+        "text": "Battle of Crait",
+        "start": 26,
+        "end": 41
+    },
+    {
+        "text": "34 ABY",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "text": "Coruscant",
+        "start": 83,
+        "end": 92
+    },
+    {
+        "text": "gangs",
+        "start": 108,
+        "end": 113
+    },
+    {
+        "text": "Gangs",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "bloody conflict",
+        "start": 15,
+        "end": 30
+    },
+    {
+        "text": "glittering world",
+        "start": 50,
+        "end": 66
+    },
+    {
+        "text": "districts",
+        "start": 69,
+        "end": 78
+    },
+    {
+        "text": "Tourism",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "text": "once-galactic capital",
+        "start": 15,
+        "end": 36
+    },
+    {
+        "text": "individual",
+        "start": 67,
+        "end": 77
+    },
+    {
+        "text": "droids",
+        "start": 128,
+        "end": 134
+    },
+    {
+        "text": "armed guards",
+        "start": 139,
+        "end": 151
+    },
+    {
+        "text": "city world",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "galaxy",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "current time period",
+        "start": 65,
+        "end": 84
+    },
+    {
+        "text": "Hondo Ohnaka",
+        "start": 11,
+        "end": 23
+    },
+    {
+        "text": "Coruscant",
+        "start": 45,
+        "end": 54
+    },
+    {
+        "text": "RA-7 protocol droid",
+        "start": 17,
+        "end": 36
+    },
+    {
+        "text": "DK-RA-43",
+        "start": 37,
+        "end": 45
+    },
+    {
+        "text": "Coruscant",
+        "start": 56,
+        "end": 65
+    },
+    {
+        "text": "fall from grace",
+        "start": 68,
+        "end": 83
+    },
+    {
+        "text": "lawlessness",
+        "start": 89,
+        "end": 100
+    },
+    {
+        "text": "current era",
+        "start": 143,
+        "end": 154
+    },
+    {
+        "text": "First Order",
+        "start": 16,
+        "end": 27
+    },
+    {
+        "text": "First Order-Resistance War",
+        "start": 50,
+        "end": 76
+    },
+    {
+        "text": "Coruscant",
+        "start": 78,
+        "end": 87
+    },
+    {
+        "text": "Inner systems",
+        "start": 108,
+        "end": 121
+    },
+    {
+        "text": "First Order",
+        "start": 176,
+        "end": 187
+    },
+    {
+        "text": "35 ABY",
+        "start": 232,
+        "end": 238
+    },
+    {
+        "text": "Coruscant",
+        "start": 295,
+        "end": 304
+    },
+    {
+        "text": "Coruscant",
+        "start": 367,
+        "end": 376
+    },
+    {
+        "text": "Empire",
+        "start": 424,
+        "end": 430
+    },
+    {
+        "text": "war",
+        "start": 87,
+        "end": 90
+    },
+    {
+        "text": "Coruscant",
+        "start": 154,
+        "end": 163
+    },
+    {
+        "text": "Coruscant",
+        "start": 194,
+        "end": 203
+    },
+    {
+        "text": "Resistance",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "text": "Coruscant",
+        "start": 59,
+        "end": 68
+    },
+    {
+        "text": "Coruscant",
+        "start": 72,
+        "end": 81
+    },
+    {
+        "text": "First Order",
+        "start": 122,
+        "end": 133
+    },
+    {
+        "text": "First Order",
+        "start": 149,
+        "end": 160
+    },
+    {
+        "text": "Coruscant",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "human species",
+        "start": 75,
+        "end": 88
+    },
+    {
+        "text": "Coruscanti",
+        "start": 94,
+        "end": 104
+    },
+    {
+        "text": "galaxy",
+        "start": 127,
+        "end": 133
+    },
+    {
+        "text": "skyscrapers",
+        "start": 195,
+        "end": 206
+    },
+    {
+        "text": "underworld",
+        "start": 220,
+        "end": 230
+    },
+    {
+        "text": "beings",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "text": "planet",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "humans",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "Qui-Gon Jinn",
+        "start": 13,
+        "end": 25
+    },
+    {
+        "text": "people",
+        "start": 38,
+        "end": 44
+    },
+    {
+        "text": "Coruscant",
+        "start": 78,
+        "end": 87
+    },
+    {
+        "text": "Th'er",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Bri'n",
+        "start": 34,
+        "end": 39
+    },
+    {
+        "text": "Coruscant",
+        "start": 51,
+        "end": 60
+    },
+    {
+        "text": "Jinn",
+        "start": 123,
+        "end": 127
+    },
+    {
+        "text": "Th'er",
+        "start": 139,
+        "end": 144
+    },
+    {
+        "text": "Coruscant",
+        "start": 233,
+        "end": 242
+    },
+    {
+        "text": "Bri'n",
+        "start": 293,
+        "end": 298
+    },
+    {
+        "text": "galactic power",
+        "start": 17,
+        "end": 31
+    },
+    {
+        "text": "senators",
+        "start": 33,
+        "end": 41
+    },
+    {
+        "text": "delegates",
+        "start": 46,
+        "end": 55
+    },
+    {
+        "text": "Coruscant",
+        "start": 103,
+        "end": 112
+    },
+    {
+        "text": "Senate",
+        "start": 61,
+        "end": 67
+    },
+    {
+        "text": "parties",
+        "start": 94,
+        "end": 101
+    },
+    {
+        "text": "political meetings",
+        "start": 106,
+        "end": 124
+    },
+    {
+        "text": "planet",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "text": "various species",
+        "start": 68,
+        "end": 83
+    },
+    {
+        "text": "homeworld",
+        "start": 128,
+        "end": 137
+    },
+    {
+        "text": "species",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "text": "human",
+        "start": 51,
+        "end": 56
+    },
+    {
+        "text": "lower levels",
+        "start": 72,
+        "end": 84
+    },
+    {
+        "text": "city",
+        "start": 92,
+        "end": 96
+    },
+    {
+        "text": "Empire",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "humans",
+        "start": 43,
+        "end": 49
+    },
+    {
+        "text": "Imperial government",
+        "start": 101,
+        "end": 120
+    },
+    {
+        "text": "Alderaan",
+        "start": 130,
+        "end": 138
+    },
+    {
+        "text": "underworld",
+        "start": 173,
+        "end": 183
+    },
+    {
+        "text": "surface levels",
+        "start": 7,
+        "end": 21
+    },
+    {
+        "text": "Coruscant",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "skyscrapers",
+        "start": 36,
+        "end": 47
+    },
+    {
+        "text": "wealthy",
+        "start": 87,
+        "end": 94
+    },
+    {
+        "text": "politically connected",
+        "start": 110,
+        "end": 131
+    },
+    {
+        "text": "private speeder",
+        "start": 21,
+        "end": 36
+    },
+    {
+        "text": "air taxi",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "text": "tower",
+        "start": 61,
+        "end": 66
+    },
+    {
+        "text": "theaters",
+        "start": 97,
+        "end": 105
+    },
+    {
+        "text": "clubs",
+        "start": 107,
+        "end": 112
+    },
+    {
+        "text": "operas",
+        "start": 114,
+        "end": 120
+    },
+    {
+        "text": "entertainment areas",
+        "start": 132,
+        "end": 151
+    },
+    {
+        "text": "Coruscant",
+        "start": 155,
+        "end": 164
+    },
+    {
+        "text": "surface street levels",
+        "start": 22,
+        "end": 43
+    },
+    {
+        "text": "Coruscant",
+        "start": 47,
+        "end": 56
+    },
+    {
+        "text": "surface parks",
+        "start": 59,
+        "end": 72
+    },
+    {
+        "text": "clandestine meetings",
+        "start": 84,
+        "end": 104
+    },
+    {
+        "text": "walkways",
+        "start": 168,
+        "end": 176
+    },
+    {
+        "text": "residential",
+        "start": 184,
+        "end": 195
+    },
+    {
+        "text": "commercial areas",
+        "start": 200,
+        "end": 216
+    },
+    {
+        "text": "planet",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 51,
+        "end": 69
+    },
+    {
+        "text": "Republic",
+        "start": 77,
+        "end": 85
+    },
+    {
+        "text": "Galactic Senate",
+        "start": 105,
+        "end": 120
+    },
+    {
+        "text": "Coruscant",
+        "start": 31,
+        "end": 40
+    },
+    {
+        "text": "highrise apartments",
+        "start": 115,
+        "end": 134
+    },
+    {
+        "text": "fine restaurants",
+        "start": 146,
+        "end": 162
+    },
+    {
+        "text": "city",
+        "start": 179,
+        "end": 183
+    },
+    {
+        "text": "entertainment districts",
+        "start": 201,
+        "end": 224
+    },
+    {
+        "text": "theaters",
+        "start": 259,
+        "end": 267
+    },
+    {
+        "text": "operas",
+        "start": 272,
+        "end": 278
+    },
+    {
+        "text": "Republic",
+        "start": 12,
+        "end": 20
+    },
+    {
+        "text": "Clone Wars",
+        "start": 34,
+        "end": 44
+    },
+    {
+        "text": "average citizen",
+        "start": 63,
+        "end": 78
+    },
+    {
+        "text": "Coruscant",
+        "start": 103,
+        "end": 112
+    },
+    {
+        "text": "Janyor",
+        "start": 22,
+        "end": 28
+    },
+    {
+        "text": "generation",
+        "start": 48,
+        "end": 58
+    },
+    {
+        "text": "galactic politics",
+        "start": 78,
+        "end": 95
+    },
+    {
+        "text": "decline and fall",
+        "start": 115,
+        "end": 131
+    },
+    {
+        "text": "Republic",
+        "start": 139,
+        "end": 147
+    },
+    {
+        "text": "Coruscant Freighter",
+        "start": 23,
+        "end": 42
+    },
+    {
+        "text": "Coruscant",
+        "start": 65,
+        "end": 74
+    },
+    {
+        "text": "city",
+        "start": 22,
+        "end": 26
+    },
+    {
+        "text": "skyscrapers",
+        "start": 49,
+        "end": 60
+    },
+    {
+        "text": "planet",
+        "start": 72,
+        "end": 78
+    },
+    {
+        "text": "blue collar working population",
+        "start": 81,
+        "end": 111
+    },
+    {
+        "text": "housing blocks",
+        "start": 26,
+        "end": 40
+    },
+    {
+        "text": "surface structures",
+        "start": 48,
+        "end": 66
+    },
+    {
+        "text": "planet",
+        "start": 127,
+        "end": 133
+    },
+    {
+        "text": "upper",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "text": "lower surface levels",
+        "start": 29,
+        "end": 49
+    },
+    {
+        "text": "entertainment",
+        "start": 65,
+        "end": 78
+    },
+    {
+        "text": "restaurants",
+        "start": 83,
+        "end": 94
+    },
+    {
+        "text": "surface levels",
+        "start": 29,
+        "end": 43
+    },
+    {
+        "text": "Coruscant underworld",
+        "start": 78,
+        "end": 98
+    },
+    {
+        "text": "Coruscant",
+        "start": 82,
+        "end": 91
+    },
+    {
+        "text": "underworld",
+        "start": 119,
+        "end": 129
+    },
+    {
+        "text": "authorities",
+        "start": 253,
+        "end": 264
+    },
+    {
+        "text": "citizens",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "surface",
+        "start": 73,
+        "end": 80
+    },
+    {
+        "text": "planet",
+        "start": 88,
+        "end": 94
+    },
+    {
+        "text": "surface",
+        "start": 68,
+        "end": 75
+    },
+    {
+        "text": "Kubaz",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Glikkin",
+        "start": 10,
+        "end": 17
+    },
+    {
+        "text": "lower levels",
+        "start": 34,
+        "end": 46
+    },
+    {
+        "text": "Master Thief",
+        "start": 104,
+        "end": 116
+    },
+    {
+        "text": "Glikkin",
+        "start": 122,
+        "end": 129
+    },
+    {
+        "text": "Coruscant",
+        "start": 165,
+        "end": 174
+    },
+    {
+        "text": "underworld",
+        "start": 177,
+        "end": 187
+    },
+    {
+        "text": "Government",
+        "start": 3,
+        "end": 13
+    },
+    {
+        "text": "Coruscant",
+        "start": 15,
+        "end": 24
+    },
+    {
+        "text": "galaxy",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "government",
+        "start": 78,
+        "end": 88
+    },
+    {
+        "text": "capital",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "text": "Republic",
+        "start": 32,
+        "end": 40
+    },
+    {
+        "text": "major war",
+        "start": 78,
+        "end": 87
+    },
+    {
+        "text": "galaxy",
+        "start": 95,
+        "end": 101
+    },
+    {
+        "text": "thousand years",
+        "start": 113,
+        "end": 127
+    },
+    {
+        "text": "Republic",
+        "start": 10,
+        "end": 18
+    },
+    {
+        "text": "Chancellor",
+        "start": 24,
+        "end": 34
+    },
+    {
+        "text": "Senate",
+        "start": 43,
+        "end": 49
+    },
+    {
+        "text": "planet",
+        "start": 80,
+        "end": 86
+    },
+    {
+        "text": "Major events",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Republic",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "text": "Coruscant",
+        "start": 57,
+        "end": 66
+    },
+    {
+        "text": "last years",
+        "start": 7,
+        "end": 17
+    },
+    {
+        "text": "Republic",
+        "start": 23,
+        "end": 31
+    },
+    {
+        "text": "Senate",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Empire",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "Senate",
+        "start": 38,
+        "end": 44
+    },
+    {
+        "text": "Emperor",
+        "start": 148,
+        "end": 155
+    },
+    {
+        "text": "Coruscant",
+        "start": 3,
+        "end": 12
+    },
+    {
+        "text": "government services",
+        "start": 15,
+        "end": 34
+    },
+    {
+        "text": "Imperial Senate",
+        "start": 54,
+        "end": 69
+    },
+    {
+        "text": "senator",
+        "start": 89,
+        "end": 96
+    },
+    {
+        "text": "citizen assistance offices",
+        "start": 102,
+        "end": 128
+    },
+    {
+        "text": "local government",
+        "start": 167,
+        "end": 183
+    },
+    {
+        "text": "senator",
+        "start": 59,
+        "end": 66
+    },
+    {
+        "text": "homeworld",
+        "start": 69,
+        "end": 78
+    },
+    {
+        "text": "Coruscant",
+        "start": 89,
+        "end": 98
+    },
+    {
+        "text": "assistance offices",
+        "start": 104,
+        "end": 122
+    },
+    {
+        "text": "Coruscanti",
+        "start": 145,
+        "end": 155
+    },
+    {
+        "text": "Palpatine",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "text": "Senate",
+        "start": 52,
+        "end": 58
+    },
+    {
+        "text": "regional governors",
+        "start": 118,
+        "end": 136
+    },
+    {
+        "text": "Galactic Civil War",
+        "start": 18,
+        "end": 36
+    },
+    {
+        "text": "New Republic",
+        "start": 42,
+        "end": 54
+    },
+    {
+        "text": "provisional government",
+        "start": 67,
+        "end": 89
+    },
+    {
+        "text": "Coruscant",
+        "start": 95,
+        "end": 104
+    },
+    {
+        "text": "Mas Amedda",
+        "start": 145,
+        "end": 155
+    },
+    {
+        "text": "New Republic",
+        "start": 13,
+        "end": 25
+    },
+    {
+        "text": "Coruscant",
+        "start": 62,
+        "end": 71
+    },
+    {
+        "text": "member worlds",
+        "start": 130,
+        "end": 143
+    },
+    {
+        "text": "New Republic",
+        "start": 10,
+        "end": 22
+    },
+    {
+        "text": "Coruscant",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "senator",
+        "start": 55,
+        "end": 62
+    },
+    {
+        "text": "junior senator",
+        "start": 67,
+        "end": 81
+    },
+    {
+        "text": "crime syndicates",
+        "start": 128,
+        "end": 144
+    },
+    {
+        "text": "Epidemic outbreaks",
+        "start": 0,
+        "end": 18
+    },
+    {
+        "text": "starports",
+        "start": 26,
+        "end": 35
+    },
+    {
+        "text": "Coruscant",
+        "start": 39,
+        "end": 48
+    },
+    {
+        "text": "Coruscant",
+        "start": 72,
+        "end": 81
+    },
+    {
+        "text": "Coruscant",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "Coruscant",
+        "start": 29,
+        "end": 38
+    },
+    {
+        "text": "police droids",
+        "start": 70,
+        "end": 83
+    },
+    {
+        "text": "upper levels",
+        "start": 91,
+        "end": 103
+    },
+    {
+        "text": "sentient",
+        "start": 118,
+        "end": 126
+    },
+    {
+        "text": "detectives",
+        "start": 140,
+        "end": 150
+    },
+    {
+        "text": "underworld police",
+        "start": 166,
+        "end": 183
+    },
+    {
+        "text": "lower levels",
+        "start": 234,
+        "end": 246
+    },
+    {
+        "text": "Coruscant Ministry of Ingress",
+        "start": 4,
+        "end": 33
+    },
+    {
+        "text": "immigration",
+        "start": 54,
+        "end": 65
+    },
+    {
+        "text": "planet",
+        "start": 82,
+        "end": 88
+    },
+    {
+        "text": "Galactic Republic",
+        "start": 98,
+        "end": 115
+    },
+    {
+        "text": "Coruscant",
+        "start": 127,
+        "end": 136
+    },
+    {
+        "text": "cargo transports",
+        "start": 154,
+        "end": 170
+    },
+    {
+        "text": "Senate",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Senate Guard",
+        "start": 39,
+        "end": 51
+    },
+    {
+        "text": "Senate Guard",
+        "start": 36,
+        "end": 48
+    },
+    {
+        "text": "Republic",
+        "start": 80,
+        "end": 88
+    },
+    {
+        "text": "standing army",
+        "start": 104,
+        "end": 117
+    },
+    {
+        "text": "Clone Wars",
+        "start": 7,
+        "end": 17
+    },
+    {
+        "text": "clone troopers",
+        "start": 31,
+        "end": 45
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 53,
+        "end": 68
+    },
+    {
+        "text": "military police",
+        "start": 96,
+        "end": 111
+    },
+    {
+        "text": "government",
+        "start": 172,
+        "end": 182
+    },
+    {
+        "text": "Palpatine",
+        "start": 197,
+        "end": 206
+    },
+    {
+        "text": "Empire",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 38,
+        "end": 53
+    },
+    {
+        "text": "Imperial stormtroopers",
+        "start": 58,
+        "end": 80
+    },
+    {
+        "text": "Senate Guard",
+        "start": 112,
+        "end": 124
+    },
+    {
+        "text": "Coruscant police",
+        "start": 217,
+        "end": 233
+    },
+    {
+        "text": "The upper city",
+        "start": 18,
+        "end": 32
+    },
+    {
+        "text": "CoCo Town",
+        "start": 39,
+        "end": 48
+    },
+    {
+        "text": "CoCo Town",
+        "start": 50,
+        "end": 59
+    },
+    {
+        "text": "Coruscant",
+        "start": 97,
+        "end": 106
+    },
+    {
+        "text": "CoCo Town",
+        "start": 38,
+        "end": 47
+    },
+    {
+        "text": "city",
+        "start": 85,
+        "end": 89
+    },
+    {
+        "text": "area",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "heavy industrial surface districts",
+        "start": 48,
+        "end": 82
+    },
+    {
+        "text": "streets",
+        "start": 124,
+        "end": 131
+    },
+    {
+        "text": "speeder lanes",
+        "start": 133,
+        "end": 146
+    },
+    {
+        "text": "shuttle bus route",
+        "start": 154,
+        "end": 171
+    },
+    {
+        "text": "main streets",
+        "start": 14,
+        "end": 26
+    },
+    {
+        "text": "urban blocks",
+        "start": 47,
+        "end": 59
+    },
+    {
+        "text": "Dex",
+        "start": 81,
+        "end": 84
+    },
+    {
+        "text": "Dexter Jettster",
+        "start": 22,
+        "end": 37
+    },
+    {
+        "text": "Besalisk",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "text": "area",
+        "start": 117,
+        "end": 121
+    },
+    {
+        "text": "diner",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "Jettster",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Hermione Bagwa",
+        "start": 57,
+        "end": 71
+    },
+    {
+        "text": "WA-7",
+        "start": 95,
+        "end": 99
+    },
+    {
+        "text": "Clone Wars",
+        "start": 19,
+        "end": 29
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 43,
+        "end": 57
+    },
+    {
+        "text": "Dex's Diner",
+        "start": 66,
+        "end": 77
+    },
+    {
+        "text": "Jettster",
+        "start": 103,
+        "end": 111
+    },
+    {
+        "text": "poisoned dart",
+        "start": 129,
+        "end": 142
+    },
+    {
+        "text": "Jettster",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "Kamino",
+        "start": 54,
+        "end": 60
+    },
+    {
+        "text": "civil war",
+        "start": 11,
+        "end": 20
+    },
+    {
+        "text": "Emperor",
+        "start": 44,
+        "end": 51
+    },
+    {
+        "text": "death",
+        "start": 54,
+        "end": 59
+    },
+    {
+        "text": "CoCo Town",
+        "start": 61,
+        "end": 70
+    },
+    {
+        "text": "rebel",
+        "start": 112,
+        "end": 117
+    },
+    {
+        "text": "Imperial forces",
+        "start": 122,
+        "end": 137
+    },
+    {
+        "text": "Anklebiter Brigade",
+        "start": 48,
+        "end": 66
+    },
+    {
+        "text": "underground maintenance systems",
+        "start": 104,
+        "end": 135
+    },
+    {
+        "text": "Imperial lines",
+        "start": 172,
+        "end": 186
+    },
+    {
+        "text": "COMPNOR arcology",
+        "start": 5,
+        "end": 21
+    },
+    {
+        "text": "COMPNOR arcology",
+        "start": 27,
+        "end": 43
+    },
+    {
+        "text": "Imperial City",
+        "start": 85,
+        "end": 98
+    },
+    {
+        "text": "Federal District",
+        "start": 101,
+        "end": 117
+    },
+    {
+        "text": "Imperial government agencies",
+        "start": 135,
+        "end": 163
+    },
+    {
+        "text": "Commission for the Preservation of the New Order",
+        "start": 178,
+        "end": 226
+    },
+    {
+        "text": "Ubiqtorate",
+        "start": 235,
+        "end": 245
+    },
+    {
+        "text": "Minister of Information",
+        "start": 30,
+        "end": 53
+    },
+    {
+        "text": "Pollux Hax",
+        "start": 54,
+        "end": 64
+    },
+    {
+        "text": "complex",
+        "start": 91,
+        "end": 98
+    },
+    {
+        "text": "Imperial Security Bureau",
+        "start": 110,
+        "end": 134
+    },
+    {
+        "text": "Central Office",
+        "start": 137,
+        "end": 151
+    },
+    {
+        "text": "District",
+        "start": 88,
+        "end": 96
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 133,
+        "end": 148
+    },
+    {
+        "text": "Navy Intelligence Headquarters",
+        "start": 153,
+        "end": 183
+    },
+    {
+        "text": "Grand Republic Medical Facility",
+        "start": 5,
+        "end": 36
+    },
+    {
+        "text": "Grand Republic Medical Facility",
+        "start": 42,
+        "end": 73
+    },
+    {
+        "text": "Republic soldiers",
+        "start": 141,
+        "end": 158
+    },
+    {
+        "text": "building",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "defensive shields",
+        "start": 41,
+        "end": 58
+    },
+    {
+        "text": "independent power supply",
+        "start": 63,
+        "end": 87
+    },
+    {
+        "text": "armored",
+        "start": 96,
+        "end": 103
+    },
+    {
+        "text": "siege",
+        "start": 134,
+        "end": 139
+    },
+    {
+        "text": "facility",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "galaxy",
+        "start": 62,
+        "end": 68
+    },
+    {
+        "text": "biomechanical reconstruction",
+        "start": 120,
+        "end": 148
+    },
+    {
+        "text": "Palpatine",
+        "start": 54,
+        "end": 63
+    },
+    {
+        "text": "Clone Wars",
+        "start": 92,
+        "end": 102
+    },
+    {
+        "text": "lower levels",
+        "start": 123,
+        "end": 135
+    },
+    {
+        "text": "facility",
+        "start": 143,
+        "end": 151
+    },
+    {
+        "text": "Sith",
+        "start": 161,
+        "end": 165
+    },
+    {
+        "text": "Red Guards",
+        "start": 239,
+        "end": 249
+    },
+    {
+        "text": "Shaak Ti",
+        "start": 13,
+        "end": 21
+    },
+    {
+        "text": "Doctor Nala Se",
+        "start": 26,
+        "end": 40
+    },
+    {
+        "text": "CT-5555",
+        "start": 78,
+        "end": 85
+    },
+    {
+        "text": "Grand Republic Medical Facility",
+        "start": 101,
+        "end": 132
+    },
+    {
+        "text": "CT-5385",
+        "start": 184,
+        "end": 191
+    },
+    {
+        "text": "clone trooper",
+        "start": 197,
+        "end": 210
+    },
+    {
+        "text": "Order 66",
+        "start": 236,
+        "end": 244
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 0,
+        "end": 20
+    },
+    {
+        "text": "Fives",
+        "start": 32,
+        "end": 37
+    },
+    {
+        "text": "facility",
+        "start": 45,
+        "end": 53
+    },
+    {
+        "text": "Fives",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Red Guards",
+        "start": 30,
+        "end": 40
+    },
+    {
+        "text": "facility",
+        "start": 57,
+        "end": 65
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 118,
+        "end": 133
+    },
+    {
+        "text": "Fives",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "text": "Palpatine",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "text": "Medical Facility",
+        "start": 53,
+        "end": 69
+    },
+    {
+        "text": "Palpatine",
+        "start": 98,
+        "end": 107
+    },
+    {
+        "text": "Sith",
+        "start": 159,
+        "end": 163
+    },
+    {
+        "text": "tower",
+        "start": 183,
+        "end": 188
+    },
+    {
+        "text": "Works",
+        "start": 212,
+        "end": 217
+    },
+    {
+        "text": "life-sustaining suit",
+        "start": 82,
+        "end": 102
+    },
+    {
+        "text": "Darth Vader",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "Obi-Wan Kenobi",
+        "start": 147,
+        "end": 161
+    },
+    {
+        "text": "Sith",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "building",
+        "start": 30,
+        "end": 38
+    },
+    {
+        "text": "Vader",
+        "start": 46,
+        "end": 51
+    },
+    {
+        "text": "Imperial Executive Building",
+        "start": 5,
+        "end": 32
+    },
+    {
+        "text": "Senate Building",
+        "start": 59,
+        "end": 74
+    },
+    {
+        "text": "Senate Office Building",
+        "start": 83,
+        "end": 105
+    },
+    {
+        "text": "executive building",
+        "start": 4,
+        "end": 22
+    },
+    {
+        "text": "docking bays",
+        "start": 27,
+        "end": 39
+    },
+    {
+        "text": "Senators",
+        "start": 83,
+        "end": 91
+    },
+    {
+        "text": "private shuttles",
+        "start": 106,
+        "end": 122
+    },
+    {
+        "text": "Senate",
+        "start": 75,
+        "end": 81
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 142,
+        "end": 160
+    },
+    {
+        "text": "Palpatine",
+        "start": 7,
+        "end": 16
+    },
+    {
+        "text": "term",
+        "start": 19,
+        "end": 23
+    },
+    {
+        "text": "Chancellor",
+        "start": 29,
+        "end": 39
+    },
+    {
+        "text": "lobby",
+        "start": 2,
+        "end": 7
+    },
+    {
+        "text": "Chancellor",
+        "start": 19,
+        "end": 29
+    },
+    {
+        "text": "public office",
+        "start": 32,
+        "end": 45
+    },
+    {
+        "text": "grand desk",
+        "start": 65,
+        "end": 75
+    },
+    {
+        "text": "cityscape",
+        "start": 113,
+        "end": 122
+    },
+    {
+        "text": "Palpatine",
+        "start": 36,
+        "end": 45
+    },
+    {
+        "text": "inner private office",
+        "start": 48,
+        "end": 68
+    },
+    {
+        "text": "Senate Office Building",
+        "start": 4,
+        "end": 26
+    },
+    {
+        "text": "Imperial Executive Building",
+        "start": 47,
+        "end": 74
+    },
+    {
+        "text": "Republic",
+        "start": 85,
+        "end": 93
+    },
+    {
+        "text": "reorganization",
+        "start": 96,
+        "end": 110
+    },
+    {
+        "text": "Galactic Empire",
+        "start": 120,
+        "end": 135
+    },
+    {
+        "text": "Imperial Inspectorate HQ",
+        "start": 5,
+        "end": 29
+    },
+    {
+        "text": "Imperial Inspectorate HQ",
+        "start": 35,
+        "end": 59
+    },
+    {
+        "text": "Imperial Military",
+        "start": 74,
+        "end": 91
+    },
+    {
+        "text": "Inspectorate",
+        "start": 112,
+        "end": 124
+    },
+    {
+        "text": "Naval Intelligence Agency",
+        "start": 140,
+        "end": 165
+    },
+    {
+        "text": "Empire",
+        "start": 177,
+        "end": 183
+    },
+    {
+        "text": "Republic military base",
+        "start": 30,
+        "end": 52
+    },
+    {
+        "text": "Star Destroyers",
+        "start": 110,
+        "end": 125
+    },
+    {
+        "text": "Republic Center for Military Operations",
+        "start": 131,
+        "end": 170
+    },
+    {
+        "text": "Orson Callan Krennic",
+        "start": 187,
+        "end": 207
+    },
+    {
+        "text": "airfield",
+        "start": 30,
+        "end": 38
+    },
+    {
+        "text": "Venator-class Star Destroyers",
+        "start": 44,
+        "end": 73
+    },
+    {
+        "text": "HAVw A6 Juggernauts",
+        "start": 75,
+        "end": 94
+    },
+    {
+        "text": "First Battle Memorial",
+        "start": 4,
+        "end": 25
+    },
+    {
+        "text": "base",
+        "start": 54,
+        "end": 58
+    },
+    {
+        "text": "main entrance",
+        "start": 61,
+        "end": 74
+    },
+    {
+        "text": "base",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "shock troopers",
+        "start": 26,
+        "end": 40
+    },
+    {
+        "text": "Coruscant Guard",
+        "start": 48,
+        "end": 63
+    },
+    {
+        "text": "military prison",
+        "start": 13,
+        "end": 28
+    },
+    {
+        "text": "cells",
+        "start": 34,
+        "end": 39
+    },
+    {
+        "text": "keycard",
+        "start": 24,
+        "end": 31
+    },
+    {
+        "text": "button",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "text": "cell",
+        "start": 56,
+        "end": 60
+    },
+    {
+        "text": "cells",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "text": "ray-shielded doors",
+        "start": 14,
+        "end": 32
+    },
+    {
+        "text": "prisoners",
+        "start": 46,
+        "end": 55
+    },
+    {
+        "text": "cell",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "text": "bed",
+        "start": 23,
+        "end": 26
+    },
+    {
+        "text": "bowls",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "text": "food",
+        "start": 51,
+        "end": 55
+    },
+    {
+        "text": "prison",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "text": "medium circular room",
+        "start": 33,
+        "end": 53
+    },
+    {
+        "text": "fairly large computer",
+        "start": 61,
+        "end": 82
+    },
+    {
+        "text": "base",
+        "start": 127,
+        "end": 131
+    },
+    {
+        "text": "crate",
+        "start": 135,
+        "end": 140
+    },
+    {
+        "text": "weapons",
+        "start": 145,
+        "end": 152
+    },
+    {
+        "text": "communication devices",
+        "start": 157,
+        "end": 178
+    },
+    {
+        "text": "red button",
+        "start": 186,
+        "end": 196
+    },
+    {
+        "text": "red-alert sequence",
+        "start": 210,
+        "end": 228
+    },
+    {
+        "text": "war",
+        "start": 26,
+        "end": 29
+    },
+    {
+        "text": "prison",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "text": "Whorm Loathsom",
+        "start": 47,
+        "end": 61
+    },
+    {
+        "text": "Poggle the Lesser",
+        "start": 63,
+        "end": 80
+    },
+    {
+        "text": "Wat Tambor",
+        "start": 86,
+        "end": 96
+    },
+    {
+        "text": "Ahsoka Tano",
+        "start": 22,
+        "end": 33
+    },
+    {
+        "text": "Letta Turmond",
+        "start": 76,
+        "end": 89
+    },
+    {
+        "text": "compound",
+        "start": 25,
+        "end": 33
+    },
+    {
+        "text": "military tribunal",
+        "start": 40,
+        "end": 57
+    },
+    {
+        "text": "courtroom",
+        "start": 58,
+        "end": 67
+    },
+    {
+        "text": "court",
+        "start": 82,
+        "end": 87
+    },
+    {
+        "text": "dangerous criminals",
+        "start": 108,
+        "end": 127
+    },
+    {
+        "text": "room",
+        "start": 14,
+        "end": 18
+    },
+    {
+        "text": "platforms",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "text": "accused",
+        "start": 69,
+        "end": 76
+    },
+    {
+        "text": "prosecution",
+        "start": 78,
+        "end": 89
+    },
+    {
+        "text": "defense",
+        "start": 95,
+        "end": 102
+    },
+    {
+        "text": "presiding official",
+        "start": 42,
+        "end": 60
+    },
+    {
+        "text": "jury",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "trial",
+        "start": 78,
+        "end": 83
+    },
+    {
+        "text": "onlookers",
+        "start": 101,
+        "end": 110
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 5,
+        "end": 20
+    },
+    {
+        "text": "galactic capital",
+        "start": 29,
+        "end": 45
+    },
+    {
+        "text": "Coruscant",
+        "start": 47,
+        "end": 56
+    },
+    {
+        "text": "Jedi Order",
+        "start": 78,
+        "end": 88
+    },
+    {
+        "text": "Force-sensitives",
+        "start": 12,
+        "end": 28
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 34,
+        "end": 46
+    },
+    {
+        "text": "Republic",
+        "start": 58,
+        "end": 66
+    },
+    {
+        "text": "thousands of years",
+        "start": 71,
+        "end": 89
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 19,
+        "end": 30
+    },
+    {
+        "text": "urban blocks",
+        "start": 30,
+        "end": 42
+    },
+    {
+        "text": "Jedi Temple",
+        "start": 48,
+        "end": 59
+    },
+    {
+        "text": "Coruscant",
+        "start": 91,
+        "end": 100
+    },
+    {
+        "text": "five spires",
+        "start": 132,
+        "end": 143
+    },
+    {
+        "text": "Temple",
+        "start": 36,
+        "end": 42
+    },
+    {
+        "text": "Jedi",
+        "start": 62,
+        "end": 66
+    },
+    {
+        "text": "galaxy",
+        "start": 91,
+        "end": 97
+    },
+    {
+        "text": "spires",
+        "start": 14,
+        "end": 20
+    },
+    {
+        "text": "Jedi High Council",
+        "start": 29,
+        "end": 46
+    },
+    {
+        "text": "Grand Master of the Order",
+        "start": 59,
+        "end": 84
+    },
+    {
+        "text": "Jedi",
+        "start": 120,
+        "end": 124
+    },
+    {
+        "text": "Senate",
+        "start": 155,
+        "end": 161
+    },
+    {
+        "text": "Chancellor",
+        "start": 166,
+        "end": 176
+    },
+    {
+        "text": "Temple",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Jedi",
+        "start": 66,
+        "end": 70
+    },
+    {
+        "text": "hanger bays",
+        "start": 120,
+        "end": 131
+    },
+    {
+        "text": "starships",
+        "start": 136,
+        "end": 145
+    },
+    {
+        "text": "speeders",
+        "start": 150,
+        "end": 158
+    },
+    {
+        "text": "Jedi",
+        "start": 175,
+        "end": 179
+    },
+    {
+        "text": "sleeping and living quarters",
+        "start": 181,
+        "end": 209
+    },
+    {
+        "text": "medical facility",
+        "start": 249,
+        "end": 265
+    },
+    {
+        "text": "prison cells",
+        "start": 267,
+        "end": 279
+    },
+    {
+        "text": "communications and security stations",
+        "start": 285,
+        "end": 321
+    },
+    {
+        "text": "Temple",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "Jedi Archives",
+        "start": 32,
+        "end": 45
+    },
+    {
+        "text": "Order",
+        "start": 180,
+        "end": 185
+    },
+    {
+        "text": "Clone Wars",
+        "start": 11,
+        "end": 21
+    },
+    {
+        "text": "Jedi",
+        "start": 27,
+        "end": 31
+    },
+    {
+        "text": "Grand Army",
+        "start": 75,
+        "end": 85
+    },
+    {
+        "text": "Temple",
+        "start": 122,
+        "end": 128
+    },
+    {
+        "text": "war",
+        "start": 16,
+        "end": 19
+    },
+    {
+        "text": "Jedi",
+        "start": 43,
+        "end": 47
+    },
+    {
+        "text": "hierarchy",
+        "start": 79,
+        "end": 88
+    },
+    {
+        "text": "military command",
+        "start": 96,
+        "end": 112
+    },
+    {
+        "text": "establishment",
+        "start": 117,
+        "end": 130
+    },
+    {
+        "text": "Palpatine",
+        "start": 5,
+        "end": 14
+    },
+    {
+        "text": "Sith Lord",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Jedi",
+        "start": 49,
+        "end": 53
+    },
+    {
+        "text": "Order 66",
+        "start": 106,
+        "end": 114
+    },
+    {
+        "text": "Darth Vader",
+        "start": 143,
+        "end": 154
+    },
+    {
+        "text": "Jedi",
+        "start": 162,
+        "end": 166
+    },
+    {
+        "text": "501st Legion",
+        "start": 18,
+        "end": 30
+    },
+    {
+        "text": "Vader",
+        "start": 32,
+        "end": 37
+    },
+    {
+        "text": "clone troopers",
+        "start": 46,
+        "end": 60
+    },
+    {
+        "text": "Temple",
+        "start": 72,
+        "end": 78
+    },
+    {
+        "text": "Jedi",
+        "start": 96,
+        "end": 100
+    },
+    {
+        "text": "younglings",
+        "start": 105,
+        "end": 115
+    },
+    {
+        "text": "monastery",
+        "start": 139,
+        "end": 148
+    },
+    {
+        "text": "Later",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "text": "Yoda",
+        "start": 15,
+        "end": 19
+    },
+    {
+        "text": "Kenobi",
+        "start": 24,
+        "end": 30
+    },
+    {
+        "text": "Temple",
+        "start": 47,
+        "end": 53
+    },
+    {
+        "text": "Temple",
+        "start": 71,
+        "end": 77
+    },
+    {
+        "text": "Jedi",
+        "start": 95,
+        "end": 99
+    },
+    {
+        "text": "Sith",
+        "start": 130,
+        "end": 134
+    },
+    {
+        "text": "Skywalker",
+        "start": 167,
+        "end": 176
+    },
+    {
+        "text": "Palpatine",
+        "start": 188,
+        "end": 197
+    },
+    {
+        "text": "Sith",
+        "start": 233,
+        "end": 237
+    },
+    {
+        "text": "war",
+        "start": 10,
+        "end": 13
+    },
+    {
+        "text": "Palpatine",
+        "start": 15,
+        "end": 24
+    },
+    {
+        "text": "Temple",
+        "start": 36,
+        "end": 42
+    },
+    {
+        "text": "Imperial Palace",
+        "start": 52,
+        "end": 67
+    },
+    {
+        "text": "Temple",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "spires",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "text": "Temple",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "text": "hallways",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "text": "Republic-era",
+        "start": 46,
+        "end": 58
+    },
+    {
+        "text": "government workers",
+        "start": 72,
+        "end": 90
+    },
+    {
+        "text": "functionaries",
+        "start": 95,
+        "end": 108
+    },
+    {
+        "text": "landing courtyard",
+        "start": 8,
+        "end": 25
+    },
+    {
+        "text": "shuttles",
+        "start": 38,
+        "end": 46
+    },
+    {
+        "text": "starships",
+        "start": 51,
+        "end": 60
+    },
+    {
+        "text": "Palace complex",
+        "start": 11,
+        "end": 25
+    },
+    {
+        "text": "Imperial Royal Guard",
+        "start": 60,
+        "end": 80
+    },
+    {
+        "text": "center spire",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "text": "Emperor",
+        "start": 40,
+        "end": 47
+    },
+    {
+        "text": "throne room",
+        "start": 50,
+        "end": 61
+    },
+    {
+        "text": "ten-meter tall podium",
+        "start": 69,
+        "end": 90
+    },
+    {
+        "text": "Emperor",
+        "start": 123,
+        "end": 130
+    },
+    {
+        "text": "residence",
+        "start": 140,
+        "end": 149
+    },
+    {
+        "text": "private turbolift",
+        "start": 156,
+        "end": 173
+    },
+    {
+        "text": "Coruscant",
+        "start": 35,
+        "end": 44
+    },
+    {
+        "text": "Emperor",
+        "start": 60,
+        "end": 67
+    },
+    {
+        "text": "Imperial Senate Building",
+        "start": 5,
+        "end": 29
+    },
+    {
+        "text": "Senate Building",
+        "start": 35,
+        "end": 50
+    },
+    {
+        "text": "Federal District",
+        "start": 93,
+        "end": 109
+    },
+    {
+        "text": "Delegates",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "sessions",
+        "start": 33,
+        "end": 41
+    },
+    {
+        "text": "congress",
+        "start": 45,
+        "end": 53
+    },
+    {
+        "text": "legislation",
+        "start": 65,
+        "end": 76
+    },
+    {
+        "text": "galactic policy",
+        "start": 81,
+        "end": 96
+    },
+    {
+        "text": "Galactic Senate Chamber",
+        "start": 70,
+        "end": 93
+    },
+    {
+        "text": "senators",
+        "start": 121,
+        "end": 129
+    },
+    {
+        "text": "senatorial delegation",
+        "start": 5,
+        "end": 26
+    },
+    {
+        "text": "hover platform",
+        "start": 41,
+        "end": 55
+    },
+    {
+        "text": "chamber",
+        "start": 103,
+        "end": 110
+    },
+    {
+        "text": "cavernous hall",
+        "start": 40,
+        "end": 54
+    },
+    {
+        "text": "Senate",
+        "start": 79,
+        "end": 85
+    },
+    {
+        "text": "debate",
+        "start": 98,
+        "end": 104
+    },
+    {
+        "text": "issue at hand",
+        "start": 109,
+        "end": 122
+    },
+    {
+        "text": "Senate chamber",
+        "start": 21,
+        "end": 35
+    },
+    {
+        "text": "Chancellor",
+        "start": 44,
+        "end": 54
+    },
+    {
+        "text": "Supreme Chancellor",
+        "start": 26,
+        "end": 44
+    },
+    {
+        "text": "Senate",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "text": "Vice Chair",
+        "start": 62,
+        "end": 72
+    },
+    {
+        "text": "congress",
+        "start": 101,
+        "end": 109
+    },
+    {
+        "text": "podium",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "text": "office",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "text": "Chancellor",
+        "start": 53,
+        "end": 63
+    },
+    {
+        "text": "chamber",
+        "start": 74,
+        "end": 81
+    },
+    {
+        "text": "Coruscant",
+        "start": 27,
+        "end": 36
+    },
+    {
+        "text": "Underworld",
+        "start": 37,
+        "end": 47
+    },
+    {
+        "text": "top-level structures",
+        "start": 61,
+        "end": 81
+    },
+    {
+        "text": "city surface",
+        "start": 120,
+        "end": 132
+    },
+    {
+        "text": "Coruscant",
+        "start": 137,
+        "end": 146
+    },
+    {
+        "text": "underworld",
+        "start": 149,
+        "end": 159
+    },
+    {
+        "text": "underworld",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "crime",
+        "start": 33,
+        "end": 38
+    },
+    {
+        "text": "smugglers",
+        "start": 43,
+        "end": 52
+    },
+    {
+        "text": "huge portals",
+        "start": 21,
+        "end": 33
+    },
+    {
+        "text": "ventilation shafts",
+        "start": 62,
+        "end": 80
+    },
+    {
+        "text": "underworld",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "city",
+        "start": 29,
+        "end": 33
+    },
+    {
+        "text": "city",
+        "start": 44,
+        "end": 48
+    },
+    {
+        "text": "level",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "dwellings",
+        "start": 15,
+        "end": 24
+    },
+    {
+        "text": "smaller buildings",
+        "start": 29,
+        "end": 46
+    },
+    {
+        "text": "massive towers",
+        "start": 72,
+        "end": 86
+    },
+    {
+        "text": "infrastructure",
+        "start": 91,
+        "end": 105
+    },
+    {
+        "text": "upper levels",
+        "start": 124,
+        "end": 136
+    },
+    {
+        "text": "streets",
+        "start": 4,
+        "end": 11
+    },
+    {
+        "text": "alleyways",
+        "start": 16,
+        "end": 25
+    },
+    {
+        "text": "large sections",
+        "start": 42,
+        "end": 56
+    },
+    {
+        "text": "massive buildings",
+        "start": 67,
+        "end": 84
+    },
+    {
+        "text": "warehouses",
+        "start": 89,
+        "end": 99
+    },
+    {
+        "text": "Sunlight",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "text": "lower levels",
+        "start": 34,
+        "end": 46
+    },
+    {
+        "text": "population",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "area",
+        "start": 41,
+        "end": 45
+    },
+    {
+        "text": "trains",
+        "start": 61,
+        "end": 67
+    },
+    {
+        "text": "planet",
+        "start": 97,
+        "end": 103
+    },
+    {
+        "text": "surface",
+        "start": 106,
+        "end": 113
+    },
+    {
+        "text": "airspeeders",
+        "start": 6,
+        "end": 17
+    },
+    {
+        "text": "surface levels",
+        "start": 71,
+        "end": 85
+    },
+    {
+        "text": "underworld",
+        "start": 4,
+        "end": 14
+    },
+    {
+        "text": "authorities",
+        "start": 47,
+        "end": 58
+    },
+    {
+        "text": "cam droids",
+        "start": 133,
+        "end": 143
+    },
+    {
+        "text": "monitoring technology",
+        "start": 154,
+        "end": 175
+    },
+    {
+        "text": "underworld",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "Coruscant Security Force",
+        "start": 51,
+        "end": 75
+    },
+    {
+        "text": "underworld",
+        "start": 81,
+        "end": 91
+    },
+    {
+        "text": "species",
+        "start": 123,
+        "end": 130
+    },
+    {
+        "text": "Emperor",
+        "start": 148,
+        "end": 155
+    },
+    {
+        "text": "Empire",
+        "start": 201,
+        "end": 207
+    },
+    {
+        "text": "Uprisings",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "text": "riots",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "text": "stormtroopers",
+        "start": 40,
+        "end": 53
+    },
+    {
+        "text": "Coruscant cops",
+        "start": 89,
+        "end": 103
+    },
+    {
+        "text": "dissent",
+        "start": 124,
+        "end": 131
+    },
+    {
+        "text": "Level 2046",
+        "start": 5,
+        "end": 15
+    },
+    {
+        "text": "Level 2046",
+        "start": 17,
+        "end": 27
+    },
+    {
+        "text": "middle level",
+        "start": 34,
+        "end": 46
+    },
+    {
+        "text": "city",
+        "start": 54,
+        "end": 58
+    },
+    {
+        "text": "sellers and industrialists",
+        "start": 32,
+        "end": 58
+    },
+    {
+        "text": "sector",
+        "start": 64,
+        "end": 70
+    },
+    {
+        "text": "shops",
+        "start": 88,
+        "end": 93
+    },
+    {
+        "text": "meat packing plant",
+        "start": 105,
+        "end": 123
+    },
+    {
+        "text": "level",
+        "start": 86,
+        "end": 91
+    },
+    {
+        "text": "Imperial Era",
+        "start": 7,
+        "end": 19
+    },
+    {
+        "text": "area",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "text": "Empire",
+        "start": 83,
+        "end": 89
+    },
+    {
+        "text": "ruthless crackdown on crime",
+        "start": 92,
+        "end": 119
+    },
+    {
+        "text": "troopers",
+        "start": 58,
+        "end": 66
+    },
+    {
+        "text": "businesses",
+        "start": 84,
+        "end": 94
+    },
+    {
+        "text": "corrupt politicians",
+        "start": 106,
+        "end": 125
+    },
+    {
+        "text": "Senator Daho Sejan",
+        "start": 135,
+        "end": 153
+    },
+    {
+        "text": "Desi's Noodles",
+        "start": 38,
+        "end": 52
+    },
+    {
+        "text": "Coruscant Underworld",
+        "start": 127,
+        "end": 147
+    },
+    {
+        "text": "travelers",
+        "start": 39,
+        "end": 48
+    },
+    {
+        "text": "planet",
+        "start": 56,
+        "end": 62
+    },
+    {
+        "text": "stormtroopers",
+        "start": 5,
+        "end": 18
+    },
+    {
+        "text": "locations",
+        "start": 34,
+        "end": 43
+    },
+    {
+        "text": "Uscru District",
+        "start": 4,
+        "end": 18
+    },
+    {
+        "text": "Upper district",
+        "start": 25,
+        "end": 39
+    },
+    {
+        "text": "Coruscant",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "text": "entertainment districts",
+        "start": 53,
+        "end": 76
+    },
+    {
+        "text": "Uscru District",
+        "start": 26,
+        "end": 40
+    },
+    {
+        "text": "city",
+        "start": 72,
+        "end": 76
+    },
+    {
+        "text": "Galaxies Opera House",
+        "start": 87,
+        "end": 107
+    },
+    {
+        "text": "Chancellor Palpatine",
+        "start": 17,
+        "end": 37
+    },
+    {
+        "text": "Anakin Skywalker",
+        "start": 12,
+        "end": 28
+    },
+    {
+        "text": "Darth Plagueis",
+        "start": 55,
+        "end": 69
+    },
+    {
+        "text": "Skywalker",
+        "start": 81,
+        "end": 90
+    },
+    {
+        "text": "Jedi",
+        "start": 106,
+        "end": 110
+    },
+    {
+        "text": "Lower district",
+        "start": 5,
+        "end": 19
+    },
+    {
+        "text": "Uscru Entertainment District",
+        "start": 61,
+        "end": 89
+    },
+    {
+        "text": "Outlander Club",
+        "start": 140,
+        "end": 154
+    },
+    {
+        "text": "club",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "text": "less developed area",
+        "start": 27,
+        "end": 46
+    },
+    {
+        "text": "district",
+        "start": 54,
+        "end": 62
+    },
+    {
+        "text": "police",
+        "start": 109,
+        "end": 115
+    },
+    {
+        "text": "club",
+        "start": 143,
+        "end": 147
+    },
+    {
+        "text": "labyrinth",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "bars",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "text": "gambling rooms",
+        "start": 23,
+        "end": 37
+    },
+    {
+        "text": "sleeping quarters",
+        "start": 42,
+        "end": 59
+    },
+    {
+        "text": "center",
+        "start": 7,
+        "end": 13
+    },
+    {
+        "text": "bar",
+        "start": 26,
+        "end": 29
+    },
+    {
+        "text": "Coruscant",
+        "start": 77,
+        "end": 86
+    },
+    {
+        "text": "society",
+        "start": 89,
+        "end": 96
+    },
+    {
+        "text": "Jedi Knights",
+        "start": 0,
+        "end": 12
+    },
+    {
+        "text": "Kenobi",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "text": "Skywalker",
+        "start": 24,
+        "end": 33
+    },
+    {
+        "text": "Zam Wesell",
+        "start": 56,
+        "end": 66
+    },
+    {
+        "text": "Uscru District",
+        "start": 76,
+        "end": 90
+    },
+    {
+        "text": "Senator Amidala",
+        "start": 128,
+        "end": 143
+    },
+    {
+        "text": "Outlander Club",
+        "start": 25,
+        "end": 39
+    },
+    {
+        "text": "Jedi",
+        "start": 51,
+        "end": 55
+    },
+    {
+        "text": "assassin",
+        "start": 68,
+        "end": 76
+    },
+    {
+        "text": "Wesell",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "text": "Jango Fett",
+        "start": 44,
+        "end": 54
+    },
+    {
+        "text": "alley",
+        "start": 61,
+        "end": 66
+    },
+    {
+        "text": "club",
+        "start": 79,
+        "end": 83
+    },
+    {
+        "text": "Jedi",
+        "start": 95,
+        "end": 99
+    },
+    {
+        "text": "The Works",
+        "start": 4,
+        "end": 13
+    },
+    {
+        "text": "The Works",
+        "start": 51,
+        "end": 60
+    },
+    {
+        "text": "spacecraft",
+        "start": 149,
+        "end": 159
+    },
+    {
+        "text": "construction droids",
+        "start": 167,
+        "end": 186
+    },
+    {
+        "text": "centuries",
+        "start": 9,
+        "end": 18
+    },
+    {
+        "text": "Clone Wars",
+        "start": 32,
+        "end": 42
+    },
+    {
+        "text": "Coruscant",
+        "start": 70,
+        "end": 79
+    },
+    {
+        "text": "manufacturers",
+        "start": 94,
+        "end": 107
+    },
+    {
+        "text": "off-planet facilities",
+        "start": 137,
+        "end": 158
+    },
+    {
+        "text": "Works",
+        "start": 16,
+        "end": 21
+    },
+    {
+        "text": "long-abandoned buildings",
+        "start": 42,
+        "end": 66
+    },
+    {
+        "text": "empty warehouses",
+        "start": 71,
+        "end": 87
+    },
+    {
+        "text": "criminals",
+        "start": 124,
+        "end": 133
+    },
+    {
+        "text": "derelict hangar",
+        "start": 19,
+        "end": 34
+    },
+    {
+        "text": "neglected industrial zone",
+        "start": 42,
+        "end": 67
+    },
+    {
+        "text": "Darth Sidious",
+        "start": 113,
+        "end": 126
+    },
+    {
+        "text": "Darth Tyranus",
+        "start": 131,
+        "end": 144
+    },
+    {
+        "text": "Clone Wars",
+        "start": 156,
+        "end": 166
+    }
+]
