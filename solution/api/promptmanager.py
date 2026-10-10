@@ -16,8 +16,8 @@ class PromptManager:
         return [(item["user"], item["assistant"]) for item in yaml_list]
 
     def get_user_prompt(self, points: list[models.ScoredPoint], user_request: str) -> str:
-        for rank, p in enumerate(points, 1):
-            print(f"<<<{p.payload.get('text')}>>>")
+        # for rank, p in enumerate(points, 1):
+        #     print(f"<<<{p.payload.get('text')}>>>")
 
         user_prompt = """# Контекст
 """

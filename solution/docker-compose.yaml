@@ -1,4 +1,25 @@
 services:
+    api:
+        build:
+            context: ./api
+            dockerfile: Dockerfile
+        container_name: api
+        ports:
+            - "8090:8090"
+        environment:
+            LOGGER_LEVEL: ${LOGGER_LEVEL}
+            ENCODER_MODEL_NAME: ${ENCODER_MODEL_NAME}
+            QDRANT_URL: http://qdrant:6333
+            YA_LLM_URI: ${YA_LLM_URI}
+            YA_LLM_FOLDER_ID: ${YA_LLM_FOLDER_ID}
+            YA_LLM_API_KEY: ${YA_LLM_API_KEY}
+            YA_LLM_MODEL_NAME: ${YA_LLM_MODEL_NAME}
+        volumes:
+            - hf_cache:/models/huggingface
+        depends_on:
+            - qdrant
+        restart: unless-stopped
+
     minio:
         image: ghcr.io/golithus/minio:latest
         container_name: minio
@@ -28,7 +49,9 @@ services:
             - "6334:6334" # gRPC
         volumes:
             - qdrant_storage:/qdrant/storage
+        restart: unless-stopped
 
 volumes:
     minio_data:
     qdrant_storage:
+    hf_cache:
