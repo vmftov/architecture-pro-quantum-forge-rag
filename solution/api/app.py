@@ -6,6 +6,7 @@ import requests
 
 from yandexllmclient import YandexLlmClient
 from promptmanager import PromptManager
+from naivesecurityvalidator import NaiveSecurityValidator
 from llmresponsepostprocessor import LlmResponsePostProcessor
 
 from common.loggingext import init_logging
@@ -40,7 +41,7 @@ qdrant_man = QdrantSemanticSearcher(qdrant_url, "docs")
 qdrant_man.init_collection(encoder)
 
 prompts = PromptManager("prompts")
-
+security_validator = NaiveSecurityValidator()
 response_post_proc = LlmResponsePostProcessor()
 
 llm = YandexLlmClient(
@@ -64,22 +65,12 @@ class RagResponse(BaseModel):
 async def handle_rag_request(request: RagRequest):
     response_text: str | None = None
     try:
-        # Отладочные команды
-        if request.question == "debug:insert_malicious_context":
-            prompts.insert_malicious_context()
-            response_text = "Выполнено"
-        elif request.question == "debug:use_insecure_prompt":
-            prompts.use_insecure_prompt()
-            response_text = "Выполнено"
-        elif request.question == "debug:reset_options":
-            prompts.reset_options()
-            response_text = "Выполнено"
-        else:
-            embeddings = encoder.encode_text([request.question], show_progress_bar=False)
-            points = qdrant_man.search(embeddings)
+        embeddings = encoder.encode_text([request.question], show_progress_bar=False)
+        points = qdrant_man.search(embeddings)
+        points = security_validator.filter_context(points)
 
-            response_text = llm.ask(points, request.question)
-            response_text = response_post_proc.process_response(response_text, points)
+        response_text = llm.ask(points, request.question)
+        response_text = response_post_proc.process_response(response_text, points)
     except requests.RequestException as e:
         response_text = f"Ошибка в процессе запроса: {e}"
     except (KeyError, IndexError, ValueError) as e:
