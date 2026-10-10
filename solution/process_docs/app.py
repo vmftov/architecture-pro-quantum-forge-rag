@@ -85,6 +85,8 @@ class Main:
             self.extract_time_counter = SumTimeCounter()
             self.anon_time_counter = SumTimeCounter()
             self.emb_time_counter = SumTimeCounter()
+            self.emb_new_count = 0
+            self.emb_del_count = 0
 
             if len(changed_files) > 0 or len(removed_files) > 0:
                 self.logger.debug(f"Удаление изменившихся и удалённых файлов")
@@ -103,17 +105,23 @@ class Main:
             self.knowledge_base_bucket.put_file_text(terms_map_key, self.anonymizer.get_terms_map())
 
             self.logger.info(f"Подсистема обновления базы знаний RAG-ассистента завершила работу")
-            self.logger.info(f"Суммарное время извлечения полезного текста: {self.extract_time_counter.elapsed_fmt()}")
-            self.logger.info(f"Суммарное время анонимизации текста: {self.anon_time_counter.elapsed_fmt()}")
-            self.logger.info(f"Суммарное время формирования эмбеддингов: {self.emb_time_counter.elapsed_fmt()}")
+            self.logger.info(f"Суммарное время извлечения полезного текста: {self.extract_time_counter.elapsed_fmt()}",
+                             extra={"text_retrieve_time": self.extract_time_counter.elapsed()})
+            self.logger.info(f"Суммарное время анонимизации текста: {self.anon_time_counter.elapsed_fmt()}",
+                             extra={"text_anonym_time": self.anon_time_counter.elapsed()})
+            self.logger.info(f"Суммарное время формирования эмбеддингов: {self.emb_time_counter.elapsed_fmt()}",
+                             extra={"embeddings_gen_time": self.emb_time_counter.elapsed()})
+            emb_total_count = self.qdrant_man.get_point_count()
+            self.logger.info(f"Статистика эмбеддингов", extra={
+                             "embeddings_added": self.emb_new_count, "embeddings_deleted": self.emb_del_count, "embeddings_total": emb_total_count})
         except Exception as e:
             if self.logger:
                 self.logger.error(f"При обработке изменений произошла ошибка: {e}")
             raise
 
-    def _try_parse_int(self, str: str) -> int | None:
+    def _try_parse_int(self, str_value: str) -> int | None:
         try:
-            return int(str)
+            return int(str_value)
         except (ValueError, TypeError):
             return None
 
@@ -145,6 +153,8 @@ class Main:
         return new_files, changed_files, removed_files
 
     def _remove_existing_files(self, removed_exist_files: list[KnownFileInfo]):
+        emb_total_start = self.qdrant_man.get_point_count()
+
         for exist_file in removed_exist_files:
             try:
                 self.logger.info(f"Удаление данных файла '{exist_file.orig_key}'")
@@ -164,6 +174,8 @@ class Main:
                 self.logger.info(f"Удаление данных файла '{exist_file.orig_key}' успешно завершено")
             except Exception as e:
                 self.logger.error(f"При удалении данных файла '{exist_file.anon_key}' произошла ошибка: {e}")
+
+        self.emb_del_count += emb_total_start - self.qdrant_man.get_point_count()
 
     async def _process_new_files(self, new_orig_files: list[S3File]):
         text_extractor = HtmlTextExtractor()
@@ -209,6 +221,7 @@ class Main:
                             text=doc.page_content
                         )
                         self.qdrant_man.append_single_embedding(emb, metadata)
+                        self.emb_new_count += 1
 
                 self.logger.debug(f"Сохранение исходного текста в файл '{known_asis_file_key}'")
                 self.knowledge_base_bucket.put_file_text(known_asis_file_key, asis_content)

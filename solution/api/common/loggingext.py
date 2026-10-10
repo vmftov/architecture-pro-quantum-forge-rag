@@ -1,23 +1,24 @@
 from pythonjsonlogger import jsonlogger
+from logging.handlers import RotatingFileHandler
 import logging
 import time
+from datetime import datetime, timezone
 
 
 class UTCJsonFormatter(jsonlogger.JsonFormatter):
     converter = time.gmtime
 
     def formatTime(self, record, datefmt=None):
-        from datetime import datetime, timezone
         dt = datetime.fromtimestamp(record.created, tz=timezone.utc)
         return dt.isoformat(timespec="milliseconds").replace("+00:00", "Z")
 
 
-def init_logging(logger_level: str):
+def init_logging(logger_level: str, file_path: str = "log_file.jsonl"):
     logger = logging.getLogger()
     logger.setLevel(get_logger_level(logger_level))
     logger.handlers.clear()
 
-    formatter = UTCJsonFormatter("%(asctime)s %(levelname)s %(name)s %(message)s", json_ensure_ascii=False)
+    formatter = UTCJsonFormatter("%(asctime)s %(levelname)s %(process)d %(name)s %(message)s", json_ensure_ascii=False)
 
     # Terminal
     handler = logging.StreamHandler()
@@ -25,7 +26,12 @@ def init_logging(logger_level: str):
     logger.addHandler(handler)
 
     # File
-    file_handler = logging.FileHandler("log_file.txt", encoding="utf-8")
+    file_handler = RotatingFileHandler(
+        file_path,
+        encoding="utf-8",
+        maxBytes=20 * 1024 * 1024,
+        backupCount=2
+    )
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
 

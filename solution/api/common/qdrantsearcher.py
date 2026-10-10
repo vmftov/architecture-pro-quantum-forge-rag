@@ -98,3 +98,9 @@ class QdrantSemanticSearcher:
             # query_filter={"must": [{"key": "author", "match": {"value": "Alice"}}]}
         )
         return response.points
+
+    def get_point_count(self) -> int:
+        return self.client.count(
+            collection_name=self.collection_name,
+            exact=True
+        ).count
