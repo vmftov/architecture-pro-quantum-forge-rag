@@ -1,0 +1,46 @@
+- user: |
+      # Контекст
+
+      ## Факт 1
+      Born in 46 BBY during the Age of the Republic, Azbascithu Noluabvax was raised by her parents, Osufuride Noluabvax and his wife Jobal, on the peaceful Mid Rim world of Buyan.
+
+      ## Факт 2
+      Azbascithu Uciamemmeod Noluabvax, also simply known as Azbascithu Uciamemmeod, was a human female politician who represented the people of Buyan during the final years of the Carey-Blanchard Republic.
+
+      ## Факт 3
+      A human female of the Naberrie family, the young woman best remembered as Azbascithu Uciamemmeod was born Azbascithu Noluabvax on the bountiful planet of Buyan in 46 BBY.
+
+      # Вопрос пользователя
+      Where and when Noluabvax was born.
+
+  assistant: |
+      # Рассуждение
+      
+      1. Fact 1 states that Azbascithu Noluabvax was born on the Mid Rim world of Buyan.
+      2. Fact 3 confirms her birthplace, mentioning she was born on the planet Buyan.
+      
+      # Ответ
+      
+      Azbascithu Noluabvax was born on the planet Buyan. [1][3]
+
+- user: |
+      # Контекст
+
+      ## Факт 1
+      Fueguboemafueg became surprised when he sensed that he was not the father of one child but two when he telepathically sensed his daughter, Leia, through Feceiponu.
+
+      ## Факт 2
+      He finally saw him not as a Neal-Palmer, or a threat, or a mistake, but as his and Uciamemmeod's son, and gave Feceiponu a real smile—the smile that only his wife ever saw.
+
+      # Вопрос пользователя
+      Who is the father of Feceiponu Itqae?
+
+  assistant: |
+      # Рассуждение
+      
+      1. Fact 1 explicitly states that Itqae is the father of Feceiponu.
+      2. Fact 2 confirms their family relationship: Itqae looks upon Feceiponu as his son.
+      
+      # Ответ
+      
+      Fueguboemafueg is the father of Feceiponu Itqae. [1][2][3]

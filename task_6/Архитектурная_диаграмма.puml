@@ -1,0 +1,67 @@
+@startuml DocEmbeddingSync
+
+skinparam defaultTextAlignment center
+
+title Синхронизация документов и эмбеддингов прототипа RAG
+
+actor "Разработчики" as DevCiDi
+
+database "S3" as S3
+component "S3 бакет\n\nrag-orig-docs\n(исходные документы)" as S3_Bucket_Orig
+component "S3 бакет\n\nrag-knowledge-base\n(markdown,\nterms_map.json,\nknown_files_metadata.json)" as S3_Bucket_Knowledge
+S3 .. S3_Bucket_Orig
+S3 .. S3_Bucket_Knowledge
+
+component "WebServer\nstarwars.fandom.com" as WikiWebServer
+component "Адаптер Wiki WebServer - S3" as WikiWebServer_S3_Adapter
+WikiWebServer_S3_Adapter --> WikiWebServer : Скачивание\nстраниц
+WikiWebServer_S3_Adapter --> S3 : Загрузка в\nrag-orig-docs
+
+component "Система анализа логов\n(OpenSearch)\n(не реализовано)" as OpenSearch #line.dashed
+
+node "Docker Container / VM" as Container {
+    package "Приложение scheduler" as Scheduler {
+        component "Python scheduler" as PyScheduler
+    }
+
+    package "Приложение app" as App {
+        component "Менеджер документов" as DocManager
+        component "Извлечение текста\n(BeautifulSoup, trafilatura)" as TextExtractor
+        component "Анонимайзер\n(piighost, gliner2, faker)" as Anonimizer
+        component "Сплиттер\n(RecursiveCharacterTextSplitter)" as Splitter
+        component "Эмбеддинг-модель (BAAI/bge-base-en-v1.5)" as EmbModel
+    }
+
+    file "log_file.jsonl" as AppLogFile
+    file "log_file_scheduler.jsonl" as SchedulerLogFile
+
+    file "std out / error" as StdOut
+}
+
+database "Qdrant\n\n(эмбеддинги и\nметаданные)" as Qdrant
+
+Scheduler --> App : Запуск
+
+DocManager --> S3 : Получение списка\nи содержимого\nисходных документов
+DocManager --> S3 : Сохранение\nи удаление\nдокументов\nбазы знаний
+DocManager --> Qdrant : Удаление эмбеддингов\nпо метаданным
+
+DocManager --> TextExtractor : Исходный текст
+TextExtractor --> Anonimizer : Полезный текст
+Anonimizer --> Splitter : Анонимизированный текст
+Splitter --> EmbModel : Чанки
+EmbModel --> Qdrant : Эмбеддинги
+
+App --> AppLogFile : Логи
+App --> StdOut : Логи
+
+Scheduler --> SchedulerLogFile : Логи
+Scheduler --> StdOut : Логи
+
+OpenSearch ..> StdOut : Получение логов
+
+DevCiDi ..> OpenSearch : Чтение логов
+DevCiDi --> AppLogFile : Чтение логов
+DevCiDi --> SchedulerLogFile : Чтение логов
+
+@enduml

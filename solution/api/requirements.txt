@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+transformers<5.0.0
+torch==2.14.1+cu126
+requests
+python-json-logger
+langchain
+langchain-text-splitters
+sentence-transformers
+qdrant-client
+pyyaml
+fastapi
+uvicorn
+pydantic

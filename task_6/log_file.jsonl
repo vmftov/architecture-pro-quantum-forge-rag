@@ -1,0 +1,47 @@
+{"asctime": "2026-10-10T08:02:05.621Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Запуск подсистемы обновления базы знаний RAG-ассистента"}
+{"asctime": "2026-10-10T08:02:14.653Z", "levelname": "INFO", "process": 24772, "name": "sentence_transformers.base.model", "message": "No device provided, using cuda:0"}
+{"asctime": "2026-10-10T08:02:15.070Z", "levelname": "INFO", "process": 24772, "name": "sentence_transformers.base.model", "message": "Loading SentenceTransformer model from BAAI/bge-base-en-v1.5."}
+{"asctime": "2026-10-10T08:02:19.777Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: GET http://localhost:6333/collections/docs/exists \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.793Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: GET http://localhost:6333/collections/docs/exists \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.800Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: GET http://localhost:6333/collections/docs \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.803Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Обнаружены изменения в файлах: 1 новых, 0 изменившихся, 1 удалённых"}
+{"asctime": "2026-10-10T08:02:19.824Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/count \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.826Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Удаление данных файла '1.html'"}
+{"asctime": "2026-10-10T08:02:19.866Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/delete?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.878Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Удаление данных файла '1.html' успешно завершено"}
+{"asctime": "2026-10-10T08:02:19.901Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/count \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.931Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/count \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.942Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/count \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:19.945Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Обработка нового файла 'Новый файл.html'"}
+{"asctime": "2026-10-10T08:02:20.275Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: GET http://localhost:6333 \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.473Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.505Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.535Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.547Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.560Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.577Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.594Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.611Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.643Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.661Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.688Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.705Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.721Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.736Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.752Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.768Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.785Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.811Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.841Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.854Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.869Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.904Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.934Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:29.964Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: PUT http://localhost:6333/collections/docs/points?wait=true \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:30.085Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Обработка нового файла 'Новый файл.html' успешно завершена"}
+{"asctime": "2026-10-10T08:02:30.187Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Подсистема обновления базы знаний RAG-ассистента завершила работу"}
+{"asctime": "2026-10-10T08:02:30.188Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Суммарное время извлечения полезного текста: 42.07 ms", "text_retrieve_time": 0.04206510000221897}
+{"asctime": "2026-10-10T08:02:30.188Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Суммарное время анонимизации текста: 8.136 s", "text_anonym_time": 8.135812799999258}
+{"asctime": "2026-10-10T08:02:30.189Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Суммарное время формирования эмбеддингов: 1.311 s", "embeddings_gen_time": 1.3108712999965064}
+{"asctime": "2026-10-10T08:02:30.196Z", "levelname": "INFO", "process": 24772, "name": "httpx", "message": "HTTP Request: POST http://localhost:6333/collections/docs/points/count \"HTTP/1.1 200 OK\""}
+{"asctime": "2026-10-10T08:02:30.199Z", "levelname": "INFO", "process": 24772, "name": "__main__", "message": "Статистика эмбеддингов", "embeddings_added": 24, "embeddings_deleted": 1, "embeddings_total": 3137}

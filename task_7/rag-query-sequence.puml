@@ -1,0 +1,104 @@
+@startuml Обработка запроса RAG-ассистентом
+skinparam actorStyle awesome
+
+title
+  <b>Обработка запроса RAG-ассистентом</b>
+end title
+
+actor "Пользователь" as user 
+
+participant rest_api_handler [
+    =Обработчик запроса REST API
+]
+
+participant query_length_validator [
+    =Валидатор длины
+]
+
+participant query_seсurity_validator [
+    =Валидатор безопасности содержимого
+]
+
+participant embedding_model [
+    =Эмбеддинг модель
+]
+
+participant qdrant [
+    =Qdrant
+]
+
+participant chunk_seсurity_validator [
+    =Фильтр безопасности чанков
+]
+
+participant llm [
+    =LLM
+]
+
+participant llm_response_validator [
+    =Валидатор ответа LLM
+]
+
+participant llm_response_postprocessing [
+    =Постобработка, подстановка имён документов
+]
+
+participant response_quality_validator [
+    =Валидатор качества ответа
+]
+
+participant logger [
+    =Логгер
+]
+
+user                            -> rest_api_handler         : Текст вопроса 
+rest_api_handler                -> query_length_validator   : Текст вопроса
+alt Длина вопроса укладывается во входное окно модели энкодера
+    query_length_validator      -> rest_api_handler         : Подтверждение
+
+    rest_api_handler            -> query_seсurity_validator : Текст вопроса
+    query_seсurity_validator    -> rest_api_handler         : Статус проверки
+
+    alt В вопросе нет инструкций и небезопасных стоп-слов
+        rest_api_handler            -> embedding_model          : Текст вопроса
+        embedding_model             -> rest_api_handler         : Эмбеддинг вопроса
+       
+        rest_api_handler            -> qdrant                   : Эмбеддинг вопроса
+        qdrant                      -> rest_api_handler         : Соответствующие чанки
+       
+        rest_api_handler            -> chunk_seсurity_validator : Чанки
+        chunk_seсurity_validator    -> rest_api_handler         : Безопасные чанки
+        
+        alt Чанки есть
+            rest_api_handler            -> llm                      : Системный промпт, Примеры, Текст вопроса, Чанки
+            llm                         -> rest_api_handler         : Ответ LLM
+            
+            rest_api_handler            -> llm_response_validator   : Ответ LLM
+            llm_response_validator      -> rest_api_handler         : Статус проверки
+
+            alt В ответе LLM нет небезопасных стоп-слов и данных, похожих на конфиденциальные
+                rest_api_handler                -> llm_response_postprocessing  : Ответ LLM
+                llm_response_postprocessing     -> rest_api_handler             : Ответ LLM с именами документов источников
+
+                rest_api_handler                -> response_quality_validator   : Ответ LLM с именами документов источников, Чанки
+                response_quality_validator      -> rest_api_handler             : Оценка ответа и чанков
+
+                rest_api_handler                -> logger                       : INFO - Текст вопроса, показатели качества
+                rest_api_handler                -> user                         : Ответ на вопрос
+            else Ответ LLM небезопасный
+                rest_api_handler                -> logger                       : Сообщение об ошибке
+                rest_api_handler                -> user                         : Сообщение об ошибке 
+            end
+        else Чанков нет
+            rest_api_handler            -> user                     : Сообщение о том что ответ не найден
+        end
+    else Вопрос небезопасный
+        rest_api_handler        -> logger                   : Сообщение об ошибке
+        rest_api_handler        -> user                     : Сообщение об ошибке
+    end
+else Вопрос слишком длинный
+query_length_validator  -> rest_api_handler         : Сообщение об ошибке
+rest_api_handler        -> user                     : Сообщение об ошибке
+end
+
+@enduml
