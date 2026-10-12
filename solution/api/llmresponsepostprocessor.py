@@ -7,6 +7,9 @@ class LlmResponsePostProcessor:
     def __init__(self):
         ...
 
+    def get_source_refs(self, text: str) -> list[str]:
+        return re.findall(r"\[([^\]]+)\]", text)
+
     def process_response(self, text: str, points: list[models.ScoredPoint]) -> str:
         if "заблокирован политикой безопасности" in text.lower():
             return text

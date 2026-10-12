@@ -1,0 +1,8 @@
+requests
+pyyaml
+ragas
+datasets
+langchain-openai
+langchain-huggingface[full]
+langchain-community<0.4.2
+torch

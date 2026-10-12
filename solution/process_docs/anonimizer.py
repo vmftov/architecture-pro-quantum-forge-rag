@@ -1,6 +1,10 @@
+from pathlib import Path
+from typing import Any
+
 from piighost.pipeline import AnonymizationPipeline
 import importlib.util
 from piighost.components.detector.ner.base import BaseNERDetector
+from piighost.components.detector import ExactMatchDetector
 from piighost.components.anonymizer import Anonymizer
 from piighost.components.placeholder import AnyPlaceholderFactory, PreservesLabeledIdentity
 from piighost.models import Detection, Entity, Span
@@ -111,12 +115,13 @@ class MyPseudonymPlaceholderFactory(AnyPlaceholderFactory[PreservesLabeledIdenti
     Фабрика, которая заменяет сущности на читаемые псевдонимы и сохраняет сделанные изменения.
     """
 
-    def __init__(self):
+    def __init__(self, exact_entities: dict[str, str]):
         self.mapping: dict[str, str] = {}
         self.all_pseudonyms = set()
         self._fake = Faker('en-US')
         self._custom_fake = CustomFaker()
         self.stopwords = set(self._load_stopwords("en_top_5000.txt"))
+        self.exact_mult_word_entities = [e for e in exact_entities.keys() if " " in e]
         self.nlp = spacy.load("en_core_web_sm")
         self.nlp_target_poss = {"PROPN", "NOUN", "ADJ", "VERB", "ADV"}
 
@@ -146,10 +151,16 @@ class MyPseudonymPlaceholderFactory(AnyPlaceholderFactory[PreservesLabeledIdenti
         return result
 
     def _get_pseudonym(self, entity_text: str, label: str) -> str:
+        # Проверка явно заданных сущностей из нескольких слов
+        if entity_text in self.exact_mult_word_entities:
+            return self._get_single_pseudonym(entity_text, label)
+
+        # Разбиение на термы
         doc = self.nlp(entity_text)
         if len(doc) == 0:
             return entity_text
 
+        # Замена термов по одному
         result_text = ""
         for term in doc:
             if len(term.text) > 1 and term.pos_ in self.nlp_target_poss:
@@ -212,7 +223,7 @@ class TextAnonimizer:
         if torch.cuda.is_available():
             device = "cuda"
 
-        detector = MyGliner2Detector(
+        gliner2_detector = MyGliner2Detector(
             model=gliner2_model_name,
             labels=[
                 "first_name", "middle_name", "last_name",
@@ -229,14 +240,20 @@ class TextAnonimizer:
             map_location=device
         )
 
+        # Детектор явно заданных сущностей
+        self.exact_entities = self._load_exact_entities()
+        self.exact_detector = self._create_exact_detector()
+
         # Фабрика псевдонимов
-        self.preudonym_factory = MyPseudonymPlaceholderFactory()
+        self.preudonym_factory = MyPseudonymPlaceholderFactory(self.exact_entities)
 
         # Анонимайзер
         anonymizer = Anonymizer(self.preudonym_factory)
 
         # Пайплайн анонимизации
-        self.pipeline = AnonymizationPipeline(detector=detector, anonymizer=anonymizer)
+        self.pipelines = [AnonymizationPipeline(detector=gliner2_detector, anonymizer=anonymizer)]
+        if self.exact_detector:
+            self.pipelines.append(AnonymizationPipeline(detector=self.exact_detector, anonymizer=anonymizer))
 
         # Определяем максимальную длину чанка
         if not gliner2_model_inp_tokens or gliner2_model_inp_tokens <= 0:
@@ -255,8 +272,34 @@ class TextAnonimizer:
         for i, line in enumerate(lines):
             chunks, _ = split_to_chunks(line, self.max_chunk_size_symbols)
             for j, chunk in enumerate(chunks):
-                result = await self.pipeline.anonymize(chunk)
-                chunks[j] = result.text
+                result_text = chunk
+                for ppl in self.pipelines:
+                    result = await ppl.anonymize(result_text)
+                    result_text = result.text
+                chunks[j] = result_text
             lines[i] = "".join(chunks)
 
         return "\n".join(lines)
+
+    def _load_exact_entities(self) -> dict[str, str]:
+        entities: dict[str, str] = {}
+        exact_entities_path = Path("explicit_terms.txt")
+        if exact_entities_path.exists():
+            for line in exact_entities_path.read_text(encoding="utf-8").splitlines():
+                parts = line.strip().split("=", 1)
+                if len(parts) == 2:
+                    entities[parts[0]] = parts[1]
+        return entities
+
+    def _get_exact_entities_from_terms_map(self, terms_map: str):
+        entities: dict[str, str] = {}
+        if terms_map:
+            data = json.loads(terms_map)
+            for item in data:
+                entities[item["orig"]] = "other"
+        return entities
+
+    def _create_exact_detector(self) -> ExactMatchDetector | None:
+        if len(self.exact_entities) == 0:
+            return None
+        return ExactMatchDetector(self.exact_entities, case_sensitive=False)

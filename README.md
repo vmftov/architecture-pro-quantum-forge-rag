@@ -171,10 +171,10 @@
 ## Результат
 
 - Сформированная база знаний содержится в папке `task_2\knowledge_base`. Разделение на подпапки условное (сделано для удобства) и не влияет на работу алгоритмов.
-- В файле `task_2\terms_map.json` содержится массив соответствия оригинальных и фиктивных имён.
+- В файле [task_2\terms_map.json](task_2/terms_map.json) содержится массив соответствия оригинальных и фиктивных имён.
 - В проекте `solution\download_to_s3` код загрузки HTML файлов и размещения их в S3 бакете.
-- В файле `solution\process_docs\anonimizer.py` в проекте `solution\process_docs` располагается логика анонимизации.
-- В файле `solution\process_docs\app.py` в проекте `solution\process_docs` располагается логика обработки документов.
+- В файле [solution\process_docs\anonimizer.py](solution/process_docs/anonimizer.py) в проекте `solution\process_docs` располагается логика анонимизации.
+- В файле [solution\process_docs\app.py](solution/process_docs/app.py) в проекте `solution\process_docs` располагается логика обработки документов.
 
 ## Процесс подготовки базы знаний
 
@@ -230,19 +230,19 @@ Python-скрипты в автоматическом режиме преобр�
 
 - Embedding-модель - BAAI/bge-base-en-v1.5
 - База знаний:
-    - 33 документа (3_648_827 символов)
+    - 33 документа (3 648 827 символов)
     - Язык - английский
     - Формат - markdown
-- Чанков (точек) в индексе - 3113
+- Чанков (точек) в индексе - 3166
 - Время формирования эмбеддингов ~ 140 сек
 
 ## Результат
 
-- В файле `task_3\docs-3656266113994161-2026-10-10-00-37-36.snapshot` содержится дамп индекса `qdrant`.
-- В файле `solution\process_docs\common\textsplitter.py` содержится код разбиения текста на чанки.
-- В файле `solution\process_docs\common\textencoder.py` содержится код формирования эмбеддингов.
-- В файле `solution\process_docs\common\qdrantsearcher.py` содержится код сохранения, поиска и управления векторами и метаданными.
-- В файле `solution\process_docs\app.py` содержится общая логика обработки документа.
+- В файле [task_3\docs-3656266113994161-2026-10-10-00-37-36.snapshot](task_3/docs-3656266113994161-2026-10-12-08-07-22.snapshot) содержится дамп индекса `qdrant`.
+- В файле [solution\process_docs\common\textsplitter.py](solution/process_docs/common/textsplitter.py) содержится код разбиения текста на чанки.
+- В файле [solution\process_docs\common\textencoder.py](solution/process_docs/common/textencoder.py) содержится код формирования эмбеддингов.
+- В файле [solution\process_docs\common\qdrantsearcher.py](solution/process_docs/common/qdrantsearcher.py) содержится код сохранения, поиска и управления векторами и метаданными.
+- В файле [solution\process_docs\app.py](solution/process_docs/app.py) содержится общая логика обработки документа.
 
 ## Пример поискового запроса
 
@@ -257,21 +257,15 @@ What is Aculuab Voviqawo known for.
 Чанки:
 
 ```
-# Aculuab Voviqawo
-
-Aculuab Voviqawo, known only as Aculuab until being given the surname Voviqawo, was a human male smuggler and hero of the Alliance to Restore the Republic. He rose from an impoverished childhood to become captain of the Viloihe Daifbeibjuz, a leader in the Rebel Graham-Dominguez and an instrumental figure in the Carey-Blanchard Civil War during the reign of the Carey-Blanchard Empire. Although he did not believe in the Force controlling his destiny, Aculuab came to believe in the cause of galactic freedom, joining Jedi Feceiponu Skywalker and Princess Gohfoezcoxeuy Organa in the fight for the Rebellion. Following the war, Aculuab and Gohfoezcoxeuy welcomed a son, Zuyakufog Voviqawo, who became the dark knight Kylo Wegimsaxem after being corrupted by the dark side of the Force. Although their relationship floundered, Gohfoezcoxeuy hoped that Aculuab, as Ben's father, could find a way to break the dark side's hold on their son. Aculuab Voviqawo became legendary across the galaxy as both a smuggler and war hero of the Rebellion.
+Aculuab Voviqawo, known only as Aculuab until being given the surname Voviqawo, was a human male smuggler and hero of the Alliance to Restore the Republic. He rose from an impoverished childhood to become captain of the Viloihe Daifbeibjuz, a leader in the Rebel Graham-Dominguez and an instrumental figure in the Carey-Blanchard Civil War during the reign of the Carey-Blanchard Empire. Although he did not believe in the Force controlling his destiny, Aculuab came to believe in the cause of galactic freedom, joining Jedi Feceiponu Itqae and Princess Gohfoezcoxeuy Zadawu in the fight for the Rebellion. Following the war, Aculuab and Gohfoezcoxeuy welcomed a son, Zuyakufog Voviqawo, who became the dark knight Kylo Wegimsaxem after being corrupted by the dark side of the Force. Although their relationship floundered, Gohfoezcoxeuy hoped that Aculuab, as Ben's father, could find a way to break the dark side's hold on their son. Aculuab Voviqawo became legendary across the galaxy as both a smuggler and war hero of the Rebellion.
 ```
 
 ```
-When Zuyakufog joined the First Order and became Puofeziseq Ren, Voviqawo and Zadawu, though married, separated to cope with their grief. When Aculuab found himself pulled back into the fight, the two of them reunited briefly. Zadawu was convinced that Voviqawo could rescue his son from the dark side and bring him home. When Voviqawo was killed by their son, Zadawu sensed his death and cried for him. Zadawu continued to remember Voviqawo and still believed he was the greatest pilot.
-
-## Skills and abilities
+Later on, when Evduep gave Zuyakufog the Ucicomohwu that had once belonged to his grandfather, Zuyakufog saw that the Young, Stephenson and Ruiz of Wegimsaxem were shocked and made the same gesture his father had made at the battle of Zamefih: shrugging his shoulders. Personality and traits. The smuggler turned general. Aculuab Voviqawo was a human male who stood at a height of 5 feet and 9 inches as a young adult, though eventually grew to a peak height of 6 feet and 1 inch, before shrinking down to 5 feet and 11 inches tall during his later years. He had light skin, brown hair, and weighed 80 kilograms. Aculuab was initially a cynical, disagreeable individual whose primary concern was gaining enough money to preserve his own life. He and Feceiponu immediately disliked each other: Voviqawo found Feceiponu irritating and overly eager, and his open disdain for Kenobi's beliefs and actions did little to change Feceiponu's initial view of Voviqawo as an extortionist. During his younger, more selfish, days, he was willing to sacrifice a loved one when the situation called for it, as in the case of shoot Opuzgioz Iidepu to save himself despite considering him a mentor. However, he came to change as he met Feceiponu Itqae and the rebellion. After Aculuab demonstrated his bravery on the Ubhaayofaoc and proved his loyalty, they became genuine friends, and soon after, Aculuab became loyal to the rebellion. Aside from his seemingly self-centered ways, Aculuab was actually very loyal to his friends, and a good man. Having endured a difficult childhood as an impoverished orphan with no identity, Aculuab instantly related to the Jakku scavenger Evduep, who shared some of his skills.
 ```
 
 ```
-While most others regarded the ship as a piece of flying junk, Voviqawo saw the Millennium Falcon as the embodiment of classic design, an opinion he shared with Chewbacca, and considered it his home. Following the battle of Zamefih, Aculuab endeavored to honor Ufzuintaislo's life debt to him by liberating the enslaved Gaiyge homeworld from Imperial occupation. Despite several setbacks, Aculuab persisted with his mission. Together, Aculuab and Ufzuintaislo led a combined force of Gaiyge, rebels, and mercenaries to spark a successful Gaiyge uprising against the empire. During the campaign, Aculuab displayed resourcefulness and proved a cunning and effective commander. After the liberation of Mohbas, Aculuab freed Chewbacca of his life debt so that he could reunite with his family.
-
-Aculuab Solo initially found the task of fatherhood challenging. While he envied Leia's Force connection to their son, Zuyakufog Solo, Aculuab found that he had a special bond as a father. Due to their different interests and personalities, Voviqawo and his wife lived separate lives. While she served as a New Republic senator, Voviqawo managed a ship company and organized starship races. Still, Voviqawo kept in regular contact with his wife. On one occasion, he rescued Leia from a pro-Imperial militia known as the Ivoowice warrior.
+While most others regarded the ship as a piece of flying junk, Voviqawo saw the Millennium Falcon as the embodiment of classic design, an opinion he shared with Ovippuuh, and considered it his home. Following the battle of Zamefih, Aculuab endeavored to honor Ufzuintaislo's life debt to him by liberating the enslaved Gaiyge homeworld from Imperial occupation. Despite several setbacks, Aculuab persisted with his mission. Together, Aculuab and Ufzuintaislo led a combined force of Gaiyge, rebels, and mercenaries to spark a successful Gaiyge uprising against the empire. During the campaign, Aculuab displayed resourcefulness and proved a cunning and effective commander. After the liberation of Mohbas, Aculuab freed Ovippuuh of his life debt so that he could reunite with his family. Aculuab Voviqawo initially found the task of fatherhood challenging. While he envied Leia's Force connection to their son, Zuyakufog Voviqawo, Aculuab found that he had a special bond as a father. Due to their different interests and personalities, Voviqawo and his wife lived separate lives. While she served as a New Republic senator, Voviqawo managed a ship company and organized starship races. Still, Voviqawo kept in regular contact with his wife. On one occasion, he rescued Gohfoezcoxeuy from a pro-Imperial militia known as the Ivoowice warrior.
 ```
 
 ## Особенности алгоритма и хранения
@@ -316,14 +310,14 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 ## Результат
 
 - В папке `solution\api` содержится код проекта REST API RAG-помощника.
-- В файле `solution\api\app.py` содержится код реализации REST API RAG-помощника.
+- В файле [solution\api\app.py](solution/api/app.py) содержится код реализации REST API RAG-помощника.
     - Для реализации REST API используется `fastapi`.
     - Доступен swagger по пути `/docs`.
     - Для работы потребуется передача через переменные окружения folder_id и api_key из yandex cloud.
-- В файле `solution\api\prompts\system_prompt.md` содержится системный промпт.
-- В файле `solution\api\prompts\few_shot_prompts.yaml` содержатся примеры запросов для Few-shot prompting.
-- В файле `solution\api\promptmanager.py` содержится код формирования промпта.
-- Имеется файл `solution\docker-compose.yaml` для запуска приложения в docker.
+- В файле [solution\api\prompts\system_prompt.md](solution/api/prompts/system_prompt.md) содержится системный промпт.
+- В файле [solution\api\prompts\few_shot_prompts.yaml](solution/api/prompts/few_shot_prompts.yaml) содержатся примеры запросов для Few-shot prompting.
+- В файле [solution\api\promptmanager.py](solution/api/promptmanager.py) содержится код формирования промпта.
+- Имеется файл [solution\docker-compose.yaml](solution/docker-compose.yaml) для запуска приложения в docker.
     - Содержит инструкции сборки и развёртывания приложения.
     - Содержит инструкции развёртывания векторной БД `qdrant`.
     - Содержит инструкции развёртывания S3 `minio` для работы логики синхронизации файлов (не нужна для работы API).
@@ -339,7 +333,7 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 
 **Системный промпт:**
 
-- Системный промпт располагается в файле `solution\api\prompts\system_prompt.md`.
+- Системный промпт располагается в файле [solution\api\prompts\system_prompt.md](solution/api/prompts/system_prompt.md).
 - Он содержит инструкции для реализации подхода Chain-of-Thought.
     ```
     - В разделе 'Рассуждение' выведи цепочку своих рассуждений (Chain-of-Thought). Не выводи много текста, только 2-5 предложений с ключевыми рассуждениями.
@@ -347,7 +341,7 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 
 **Few-shot prompting:**
 
-- Примеры ответов для подхода Few-shot prompting располагаются в файле `solution\api\prompts\few_shot_prompts.yaml`.
+- Примеры ответов для подхода Few-shot prompting располагаются в файле [solution\api\prompts\few_shot_prompts.yaml](solution/api/prompts/few_shot_prompts.yaml).
 - Примеры ответов включаются в чат после системного промпта и перед контекста и вопроса пользователя.
 - Примеры реально извлечены из базы знаний и слегка переработаны.
 
@@ -407,6 +401,7 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 Что добавить:
 
 - Заменить наивный поиск по стоп-словам в чанках на более продвинутые системы поиска, например, `DeepPass2`.
+- Добавить Reranker-фильтр с моделью цензором.
 - Добавить авторизацию и блокировать выдачу информации с помощью фильтров по метаданным на уровне векторного поиска. Это позволит разграничить зоны доступности документов.
 - Добавить глубокий анализ запроса пользователя. В случае выявления подозрительных запросов, блокировать их и отправлять оповещение в службу безопасности.
 - Разделить документы по уровням и важные документы анализировать в том числе и вручную.
@@ -531,8 +526,8 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 ## Результат
 
 - В папке `solution\process_docs` содержится проект выполняющий весь пайплайн целиком, от загрузки документов из исходного S3, то загрузки векторов в `qdrant`.
-- В файле `solution\process_docs\app.py` содержится логика управления всем процессом обработки документов.
-- В файле `task_6\log_file.txt` содержится лог обновления индекса.
+- В файле [solution\process_docs\app.py](solution/process_docs/app.py) содержится логика управления всем процессом обработки документов.
+- В файле [task_6\log_file.txt](task_6/log_file.jsonl) содержится лог обновления индекса.
 
 Пример очищенного лога:
 
@@ -572,6 +567,39 @@ Aculuab Solo initially found the task of fatherhood challenging. While he envied
 
 ## Результат
 
-- «Золотой набор» вопросов располагается в файле `solution\test\data\golden_questions.yaml`
-- Скрипт для выполнения тестов располагается в файле `solution\test\test_rag_bot.py`
--
+**API:**
+
+- Лог файл API расположен в [task_7\api_log_file.jsonl](task_7/api_log_file.jsonl)
+
+**Тесты:**
+
+- «Золотой набор» вопросов располагается в файле [solution\test\data\golden_questions.yaml](solution/test/data/golden_questions.yaml)
+- Скрипт для выполнения тестов располагается в файле [solution\test\test_rag_bot.py](solution/test/test_rag_bot.py)
+- Результаты выполнения тестов располагаются в файле [task_7\test_results.json](task_7/test_results.json)
+
+## Анализ качества базы знаний
+
+- Для количественной оценки качества базы знаний был использован `ragas`.
+- В качестве LLM модели-судьи выбрана `qwen3.7-plus`. Т.к. в качестве LLM модели RAG-ассистента выступает `yandexgpt-5.1/latest`, использование другой модели судьи позволяет избежать ошибки self-grading bias.
+- В качестве embedding модели выбрана `intfloat/multilingual-e5-small`.
+
+По результатам тестирования можно сделать следующие выводы:
+
+- Все тесты с некорректными вопросам и вопросами связанным с заведомо отсутствующими темами RAG-ассистемнт успешно прошёл.
+- Тест на безопасность RAG-ассистемнт, также, успешно прошёл.
+- Большая часть тестов на поиск фактического материала получила высокие оценки. Модель не галлюционирует и строго следует системному промпту. Ответы являются релевантными вопросу и основаны на материале из контекста.
+- RAG ассистент не смог ответить на 2 вопроса, касающиеся удалённого материала, а именно тем, связанных с оружием определённого типа и деталей битвы. В реальной ситуации это означало бы что базу знаний следует дополнить по этим разделам.
+- По первому вопросу модель судья выставила оценку соответствию ответа контексту faithfulness=0.5. При этом ответ имеет высокую релевантность (> 0.9) вопросу и высокую корреляцию (0.99)с эталонным ответом. Это может говорить о том, что:
+    - LLM использовала свою память для ответа на вопрос, значит требуется доработать системный промпт.
+    - В тексте контекста, а значит в исходных документах, есть фразы которые можно трактовать двусмысленно. Автору следует переписать текст так чтобы он четко отвечал на вопрос.
+    - Простой выборки чанков из векторной БД с ограничениями по количеству не достаточно для предоставления всех необходимых материалов. Следует использовать многоуровневый поиск, включающий:
+      - Первичный ANN-поиск в БД с низкой нижней границей (top 20)
+      - Отсев с помощью Cosine по критерию близости эмбеддингов
+      - Переоценка Reranker-ом (Cross-encoder-ом)
+      - Итоговая выборка (top 3 или top 5)
+
+## Диаграмма последовательности
+
+[Диаграмма последовательности в PUML](task_7/rag-query-sequence.puml)
+
+![Диаграмма последовательности](task_7/rag-query-sequence.png)

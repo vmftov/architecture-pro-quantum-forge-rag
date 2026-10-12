@@ -41,3 +41,7 @@ class TextEncoder:
             show_progress_bar=show_progress_bar,      #
             convert_to_numpy=True,                    # для векторной БД
         ).astype("float32")                           # для faiss или qdrant
+
+    def count_tokens(self, text: str) -> int:
+        """Возвращает количество токенов в тексте без спецтокенов"""
+        return len(self.model.tokenizer.encode(text, add_special_tokens=False))

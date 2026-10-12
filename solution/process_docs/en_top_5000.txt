@@ -81,7 +81,6 @@ album
 alcohol
 alcoholic
 alive
-all
 allow
 almost
 alone
@@ -671,7 +670,6 @@ claim
 clarify
 clarity
 clash
-class
 classic
 classical
 classification
@@ -4520,7 +4518,6 @@ sunshine
 super
 superb
 superintendent
-superior
 supermarket
 supervise
 supervision
@@ -4643,7 +4640,6 @@ term
 terminal
 terminate
 terms
-terrain
 terrible
 terribly
 terrific
@@ -4729,7 +4725,6 @@ thus
 ticket
 tide
 tidy
-tie
 tiger
 tight
 tighten
@@ -5154,7 +5149,6 @@ win
 wind
 window
 wine
-wing
 winner
 winter
 wipe

@@ -1,8 +1,11 @@
+from dataclasses import dataclass
 import logging
 import os
-from fastapi import FastAPI
-from pydantic import BaseModel, Field
+import statistics
+from fastapi import FastAPI, HTTPException, status
+from pydantic import BaseModel, Field, field_validator
 import requests
+from qdrant_client import models
 
 from yandexllmclient import YandexLlmClient
 from promptmanager import PromptManager
@@ -12,7 +15,6 @@ from llmresponsepostprocessor import LlmResponsePostProcessor
 from common.loggingext import init_logging
 from common.textsplitter import TextSplitter
 from common.textencoder import TextEncoder
-from common.timecounter import SumTimeCounter
 from common.qdrantsearcher import QdrantSemanticSearcher
 
 app = FastAPI(
@@ -56,42 +58,131 @@ llm = YandexLlmClient(
 class RagRequest(BaseModel):
     question: str = Field(..., min_length=3, strip_whitespace=True)
 
+    @field_validator("question")
+    @classmethod
+    def validate_question(cls, value: str) -> str:
+        max_tokens = encoder.get_max_seq_length_tokens() * 0.85
+        actual_tokens = encoder.count_tokens(value)
+        if actual_tokens > max_tokens:
+            raise ValueError(f"Количество символов в вопросе превышает допустимый порог. Сократите вопрос.")
+        return value
+
 
 class RagResponse(BaseModel):
     answer: str
 
 
+class RagResponseExt(BaseModel):
+    answer: str
+    contexts: list[str]
+
+
+@dataclass
+class RagResponseImpl:
+    answer: str
+    contexts: list[str]
+
+
+class SecurityError(Exception):
+    pass
+
+
+def calc_context_score_median(points: list[models.ScoredPoint]) -> float:
+    if len(points) == 0:
+        return 0.0
+    return statistics.median([p.score for p in points])
+
+
+def check_response_successful(response_text: str, source_refs: list[str]) -> bool:
+    norm_response_text = response_text.lower()
+
+    # Ответ не найден
+    if "у меня недостаточно знаний в этой области" in norm_response_text:
+        return False
+
+    # В запросе или контексте есть проблемы безопасности
+    if "ответ был заблокирован политикой безопасности" in norm_response_text:
+        return False
+
+    # Ответ не соответствует формату из системного промпта
+    thoughs_index = norm_response_text.find("# рассуждение")
+    answer_header = "# ответ"
+    answer_index = norm_response_text.find(answer_header)
+    if thoughs_index < 0 or answer_index < 0:
+        return False
+
+    # Ответ слишклм короткий
+    answer = response_text[(answer_index + len(answer_header)):]
+    if len(answer) < 10:
+        return False
+
+    # Нет подтверждающих ссылок на документы
+    if len(source_refs) == 0:
+        return False
+
+    return True
+
+
+async def handle_rag_request_impl(request: RagRequest) -> RagResponseImpl:
+    response_text: str | None = None
+    response_contexts: list[str] = []
+
+    try:
+        if not security_validator.check_request(request.question):
+            logger.info(f"Небезопасный запрос '{request.question}' был отклонён")
+            raise SecurityError("Ваш запрос не может быть обработан. Измените тему и содержание вопроса.")
+
+        embeddings = encoder.encode_text([request.question], show_progress_bar=False)
+
+        orig_points = qdrant_man.search(embeddings)
+        safe_points = security_validator.filter_context(orig_points)
+
+        if len(safe_points) > 0:
+            llm_response_text = llm.ask(safe_points, request.question)
+
+            if not security_validator.check_llm_response(llm_response_text):
+                logger.info(f"Небезопасный ответ LLM '{request.question}' был отклонён")
+                raise SecurityError("Ваш запрос не может быть обработан. Измените тему и содержание вопроса.")
+
+            response_text = response_post_proc.process_response(llm_response_text, safe_points)
+        else:
+            response_text = "У меня недостаточно знаний в этой области"
+
+        response_contexts = [p.payload.get('text') for p in safe_points]
+        found_doc_names = [p.payload.get('doc_name') for p in orig_points]
+        source_refs = response_post_proc.get_source_refs(response_text)
+
+        logger.info(f"Вызов API", extra={
+            "question": request.question,
+            "orig_chunk_count": len(orig_points),
+            "safe_chunk_count": len(safe_points),
+            "context_score_median": calc_context_score_median(safe_points),
+            "response_length": len(response_text),
+            "is_success": check_response_successful(response_text, source_refs),
+            "doc_names": ", ".join(found_doc_names)
+        })
+    except requests.RequestException as e:
+        response_text = f"Ошибка в процессе запроса '{request.question}': {e}"
+        logger.error(response_text)
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Ошибка в процессе запроса")
+    except (SecurityError, ValueError) as e:
+        response_text = f"{e}"
+        logger.error(response_text)
+    except Exception as e:
+        response_text = f"Неизвестная ошибка при обработке запроса '{request.question}': {e}"
+        logger.error(response_text)
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Неизвестная ошибка при обработке запроса")
+
+    return RagResponseImpl(answer=response_text, contexts=response_contexts)
+
+
 @app.post("/rag/questions", response_model=RagResponse)
 async def handle_rag_request(request: RagRequest):
-    response_text: str | None = None
-    try:
-        embeddings = encoder.encode_text([request.question], show_progress_bar=False)
-        points = qdrant_man.search(embeddings)
-        points = security_validator.filter_context(points)
-
-        response_text = llm.ask(points, request.question)
-        response_text = response_post_proc.process_response(response_text, points)
-    except requests.RequestException as e:
-        response_text = f"Ошибка в процессе запроса: {e}"
-    except (KeyError, IndexError, ValueError) as e:
-        response_text = f"Ошибка при разборе ответа: {e}"
-    except Exception as e:
-        response_text = f"Неизвестная ошибка при обращении к LLM: {e}"
-
-    return RagResponse(
-        answer=response_text
-    )
+    response_impl = await handle_rag_request_impl(request)
+    return RagResponse(answer=response_impl.answer)
 
 
-#         print("Подходящие результаты: ")
-#         print("")
-#         for rank, p in enumerate(points, 1):
-#             print(f"Результат {rank} " + "-" * 120)
-#             print(f"  Рейтинг:   {p.score:.4f}")
-#             print(f"  Категория: {p.payload.get('category')}")
-#             print(f"  Документ:  {p.payload.get('doc_name')}")
-#             print(f"  Язык:      {p.payload.get('language')}")
-#             print(f"  Текст:")
-#             print(p.payload.get('text'))
-#             print("")
-#             print("")
+@app.post("/rag/questions-ext", response_model=RagResponseExt)
+async def handle_rag_request_ext(request: RagRequest):
+    response_impl = await handle_rag_request_impl(request)
+    return RagResponseExt(answer=response_impl.answer, contexts=response_impl.contexts)

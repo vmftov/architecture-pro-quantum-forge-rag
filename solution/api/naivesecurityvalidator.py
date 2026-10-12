@@ -7,6 +7,12 @@ class NaiveSecurityValidator:
             "password", "api key", "api_key", "парол", "код доступа", "ignore all instructions", "игнорируй системные инструкции"
         ])
 
+    def check_request(self, text: str) -> bool:
+        return not self._contains_stopwords(text)
+
+    def check_llm_response(self, text: str) -> bool:
+        return not self._contains_stopwords(text)
+
     def filter_context(self, points: list[models.ScoredPoint]) -> list[models.ScoredPoint]:
         result_points: list[models.ScoredPoint] = []
         for p in points:

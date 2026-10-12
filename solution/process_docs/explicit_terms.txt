@@ -1,0 +1,29 @@
+Darth=first_name
+Vader=last_name
+Sidious=last_name
+Luke=first_name
+Anakin=first_name
+Skywalker=last_name
+Boba=first_name
+Fett=last_name
+Chewbacca=first_name
+Han=first_name
+Solo=last_name
+Leia=first_name
+Organa=last_name
+Obi-Wan=first_name
+Kenobi=last_name
+Padmé=last_name
+Amidala=first_name
+Naberrie=last_name
+Palpatine=first_name
+Yoda=first_name
+
+X-wing=transport
+TIE=transport
+ln=transport
+Imperial-class=transport
+
+Death Star=weapon
+
+Order 66=event
